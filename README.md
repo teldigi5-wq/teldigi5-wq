@@ -1,197 +1,248 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:0F172A,70:0EA5E9,100:7C3AED&height=210&section=header&text=Poojana%20Kaveesh&fontSize=44&fontColor=FFFFFF&fontAlignY=37&desc=IT%20Undergraduate%20%E2%80%A2%20Aspiring%20AI%20Engineer%20%E2%80%A2%20Builder&descColor=E2E8F0&descAlignY=59&descSize=18" alt="Poojana Kaveesh banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0F172A,52:0369A1,76:6D28D9,100:020617&height=235&section=header&text=POOJANA%20KAVEESH&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=BUILDING%20THE%20FUTURE%20%E2%80%A2%20ONE%20SYSTEM%20AT%20A%20TIME&descAlignY=55&descSize=15&descColor=BAE6FD" alt="Poojana Kaveesh" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1100&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+software+that+solves+real+problems;Exploring+Artificial+Intelligence+%26+intelligent+systems;Creating+IoT%2C+automation+%26+cloud+projects;Learning+%E2%86%92+Building+%E2%86%92+Improving+%E2%86%92+Repeat" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=45&lines=IT+Undergraduate+%40+SLIIT+%E2%9A%A1+Aspiring+AI+Engineer;Building+AI+%E2%80%A2+Software+%E2%80%A2+IoT+%E2%80%A2+Automation;Turning+ideas+into+real%2C+working+systems;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Evolve" alt="Typing intro" />
 
 <br/>
 
-![SLIIT](https://img.shields.io/badge/SLIIT-IT_Undergraduate-0F172A?style=for-the-badge)
-![AI](https://img.shields.io/badge/Aspiring_AI_Engineer-111827?style=for-the-badge&logo=openai&logoColor=38BDF8)
-![Sri Lanka](https://img.shields.io/badge/Sri_Lanka-111827?style=for-the-badge&logo=googlemaps&logoColor=F97316)
-![Profile Views](https://komarev.com/ghpvc/?username=teldigi5-wq&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+[![Profile Views](https://komarev.com/ghpvc/?username=teldigi5-wq&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)](https://github.com/teldigi5-wq)
+[![GitHub](https://img.shields.io/badge/GitHub-teldigi5--wq-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq)
+![SLIIT](https://img.shields.io/badge/SLIIT-BSc_Hons_IT-0F172A?style=for-the-badge)
+![AI Direction](https://img.shields.io/badge/Direction-Artificial_Intelligence-0369A1?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
-## 👋 About Me
+---
 
-I'm **Poojana Kaveesh**, a first-year **BSc (Hons) in Information Technology undergraduate at SLIIT**.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I'm currently building a strong foundation in programming, software engineering, computing, and problem solving while working toward my goal of pursuing the **Artificial Intelligence specialization** later in my degree.
+## 🧬 Identity
 
-I enjoy turning ideas into working systems — from desktop applications and cloud-hosted bots to IoT platforms and experimental AI agents.
-
-```text
-Student today → Engineer in progress → Building for the future.
+```yaml
+name: Poojana Kaveesh
+role: IT Undergraduate
+university: SLIIT
+degree: BSc (Hons) in Information Technology
+year: First Year
+future_direction: Artificial Intelligence
+location: Sri Lanka
+mindset: Build > Memorize
 ```
 
-## ⚡ What I'm Focused On
+I’m currently building the fundamentals of software engineering while pushing beyond coursework through **real projects in AI, desktop software, cloud automation, bots and IoT systems**.
 
-| Area | Current Status |
-|---|---|
-| 🎓 BSc (Hons) Information Technology @ SLIIT | 🟢 Studying |
-| 🧠 Artificial Intelligence & AI Agents | 🟢 Learning & Building |
-| 💻 Software Development | 🟢 Building |
-| 🌐 Web & Mobile Development | 🟢 Exploring |
-| 🌊 IoT & Embedded Systems | 🟢 Building |
-| ☁️ Cloud & Automation | 🟡 Expanding |
-| 🔐 Cybersecurity | 🟡 Learning |
+I’m **not yet specialized in AI** — that is the direction I plan to pursue as I progress through my degree.
 
-## 🚀 Projects
+</td>
+<td width="42%" valign="top">
+
+## ⚡ Mission Control
+
+| System | State |
+|:--|:--:|
+| 🎓 University | `ONLINE` |
+| 🧠 AI Learning | `ACTIVE` |
+| 💻 Software Builds | `ACTIVE` |
+| 🌐 Web / Mobile | `ACTIVE` |
+| 🌊 IoT Systems | `ACTIVE` |
+| ☁️ Cloud / Bots | `ACTIVE` |
+| 🔐 Cybersecurity | `LEARNING` |
+
+**Current objective:** become the kind of engineer who can move from an idea → architecture → working product.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Flagship Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌊 FloodGuard
+**Smart flood monitoring + emergency response ecosystem**
 
-An intelligent flood monitoring and alert ecosystem combining **IoT hardware, real-time water-level monitoring, automated alerts, cloud services, web/mobile interfaces, and smart gate control**.
+An end-to-end system combining embedded hardware, real-time monitoring, automated alerts, cloud connectivity, web/mobile interfaces and intelligent gate control.
 
-`IoT` `Arduino` `ESP8266` `Firebase` `Flutter` `AWS` `Automation`
+`Arduino` `ESP8266` `Firebase` `Flutter` `AWS` `IoT`
+
+[![FloodGuard Bot](https://img.shields.io/badge/OPEN-FloodGuard_WhatsApp_Bot-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)
+
+</td>
+<td width="50%" valign="top">
 
 ### ⚡ AnyDL Pro Ultra
+**Windows desktop media engine**
 
-A real Windows desktop media application built with **Electron**, using `yt-dlp` and `FFmpeg` for media analysis, downloading, processing, and live progress tracking.
+A real Electron desktop application powered by `yt-dlp` and `FFmpeg`, with live analysis, download progress, media processing and native Windows integration.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/teldigi5-wq/anydl-pro-ultra)
+`TypeScript` `Electron` `React` `Node.js` `FFmpeg`
 
-`TypeScript` `Electron` `React` `Node.js` `FFmpeg` `yt-dlp`
+[![AnyDL](https://img.shields.io/badge/OPEN-AnyDL_Pro_Ultra-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq/anydl-pro-ultra)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 Syntra
+**Personal AI agent experiment**
 
-An experimental personal AI-agent project focused on intelligent assistance, development support, learning, research, and automation.
+A long-term personal AI project exploring local models, intelligent assistance, coding support, learning, research and automation.
 
-`AI Agents` `Local AI` `Automation` `Python` `LLMs`
+`AI Agents` `Local LLMs` `Python` `Automation` `RAG`
 
-### 🤖 Cloud Bots & Automation
+**Status:** `IN DEVELOPMENT`
 
-Building and experimenting with WhatsApp, Telegram, and cloud-hosted automation systems.
+</td>
+<td width="50%" valign="top">
 
-[![FloodGuard Bot](https://img.shields.io/badge/FloodGuard_WhatsApp_Bot-181717?style=for-the-badge&logo=github)](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)
+### 🤖 Automation Lab
+**Bots + cloud experiments**
 
-## 🛠️ Technology Orbit
+Experiments with WhatsApp, Telegram, AWS-hosted services, APIs and automated workflows.
+
+`JavaScript` `Python` `AWS` `Node.js` `APIs`
+
+[![AWS Bot](https://img.shields.io/badge/OPEN-WHATSAPPbotAWS-111827?style=for-the-badge&logo=github)](https://github.com/teldigi5-wq/WHATSAPPbotAWS)
+[![Telegram](https://img.shields.io/badge/OPEN-Telegram_APEX-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/teldigi5-wq/TelegramAPEX-repo)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Engineering Stack
 
 <div align="center">
 
-### Languages
+### Core Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,html,css&theme=dark" alt="Core languages" />
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,html,css&theme=dark" alt="Languages" />
+### Apps • Web • Desktop
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,vite,electron&theme=dark" alt="App and web stack" />
 
-### Application & Web Development
+### Cloud • Backend • Tools
+<img src="https://skillicons.dev/icons?i=aws,firebase,git,github,vscode,linux&theme=dark" alt="Cloud and tools" />
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,vite,electron&theme=dark" alt="Application and web development" />
-
-### Cloud, Data & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,firebase,git,github,vscode,linux&theme=dark" alt="Cloud data and tools" />
-
-### Hardware & IoT
-
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
+### Hardware • Embedded
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Hardware and embedded" />
 
 </div>
 
-> These represent technologies I use, learn, or experiment with. I'm still early in my journey and continuously expanding my skills.
+<sub>These are technologies I currently use, learn or actively experiment with — not a claim of mastery in every tool.</sub>
 
-## 🧠 Currently Learning
+---
+
+## 🧠 AI Learning Track
 
 ```text
-Artificial Intelligence
-├── AI fundamentals
-├── AI agents
-├── Machine learning
-├── Local LLMs
-└── Intelligent automation
-
-Software Engineering
-├── Java
-├── Python
-├── JavaScript / TypeScript
-├── Full-stack development
-└── Desktop applications
-
-Systems
-├── IoT
-├── Cloud infrastructure
-├── APIs
-└── Cybersecurity fundamentals
+01  Programming + Problem Solving
+          ↓
+02  Data Structures + Software Engineering
+          ↓
+03  Python for AI + Data
+          ↓
+04  Machine Learning Foundations
+          ↓
+05  Deep Learning + Modern AI
+          ↓
+06  LLMs + Agents + RAG
+          ↓
+07  Production AI Systems
+          ↓
+08  Build Things That Matter
 ```
 
-## 🎓 Education
+### Currently exploring
 
-### Sri Lanka Institute of Information Technology — SLIIT
+`AI fundamentals` • `AI agents` • `local LLMs` • `machine learning` • `automation` • `APIs` • `cloud architecture` • `cybersecurity fundamentals`
 
-**BSc (Hons) in Information Technology**
+---
 
-📚 First-Year Undergraduate  
-🧠 Intended future direction: **Artificial Intelligence specialization**
-
-My current priority is building strong fundamentals before entering a specialization.
-
-## 📈 GitHub Activity
+## 📊 GitHub Telemetry
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=teldigi5-wq&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=38BDF8&icon_color=8B5CF6&text_color=CBD5E1&bg_color=00000000" alt="GitHub statistics" />
-
-<img height="170" src="https://streak-stats.demolab.com/?user=teldigi5-wq&hide_border=true&theme=transparent&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&background=00000000" alt="GitHub contribution streak" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=teldigi5-wq&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1&bg_color=00000000" alt="GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teldigi5-wq&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=CBD5E1&bg_color=00000000" alt="Top languages" />
 
 <br/>
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=teldigi5-wq&bg_color=00000000&color=CBD5E1&line=38BDF8&point=8B5CF6&area=true&hide_border=true" alt="GitHub activity graph" />
+<img height="180" src="https://streak-stats.demolab.com/?user=teldigi5-wq&hide_border=true&theme=transparent&ring=38BDF8&fire=F97316&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8&background=00000000" alt="Contribution streak" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=teldigi5-wq&bg_color=00000000&color=CBD5E1&line=38BDF8&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Signal" alt="Contribution graph" />
 
 </div>
 
-## 🎯 My Roadmap
+---
 
-```text
-Strong Fundamentals
-        ↓
-Software Engineering
-        ↓
-Artificial Intelligence
-        ↓
-Intelligent Systems & Agents
-        ↓
-Real-World Products
-```
+## 🧩 Build Philosophy
 
-My goal isn't simply to collect technologies.
-
-I want to understand **why systems work, how they can be improved, and how technology can solve meaningful problems.**
-
-## 💡 How I Build
+<table>
+<tr>
+<td align="center"><b>01</b><br/>Find the real problem</td>
+<td align="center"><b>02</b><br/>Build the smallest useful version</td>
+<td align="center"><b>03</b><br/>Test it hard</td>
+<td align="center"><b>04</b><br/>Fix what breaks</td>
+<td align="center"><b>05</b><br/>Ship the better version</td>
+</tr>
+</table>
 
 <details>
-<summary><b>My approach</b></summary>
-
+<summary><b>⚙️ How I approach projects</b></summary>
 <br/>
 
-1. 💭 Start with an idea or real problem.
-2. 🔎 Understand what the system actually needs.
-3. 🧱 Build the simplest working version.
-4. 🧪 Test and break it.
-5. 🔧 Fix what doesn't work.
-6. 🚀 Improve the architecture and experience.
-7. 📚 Learn from every iteration.
+- Start with the problem, not the technology.
+- Make the system work before making it fancy.
+- Learn by building real things.
+- Treat errors as engineering feedback.
+- Improve the architecture as the project grows.
+- Keep experimenting beyond coursework.
 
 </details>
 
-## 🤝 Open To
+---
 
-- 🌱 Learning from other developers
-- 🤝 Open-source collaboration
-- 🧠 AI and intelligent-system projects
-- 🌊 IoT projects
-- ⚙️ Automation ideas
-- 💻 Student developer collaborations
+## 🎓 Education
 
-## ⚡ A Principle I Work By
+**Sri Lanka Institute of Information Technology — SLIIT**  
+**BSc (Hons) in Information Technology**  
+`First-Year Undergraduate` • `Future Direction: Artificial Intelligence`
 
-> **Don't just learn technology. Build something with it.**
+> My current priority is mastering the foundations before entering a specialization.
+
+---
+
+## 🤝 Open to Building With
 
 <div align="center">
 
-### Learn • Build • Break • Fix • Improve • Repeat
+![AI](https://img.shields.io/badge/AI_PROJECTS-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8)
+![IoT](https://img.shields.io/badge/IoT_SYSTEMS-0F172A?style=for-the-badge&logo=arduino&logoColor=22D3EE)
+![Automation](https://img.shields.io/badge/AUTOMATION-0F172A?style=for-the-badge&logo=githubactions&logoColor=A78BFA)
+![Open Source](https://img.shields.io/badge/OPEN_SOURCE-0F172A?style=for-the-badge&logo=github&logoColor=white)
+![Students](https://img.shields.io/badge/STUDENT_COLLABS-0F172A?style=for-the-badge&logo=codeberg&logoColor=F97316)
 
-<br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:0EA5E9,100:050816&height=110&section=footer" alt="Footer" />
+---
+
+<div align="center">
+
+### ⚡ BUILD • TEST • BREAK • FIX • EVOLVE
+
+> **“Don't just learn technology. Build something with it.”**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:6D28D9,68:0369A1,100:020617&height=120&section=footer" alt="Footer" />
 
 </div>
