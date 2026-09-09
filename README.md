@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0F172A,52:0369A1,76:6D28D9,100:020617&height=235&section=header&text=POOJANA%20KAVEESH&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=BUILDING%20THE%20FUTURE%20%E2%80%A2%20ONE%20SYSTEM%20AT%20A%20TIME&descAlignY=55&descSize=15&descColor=BAE6FD" alt="Poojana Kaveesh" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0F172A,50:0369A1,78:6D28D9,100:020617&height=240&section=header&text=POOJANA%20KAVEESH&fontSize=50&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=BUILDING%20INTELLIGENT%20SYSTEMS%20%E2%80%A2%20ONE%20PROJECT%20AT%20A%20TIME&descAlignY=55&descSize=15&descColor=BAE6FD" alt="Poojana Kaveesh" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=45&lines=IT+Undergraduate+%40+SLIIT+%E2%9A%A1+Aspiring+AI+Engineer;Building+AI+%E2%80%A2+Software+%E2%80%A2+IoT+%E2%80%A2+Automation;Turning+ideas+into+real%2C+working+systems;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Evolve" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=920&height=48&lines=IT+Undergraduate+%40+SLIIT+%E2%9A%A1+Aspiring+AI+Engineer;Building+AI+%E2%80%A2+Software+%E2%80%A2+IoT+%E2%80%A2+Automation;From+idea+%E2%86%92+architecture+%E2%86%92+working+product;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Evolve" alt="Typing intro" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=teldigi5-wq&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)](https://github.com/teldigi5-wq)
 [![GitHub](https://img.shields.io/badge/GitHub-teldigi5--wq-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq)
 ![SLIIT](https://img.shields.io/badge/SLIIT-BSc_Hons_IT-0F172A?style=for-the-badge)
-![AI Direction](https://img.shields.io/badge/Direction-Artificial_Intelligence-0369A1?style=for-the-badge&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/Future_Direction-Artificial_Intelligence-0369A1?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -17,38 +17,38 @@
 
 <table>
 <tr>
-<td width="34%" align="center" valign="top">
+<td width="32%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/profile-photo.jpg?v=2" alt="Poojana Kaveesh" width="250" />
+<img src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/profpic.png" alt="Poojana Kaveesh" width="255" />
 
 ### Poojana Kaveesh
 
 `IT Undergraduate`  
-`Aspiring AI Engineer`
+`Aspiring AI Engineer`  
+`Builder`  
 
 **Sri Lanka 🇱🇰**
 
 </td>
-<td width="66%" valign="top">
+<td width="68%" valign="top">
 
-## 🧬 Identity
+## 🧬 About Me
 
 ```yaml
 name: Poojana Kaveesh
-role: IT Undergraduate
 university: SLIIT
 degree: BSc (Hons) in Information Technology
 year: First Year
 future_direction: Artificial Intelligence
-location: Sri Lanka
-mindset: Build > Memorize
+focus: Software • AI • IoT • Automation
+mindset: Learn by building
 ```
 
-I’m building strong software-engineering foundations while pushing beyond coursework through **real projects in AI, desktop software, cloud automation, bots and IoT systems**.
+I'm a first-year IT undergraduate at **SLIIT**, building strong foundations in software engineering while pushing beyond coursework through real systems, experiments and products.
 
-I’m **not yet specialized in AI** — that is the direction I plan to pursue as I progress through my degree.
+My long-term direction is **Artificial Intelligence**, but right now I'm focused on mastering the fundamentals that make strong engineers: programming, systems thinking, debugging, architecture and shipping working software.
 
-> **Current objective:** become the kind of engineer who can move from an idea → architecture → working product.
+> **Current objective:** become the kind of engineer who can turn an idea into a reliable, useful product.
 
 </td>
 </tr>
@@ -56,46 +56,45 @@ I’m **not yet specialized in AI** — that is the direction I plan to pursue a
 
 ---
 
-## ⚡ Mission Control
+## ⚡ Current Mission
 
 <div align="center">
 
-| System | State | Focus |
+| Track | Status | What I'm doing |
 |:--|:--:|:--|
-| 🎓 University | `ONLINE` | Core IT foundations |
-| 🧠 AI Learning | `ACTIVE` | ML, LLMs, agents |
-| 💻 Software Builds | `ACTIVE` | Desktop + full-stack |
-| 🌐 Web / Mobile | `ACTIVE` | React + Flutter |
-| 🌊 IoT Systems | `ACTIVE` | Arduino + ESP |
-| ☁️ Cloud / Bots | `ACTIVE` | AWS + Firebase + automation |
-| 🔐 Cybersecurity | `LEARNING` | Fundamentals + labs |
+| 🎓 IT Degree | `ACTIVE` | Building core CS & software foundations |
+| 🧠 AI / ML | `BUILDING` | Learning ML, LLMs, agents & intelligent systems |
+| 💻 Software Engineering | `ACTIVE` | Desktop, web, backend & automation projects |
+| 🌊 IoT | `ACTIVE` | Arduino, ESP devices & sensor systems |
+| ☁️ Cloud | `ACTIVE` | AWS, Firebase & hosted services |
+| 🔐 Cybersecurity | `LEARNING` | Security fundamentals & practical labs |
 
 </div>
 
 ---
 
-## 🚀 Flagship Builds
+## 🚀 Flagship Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🌊 FloodGuard
-**Smart flood monitoring + emergency response ecosystem**
+**Smart Flood Monitoring & Emergency Response Ecosystem**
 
-An end-to-end system combining embedded hardware, real-time monitoring, automated alerts, cloud connectivity, web/mobile interfaces and intelligent gate control.
+An end-to-end IoT system combining real-time water-level monitoring, automated alerts, cloud connectivity, web/mobile interfaces and smart gate control.
 
 `Arduino` `ESP8266` `Firebase` `Flutter` `AWS` `IoT`
 
-[![FloodGuard Bot](https://img.shields.io/badge/OPEN-FloodGuard_WhatsApp_Bot-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)
+[![FloodGuard](https://img.shields.io/badge/OPEN-FloodGuard_Bot-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ AnyDL Pro Ultra
-**Windows desktop media engine**
+**Windows Desktop Media Engine**
 
-A real Electron desktop application powered by `yt-dlp` and `FFmpeg`, with live analysis, download progress, media processing and native Windows integration.
+A real Electron desktop application using `yt-dlp` and `FFmpeg` for media analysis, downloading, processing, live progress and Windows-native integration.
 
 `TypeScript` `Electron` `React` `Node.js` `FFmpeg`
 
@@ -107,9 +106,9 @@ A real Electron desktop application powered by `yt-dlp` and `FFmpeg`, with live 
 <td width="50%" valign="top">
 
 ### 🧠 Syntra
-**Personal AI agent experiment**
+**Personal AI Agent Platform**
 
-A long-term personal AI project exploring local models, intelligent assistance, coding support, learning, research and automation.
+A long-term AI assistant project exploring local models, intelligent assistance, coding support, research, tutoring and automation.
 
 `AI Agents` `Local LLMs` `Python` `Automation` `RAG`
 
@@ -119,9 +118,9 @@ A long-term personal AI project exploring local models, intelligent assistance, 
 <td width="50%" valign="top">
 
 ### 🤖 Automation Lab
-**Bots + cloud experiments**
+**Bots, APIs & Cloud Experiments**
 
-Experiments with WhatsApp, Telegram, AWS-hosted services, APIs and automated workflows.
+A collection of automation projects using WhatsApp, Telegram, Node.js, Python, APIs and AWS-hosted services.
 
 `JavaScript` `Python` `AWS` `Node.js` `APIs`
 
@@ -138,17 +137,17 @@ Experiments with WhatsApp, Telegram, AWS-hosted services, APIs and automated wor
 
 <div align="center">
 
-### Core Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,html,css&theme=dark" alt="Core languages" />
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,html,css&theme=dark" alt="Languages" />
 
-### Apps • Web • Desktop
-<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,vite,electron&theme=dark" alt="App and web stack" />
+### Web • Mobile • Desktop
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,vite,electron&theme=dark" alt="Application stack" />
 
-### Cloud • Backend • Tools
+### Cloud • Tools • Platforms
 <img src="https://skillicons.dev/icons?i=aws,firebase,git,github,vscode,linux&theme=dark" alt="Cloud and tools" />
 
-### Hardware • Embedded
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Hardware and embedded" />
+### IoT • Embedded
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Embedded systems" />
 
 </div>
 
@@ -156,16 +155,16 @@ Experiments with WhatsApp, Telegram, AWS-hosted services, APIs and automated wor
 
 ---
 
-## 🧠 AI Learning Track
+## 🧠 Road to AI Engineering
 
 ```text
 01  Programming + Problem Solving
           ↓
 02  Data Structures + Software Engineering
           ↓
-03  Python for AI + Data
+03  Python + Data Foundations
           ↓
-04  Machine Learning Foundations
+04  Machine Learning
           ↓
 05  Deep Learning + Modern AI
           ↓
@@ -173,12 +172,12 @@ Experiments with WhatsApp, Telegram, AWS-hosted services, APIs and automated wor
           ↓
 07  Production AI Systems
           ↓
-08  Build Things That Matter
+08  Build Products That Matter
 ```
 
-### Currently exploring
+### Currently Exploring
 
-`AI fundamentals` • `AI agents` • `local LLMs` • `machine learning` • `automation` • `APIs` • `cloud architecture` • `cybersecurity fundamentals`
+`AI fundamentals` • `machine learning` • `AI agents` • `local LLMs` • `automation` • `APIs` • `cloud architecture` • `cybersecurity fundamentals`
 
 ---
 
@@ -201,28 +200,28 @@ Experiments with WhatsApp, Telegram, AWS-hosted services, APIs and automated wor
 
 ---
 
-## 🧩 Build Philosophy
+## 🧩 How I Build
 
 <table>
 <tr>
-<td align="center"><b>01</b><br/>Find the real problem</td>
-<td align="center"><b>02</b><br/>Build the smallest useful version</td>
-<td align="center"><b>03</b><br/>Test it hard</td>
-<td align="center"><b>04</b><br/>Fix what breaks</td>
-<td align="center"><b>05</b><br/>Ship the better version</td>
+<td align="center"><b>01</b><br/>Understand the problem</td>
+<td align="center"><b>02</b><br/>Design the system</td>
+<td align="center"><b>03</b><br/>Build the MVP</td>
+<td align="center"><b>04</b><br/>Break & debug it</td>
+<td align="center"><b>05</b><br/>Improve & ship</td>
 </tr>
 </table>
 
 <details>
-<summary><b>⚙️ How I approach projects</b></summary>
+<summary><b>⚙️ Engineering principles I try to follow</b></summary>
 <br/>
 
-- Start with the problem, not the technology.
-- Make the system work before making it fancy.
-- Learn by building real things.
-- Treat errors as engineering feedback.
-- Improve the architecture as the project grows.
-- Keep experimenting beyond coursework.
+- Start with the real problem, not the trend.
+- Make it work before making it impressive.
+- Learn by building systems, not only tutorials.
+- Treat bugs as engineering feedback.
+- Keep the architecture understandable.
+- Improve every version instead of chasing perfection first.
 
 </details>
 
@@ -232,21 +231,21 @@ Experiments with WhatsApp, Telegram, AWS-hosted services, APIs and automated wor
 
 **Sri Lanka Institute of Information Technology — SLIIT**  
 **BSc (Hons) in Information Technology**  
-`First-Year Undergraduate` • `Future Direction: Artificial Intelligence`
+`First-Year Undergraduate` • `Planned Direction: Artificial Intelligence`
 
-> My current priority is mastering the foundations before entering a specialization.
+> Building the fundamentals first. Specialization comes later.
 
 ---
 
-## 🤝 Open to Building With
+## 🤝 Open To
 
 <div align="center">
 
 ![AI](https://img.shields.io/badge/AI_PROJECTS-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8)
+![Software](https://img.shields.io/badge/SOFTWARE_BUILDS-0F172A?style=for-the-badge&logo=github&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT_SYSTEMS-0F172A?style=for-the-badge&logo=arduino&logoColor=22D3EE)
 ![Automation](https://img.shields.io/badge/AUTOMATION-0F172A?style=for-the-badge&logo=githubactions&logoColor=A78BFA)
-![Open Source](https://img.shields.io/badge/OPEN_SOURCE-0F172A?style=for-the-badge&logo=github&logoColor=white)
-![Students](https://img.shields.io/badge/STUDENT_COLLABS-0F172A?style=for-the-badge&logo=codeberg&logoColor=F97316)
+![Open Source](https://img.shields.io/badge/OPEN_SOURCE-0F172A?style=for-the-badge&logo=codeberg&logoColor=F97316)
 
 </div>
 
@@ -254,10 +253,10 @@ Experiments with WhatsApp, Telegram, AWS-hosted services, APIs and automated wor
 
 <div align="center">
 
-### ⚡ BUILD • TEST • BREAK • FIX • EVOLVE
+### ⚡ LEARN • BUILD • BREAK • FIX • EVOLVE
 
 > **“Don't just learn technology. Build something with it.”**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:6D28D9,68:0369A1,100:020617&height=120&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:6D28D9,68:0369A1,100:020617&height=125&section=footer" alt="Footer" />
 
 </div>
