@@ -17,7 +17,19 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="34%" align="center" valign="top">
+
+<img src="./assets/profile-photo.jpg" alt="Poojana Kaveesh" width="260" />
+
+### Poojana Kaveesh
+
+`IT Undergraduate`  
+`Aspiring AI Engineer`
+
+**Sri Lanka 🇱🇰**
+
+</td>
+<td width="66%" valign="top">
 
 ## 🧬 Identity
 
@@ -32,30 +44,33 @@ location: Sri Lanka
 mindset: Build > Memorize
 ```
 
-I’m currently building the fundamentals of software engineering while pushing beyond coursework through **real projects in AI, desktop software, cloud automation, bots and IoT systems**.
+I’m building strong software-engineering foundations while pushing beyond coursework through **real projects in AI, desktop software, cloud automation, bots and IoT systems**.
 
 I’m **not yet specialized in AI** — that is the direction I plan to pursue as I progress through my degree.
 
-</td>
-<td width="42%" valign="top">
-
-## ⚡ Mission Control
-
-| System | State |
-|:--|:--:|
-| 🎓 University | `ONLINE` |
-| 🧠 AI Learning | `ACTIVE` |
-| 💻 Software Builds | `ACTIVE` |
-| 🌐 Web / Mobile | `ACTIVE` |
-| 🌊 IoT Systems | `ACTIVE` |
-| ☁️ Cloud / Bots | `ACTIVE` |
-| 🔐 Cybersecurity | `LEARNING` |
-
-**Current objective:** become the kind of engineer who can move from an idea → architecture → working product.
+> **Current objective:** become the kind of engineer who can move from an idea → architecture → working product.
 
 </td>
 </tr>
 </table>
+
+---
+
+## ⚡ Mission Control
+
+<div align="center">
+
+| System | State | Focus |
+|:--|:--:|:--|
+| 🎓 University | `ONLINE` | Core IT foundations |
+| 🧠 AI Learning | `ACTIVE` | ML, LLMs, agents |
+| 💻 Software Builds | `ACTIVE` | Desktop + full-stack |
+| 🌐 Web / Mobile | `ACTIVE` | React + Flutter |
+| 🌊 IoT Systems | `ACTIVE` | Arduino + ESP |
+| ☁️ Cloud / Bots | `ACTIVE` | AWS + Firebase + automation |
+| 🔐 Cybersecurity | `LEARNING` | Fundamentals + labs |
+
+</div>
 
 ---
 
