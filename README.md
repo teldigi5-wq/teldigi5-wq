@@ -185,16 +185,16 @@ A collection of automation projects using WhatsApp, Telegram, Node.js, Python, A
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=teldigi5-wq&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1&bg_color=00000000" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teldigi5-wq&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=CBD5E1&bg_color=00000000" alt="Top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teldigi5-wq&theme=github_dark" alt="GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teldigi5-wq&theme=github_dark" alt="Repositories per language" />
+
+<br/>
+
+<img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teldigi5-wq&theme=github_dark" alt="GitHub profile details" />
 
 <br/>
 
 <img height="180" src="https://streak-stats.demolab.com/?user=teldigi5-wq&hide_border=true&theme=transparent&ring=38BDF8&fire=F97316&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8&background=00000000" alt="Contribution streak" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=teldigi5-wq&bg_color=00000000&color=CBD5E1&line=38BDF8&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Signal" alt="Contribution graph" />
 
 </div>
 
