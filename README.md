@@ -19,7 +19,7 @@
 <tr>
 <td width="34%" align="center" valign="top">
 
-<img src="./assets/profile-photo.jpg" alt="Poojana Kaveesh" width="260" />
+<img src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/profile-photo.jpg?v=2" alt="Poojana Kaveesh" width="250" />
 
 ### Poojana Kaveesh
 
