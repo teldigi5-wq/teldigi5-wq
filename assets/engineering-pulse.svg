@@ -1,0 +1,29 @@
+<svg width="1200" height="118" viewBox="0 0 1200 118" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering capability pulse</title>
+  <desc id="desc">A subtle animated engineering signal strip showing backend, distributed systems, cloud, observability, IoT and AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="118" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/><stop offset="0.5" stop-color="#07111F"/><stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="line" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+    <style>
+      .dash{stroke-dasharray:8 10;animation:flow 8s linear infinite}.pulse{animation:pulse 2.8s ease-in-out infinite}.mono{font-family:'Courier New',monospace}.sans{font-family:Inter,Segoe UI,Arial,sans-serif}
+      @keyframes flow{to{stroke-dashoffset:-180}}
+      @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+    </style>
+  </defs>
+  <rect width="1200" height="118" rx="18" fill="url(#bg)" stroke="#172033"/>
+  <path d="M90 60H1110" stroke="url(#line)" stroke-width="2" opacity=".45" class="dash"/>
+  <path d="M90 60H1110" stroke="url(#line)" stroke-width="6" opacity=".08" filter="url(#glow)"/>
+  <g class="mono" font-size="12" text-anchor="middle">
+    <g transform="translate(150 0)"><circle cy="60" r="8" fill="#38BDF8" class="pulse"/><text y="28" fill="#E2E8F0">BACKEND</text><text y="96" fill="#64748B">Java • Spring</text></g>
+    <g transform="translate(330 0)"><circle cy="60" r="8" fill="#60A5FA" class="pulse" style="animation-delay:.35s"/><text y="28" fill="#E2E8F0">DISTRIBUTED</text><text y="96" fill="#64748B">Redis • RabbitMQ</text></g>
+    <g transform="translate(510 0)"><circle cy="60" r="8" fill="#818CF8" class="pulse" style="animation-delay:.7s"/><text y="28" fill="#E2E8F0">CLOUD</text><text y="96" fill="#64748B">Docker • K8s • AWS</text></g>
+    <g transform="translate(690 0)"><circle cy="60" r="8" fill="#A78BFA" class="pulse" style="animation-delay:1.05s"/><text y="28" fill="#E2E8F0">OBSERVABILITY</text><text y="96" fill="#64748B">Prometheus • OTel</text></g>
+    <g transform="translate(870 0)"><circle cy="60" r="8" fill="#22D3EE" class="pulse" style="animation-delay:1.4s"/><text y="28" fill="#E2E8F0">IOT</text><text y="96" fill="#64748B">Arduino • ESP8266</text></g>
+    <g transform="translate(1050 0)"><circle cy="60" r="8" fill="#2DD4BF" class="pulse" style="animation-delay:1.75s"/><text y="28" fill="#E2E8F0">AI DIRECTION</text><text y="96" fill="#64748B">ML • Agents • RAG</text></g>
+  </g>
+</svg>
