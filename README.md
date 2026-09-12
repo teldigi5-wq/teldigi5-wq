@@ -2,50 +2,50 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-hero.svg" alt="Poojana Kaveesh — Software and Platform Engineering" />
 
-<br/>
+### Software Engineering • Platform Engineering • Distributed Systems • AI Direction
 
-[![Profile Views](https://komarev.com/ghpvc/?username=teldigi5-wq&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)](https://github.com/teldigi5-wq)
-![SLIIT](https://img.shields.io/badge/SLIIT-BSc_Hons_IT-0F172A?style=for-the-badge)
-![Focus](https://img.shields.io/badge/FOCUS-Software_%26_Platform_Engineering-0369A1?style=for-the-badge)
-![AI](https://img.shields.io/badge/FUTURE-Artificial_Intelligence-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
+BSc (Hons) IT Undergraduate at SLIIT · Sri Lanka
+
+[![Profile Views](https://komarev.com/ghpvc/?username=teldigi5-wq&style=flat-square&color=2563EB&label=Profile+views)](https://github.com/teldigi5-wq)
+![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Platform-0F172A?style=flat-square)
+![Java](https://img.shields.io/badge/Java-21-0F172A?style=flat-square&logo=openjdk)
+![Cloud Native](https://img.shields.io/badge/Cloud-Native-0F172A?style=flat-square&logo=kubernetes)
 
 </div>
 
 ---
 
+## Profile
+
 <table>
 <tr>
-<td width="30%" align="center" valign="top">
+<td width="28%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/profpic.png" alt="Poojana Kaveesh" width="225" />
+<img src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/profpic.png" alt="Poojana Kaveesh" width="205" />
 
 ### Poojana Kaveesh
 
-`IT Undergraduate`  
-`Software & Platform Engineering`  
-`Distributed Systems`  
-`Future AI Direction`
-
-**Sri Lanka 🇱🇰**
+**IT Undergraduate**  
+Software & Platform Engineering  
+Distributed Systems  
+Future AI Direction
 
 </td>
-<td width="70%" valign="top">
+<td width="72%" valign="top">
 
-## 👋 About me
+I am a **first-year BSc (Hons) in Information Technology undergraduate at SLIIT** focused on building strong software-engineering fundamentals before specializing further in **Artificial Intelligence**.
 
-I'm a **first-year BSc (Hons) in Information Technology undergraduate at SLIIT** building a strong software-engineering foundation before specializing further in **Artificial Intelligence**.
+My work centers on complete systems rather than isolated demos: backend services, distributed architecture, cloud infrastructure, observability, desktop software, IoT and automation.
 
-I learn by building complete systems rather than isolated code snippets. My current work spans **backend services, distributed systems, cloud infrastructure, observability, desktop software, IoT and automation**.
+**Current engineering priorities**
 
-```yaml
-current_stage: first-year IT undergraduate
-engineering_focus: backend + platform + distributed systems
-future_direction: artificial intelligence
-learning_style: understand -> design -> build -> test -> observe -> improve
-current_priority: fundamentals + production-style engineering habits
-```
+- Write clean, explainable code.
+- Understand architecture and trade-offs.
+- Build systems with reliability, security and observability in mind.
+- Strengthen Java, Python, DSA and backend engineering fundamentals.
+- Grow through projects that can be demonstrated and discussed in interviews.
 
-> **Mission:** understand the problem, design the architecture, build the system, operate it reliably and explain the trade-offs clearly.
+> Build systems that can be explained, measured and improved.
 
 </td>
 </tr>
@@ -57,80 +57,79 @@ current_priority: fundamentals + production-style engineering habits
 
 ---
 
-## ⚡ 30-second recruiter scan
+## Engineering snapshot
 
-| Signal | Evidence |
+| Area | Evidence |
 |---|---|
-| **Backend engineering** | Java 21, Spring Boot, REST APIs, validation, structured failures |
-| **Security** | JWT, refresh-token rotation, RBAC, scoped permissions |
-| **Distributed systems** | Redis caching/rate limiting, RabbitMQ events, service-to-service architecture |
+| **Backend engineering** | Java 21, Spring Boot, REST APIs, validation and structured failure handling |
+| **Security** | JWT, refresh-token rotation, RBAC and scoped permissions |
+| **Distributed systems** | Redis caching/rate limiting, RabbitMQ messaging and service-to-service architecture |
 | **Reliability** | Circuit breakers, retries, timeouts, health checks and fallbacks |
 | **Observability** | Prometheus, Grafana, Loki, Tempo and OpenTelemetry |
 | **Cloud native** | Docker Compose, Kubernetes, Helm, AWS EC2 and PM2 |
-| **Product engineering** | Electron/React desktop app, FFmpeg integration and Windows packaging |
-| **IoT** | Arduino/ESP8266 telemetry, Firebase and emergency automation |
+| **Desktop engineering** | Electron, React, FFmpeg, process management and Windows packaging |
+| **IoT** | Arduino, ESP8266, Firebase telemetry and emergency automation |
 
 ---
 
-## 🚀 Flagship projects
+## Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Aetheris Platform
+### Aetheris Platform
 **Cloud-native distributed platform engineering project**
 
-A staged platform around API gateway design, identity, JWT/RBAC, PostgreSQL, Redis, RabbitMQ, resilience, metrics, logs, traces, Docker, Kubernetes and Helm.
+A staged platform built around API gateway design, identity, JWT/RBAC, PostgreSQL, Redis, RabbitMQ, resilience, metrics, logs, traces, Docker, Kubernetes and Helm.
 
-**Engineering value:** architecture, security, messaging, caching, observability, resilience and cloud-native deployment in one coherent system.
+**What it demonstrates:** architecture, security, messaging, caching, observability, resilience and cloud-native deployment.
 
 `Java 21` `Spring Boot` `React` `PostgreSQL` `Redis` `RabbitMQ` `OpenTelemetry` `Kubernetes`
 
-[![Open Aetheris](https://img.shields.io/badge/OPEN-AETHERIS_PLATFORM-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq/aetheris-platform)
+[Open repository](https://github.com/teldigi5-wq/aetheris-platform)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌊 FloodGuard
-**IoT flood monitoring & emergency response ecosystem**
+### FloodGuard
+**IoT flood monitoring and emergency-response ecosystem**
 
-A real-time system connecting sensors, embedded controllers, Firebase, AWS-hosted services and WhatsApp alerts.
+A real-time system connecting physical sensors, embedded controllers, Firebase, AWS-hosted services and WhatsApp alerts.
 
-**Engineering value:** hardware/software integration, telemetry, real-time state, cloud deployment and failure-aware alerting.
+**What it demonstrates:** hardware/software integration, telemetry, cloud deployment, real-time state and failure-aware alerting.
 
 `Arduino` `ESP8266` `Firebase` `AWS` `Node.js` `Flutter`
 
-[![Open FloodGuard](https://img.shields.io/badge/OPEN-FLOODGUARD-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)
+[Open repository](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ AnyDL Pro Ultra
+### AnyDL Pro Ultra
 **Windows desktop media application**
 
-An Electron application with a real `yt-dlp` + `FFmpeg` backend, metadata analysis, live progress, media processing and Windows packaging.
+An Electron application backed by `yt-dlp` and `FFmpeg`, with metadata analysis, live progress, media processing and Windows packaging.
 
-**Engineering value:** desktop architecture, process management, typed renderer bridge, native packaging and media pipelines.
+**What it demonstrates:** desktop architecture, process management, typed renderer communication, packaging and media pipelines.
 
 `TypeScript` `React` `Electron` `Node.js` `FFmpeg`
 
-[![Open AnyDL](https://img.shields.io/badge/OPEN-ANYDL_PRO_ULTRA-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq/anydl-pro-ultra)
+[Open repository](https://github.com/teldigi5-wq/anydl-pro-ultra)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Automation Lab
-**Bots, APIs & cloud experiments**
+### Automation Projects
+**Messaging, APIs and cloud experiments**
 
-Messaging and automation projects involving process supervision, persistent state, APIs, media automation and cloud deployment.
+Projects involving persistent state, cloud deployment, messaging platforms, API integration and automation workflows.
 
 `Node.js` `Python` `Telegram` `WhatsApp` `AWS`
 
-[![AWS Bot](https://img.shields.io/badge/OPEN-WHATSAPP_BOT-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq/WHATSAPPbotAWS)
-[![Telegram](https://img.shields.io/badge/OPEN-TELEGRAM_APEX-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/teldigi5-wq/TelegramAPEX-repo)
+[WhatsApp AWS Bot](https://github.com/teldigi5-wq/WHATSAPPbotAWS) · [Telegram APEX](https://github.com/teldigi5-wq/TelegramAPEX-repo)
 
 </td>
 </tr>
@@ -138,29 +137,35 @@ Messaging and automation projects involving process supervision, persistent stat
 
 ---
 
-## 🧰 Engineering stack
+## Technical stack
 
 <div align="center">
 
-### Languages
+**Languages**  
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,html,css&theme=dark" alt="Languages" />
 
-### Application development
+<br/><br/>
+
+**Application development**  
 <img src="https://skillicons.dev/icons?i=spring,react,nodejs,flutter,vite,electron&theme=dark" alt="Application development" />
 
-### Data, cloud & infrastructure
+<br/><br/>
+
+**Data, cloud and infrastructure**  
 <img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,docker,kubernetes,aws,firebase,git,github,linux&theme=dark" alt="Data cloud and infrastructure" />
 
-### Embedded systems
+<br/><br/>
+
+**Embedded systems**  
 <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
 
 </div>
 
-> Technologies shown here are tools I use, learn or actively experiment with — not a claim of mastery in every one.
+<sub>Technologies shown are tools I use, study or actively experiment with and are not presented as claims of expert-level mastery.</sub>
 
 ---
 
-## 🧭 Engineering growth path
+## Engineering growth path
 
 ```text
 Software fundamentals
@@ -173,7 +178,7 @@ Distributed systems + cloud foundations
         ↓
 Security + observability + reliability
         ↓
-Strong Python + data foundations
+Python + data foundations
         ↓
 Machine learning + deep learning
         ↓
@@ -182,11 +187,11 @@ LLMs + agents + RAG
 Production AI systems
 ```
 
-**Currently exploring:** `Java` • `DSA` • `distributed systems` • `cloud architecture` • `AI fundamentals` • `machine learning` • `AI agents` • `cybersecurity fundamentals`
+**Currently strengthening:** `Java` · `DSA` · `backend engineering` · `distributed systems` · `cloud architecture` · `AI fundamentals`
 
 ---
 
-## 📊 GitHub activity
+## GitHub activity
 
 <div align="center">
 
@@ -201,7 +206,7 @@ Production AI systems
 
 ---
 
-## ⚙️ How I engineer
+## Engineering approach
 
 <table>
 <tr>
@@ -215,55 +220,40 @@ Production AI systems
 </tr>
 </table>
 
-I prioritize correctness before polish, learn through real builds, treat failures as engineering feedback, add logs/metrics/documentation, and keep systems explainable rather than hiding complexity behind flashy demos.
+I prioritize correctness before polish, treat failures as engineering feedback, document important decisions and keep systems understandable rather than hiding complexity behind presentation.
 
 ---
 
-## 🎯 2026 goals
+## 2026 goals
 
 - Strengthen **Java, Python, data structures and algorithms**.
 - Go deeper into **backend engineering, distributed systems and cloud-native development**.
-- Grow **Aetheris** into a serious interview-ready platform engineering portfolio.
+- Continue developing **Aetheris** into an interview-ready platform engineering project.
 - Build strong foundations in **machine learning and modern AI systems**.
 - Expand **FloodGuard** into a complete hardware + cloud + application ecosystem.
-- Improve **testing, security, documentation, observability and deployment** across every project.
-- Contribute consistently to GitHub and open-source work.
+- Improve **testing, security, documentation, observability and deployment** across projects.
+- Build a consistent public engineering record through GitHub and open-source contributions.
 
 ---
 
-## 🎓 Education
+## Education
 
 **Sri Lanka Institute of Information Technology — SLIIT**  
 **BSc (Hons) in Information Technology**  
-`First-Year Undergraduate` • `Planned future direction: Artificial Intelligence`
+First-Year Undergraduate · Planned future direction: Artificial Intelligence
 
 ---
 
-## 🤝 Engineering interests
+## Contact
 
 <div align="center">
 
-![Backend](https://img.shields.io/badge/BACKEND_ENGINEERING-0F172A?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Platform](https://img.shields.io/badge/PLATFORM_%26_DISTRIBUTED_SYSTEMS-0F172A?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Cloud](https://img.shields.io/badge/CLOUD_NATIVE-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AI](https://img.shields.io/badge/AI_%26_INTELLIGENT_SYSTEMS-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8)
-![IoT](https://img.shields.io/badge/IoT_SYSTEMS-0F172A?style=for-the-badge&logo=arduino&logoColor=22D3EE)
+[GitHub](https://github.com/teldigi5-wq) · [Email](mailto:teldigi5@gmail.com)
 
-</div>
+<br/>
 
----
+**BUILD · TEST · OBSERVE · IMPROVE · SHIP**
 
-## 📬 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-teldigi5--wq-181717?style=for-the-badge&logo=github)](https://github.com/teldigi5-wq)
-[![Email](https://img.shields.io/badge/Email-teldigi5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teldigi5@gmail.com)
-
-<br/><br/>
-
-### BUILD • TEST • BREAK • FIX • OBSERVE • IMPROVE • SHIP
-
-> **Build systems you can explain. Improve systems you can measure.**
+<sub>Software should not only work — it should be understandable, reliable and continuously improvable.</sub>
 
 </div>
