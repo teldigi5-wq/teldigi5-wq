@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,24:0F172A,52:0369A1,78:6D28D9,100:020617&height=235&section=header&text=POOJANA%20KAVEESH&fontSize=50&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=IT%20UNDERGRADUATE%20%E2%80%A2%20ASPIRING%20AI%20ENGINEER%20%E2%80%A2%20BUILDER&descAlignY=55&descSize=15&descColor=BAE6FD" alt="Poojana Kaveesh" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,24:0F172A,52:0369A1,78:6D28D9,100:020617&height=235&section=header&text=POOJANA%20KAVEESH&fontSize=50&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=IT%20UNDERGRADUATE%20%E2%80%A2%20ASPIRING%20AI%20ENGINEER%20%E2%80%A2%20SYSTEM%20BUILDER&descAlignY=55&descSize=15&descColor=BAE6FD" alt="Poojana Kaveesh" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=46&lines=Building+software+%E2%80%A2+AI+%E2%80%A2+IoT+%E2%80%A2+automation;Turning+ideas+into+working+systems;Learning+the+fundamentals.+Shipping+real+projects.;Build+%E2%86%92+Test+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Improve" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=850&color=38BDF8&center=true&vCenter=true&repeat=true&width=920&height=48&lines=Building+AI+%E2%80%A2+software+%E2%80%A2+IoT+%E2%80%A2+automation;Turning+ideas+into+working+systems;Learning+deeply.+Building+constantly.;Design+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Debug+%E2%86%92+Ship" alt="Typing intro" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=teldigi5-wq&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)](https://github.com/teldigi5-wq)
 ![SLIIT](https://img.shields.io/badge/SLIIT-BSc_Hons_IT-0F172A?style=for-the-badge)
-![AI Direction](https://img.shields.io/badge/Planned_Direction-Artificial_Intelligence-0369A1?style=for-the-badge&logo=openai&logoColor=white)
+![AI Direction](https://img.shields.io/badge/Direction-Artificial_Intelligence-0369A1?style=for-the-badge&logo=openai&logoColor=white)
 ![Sri Lanka](https://img.shields.io/badge/Sri_Lanka-Builder-0F172A?style=for-the-badge&logo=googlemaps&logoColor=F97316)
 
 </div>
@@ -19,35 +19,34 @@
 <tr>
 <td width="31%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/profpic.png" alt="Poojana Kaveesh" width="245" />
+<img src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/profpic.png" alt="Poojana Kaveesh" width="235" />
 
 ### Poojana Kaveesh
 
 `IT Undergraduate`  
 `Aspiring AI Engineer`  
-`Software • IoT • Automation`
+`Software • AI • IoT • Automation`
 
 **Sri Lanka 🇱🇰**
 
 </td>
 <td width="69%" valign="top">
 
-## About me
+## 👋 About me
 
-I'm a **first-year BSc (Hons) in Information Technology undergraduate at SLIIT**.
+I'm a **first-year BSc (Hons) in Information Technology undergraduate at SLIIT** with a long-term direction toward **Artificial Intelligence**.
 
-My planned future direction is **Artificial Intelligence**. I am not specialized yet; right now I am focused on the foundations that matter most: programming, software engineering, problem solving, systems thinking, debugging and building complete products.
-
-Outside coursework, I build practical projects across **desktop software, IoT, cloud services, bots and AI-agent experiments**.
+I learn by building complete systems — not just isolated code snippets. My current work spans **desktop software, AI-agent systems, IoT, cloud services, automation and bots**.
 
 ```yaml
 current_stage: first-year IT undergraduate
-planned_direction: artificial intelligence
+future_direction: artificial intelligence
 engineering_focus: software + AI + IoT + automation
-learning_style: build -> test -> debug -> improve
+mindset: understand -> design -> build -> test -> debug -> improve
+current_priority: build stronger fundamentals and ship real projects
 ```
 
-> **Goal:** become an engineer who can move from an idea to architecture, implementation and a reliable product.
+> **Mission:** become an engineer who can move from an idea to architecture, implementation, deployment and a reliable product.
 
 </td>
 </tr>
@@ -55,10 +54,37 @@ learning_style: build -> test -> debug -> improve
 
 ---
 
-## 🚀 Flagship work
+## 🔥 Currently building
+
+<div align="center">
+
+| Project | What it is | Focus |
+|---|---|---|
+| **[Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform)** | Personal AI platform and intelligent assistant system | `AI agents` `local AI` `automation` `full-stack` |
+| **[FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)** | IoT flood monitoring + emergency response ecosystem | `Arduino` `ESP8266` `Firebase` `AWS` `WhatsApp` |
+| **[AnyDL Pro Ultra](https://github.com/teldigi5-wq/anydl-pro-ultra)** | Windows desktop media application | `Electron` `React` `TypeScript` `FFmpeg` |
+| **Automation Lab** | Bots, APIs and cloud experiments | `Node.js` `Python` `Telegram` `WhatsApp` `AWS` |
+
+</div>
+
+---
+
+## 🚀 Flagship projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🧠 Aetheris Platform
+**AI platform / personal intelligent system**
+
+A long-term engineering project focused on local AI, agent workflows, coding assistance, intelligent automation and a polished full-stack product experience.
+
+**Core direction:** `Python` `LLMs` `Agents` `RAG` `Local AI` `Full Stack`
+
+[![Open Aetheris](https://img.shields.io/badge/VIEW-AETHERIS_PLATFORM-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq/aetheris-platform)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🌊 FloodGuard
@@ -68,33 +94,21 @@ A real-time monitoring ecosystem connecting sensors, embedded controllers, Fireb
 
 **Built around:** `Arduino` `ESP8266` `Firebase` `AWS` `Node.js` `Flutter`
 
-[![Open FloodGuard](https://img.shields.io/badge/VIEW-FloodGuard_WhatsApp_Bot-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ AnyDL Pro Ultra
-**Windows desktop media application**
-
-An Electron desktop app with a real `yt-dlp` + `FFmpeg` backend, live metadata analysis, progress tracking and Windows packaging.
-
-**Built around:** `TypeScript` `React` `Electron` `Node.js` `FFmpeg`
-
-[![Open AnyDL](https://img.shields.io/badge/VIEW-AnyDL_Pro_Ultra-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq/anydl-pro-ultra)
+[![Open FloodGuard](https://img.shields.io/badge/VIEW-FLOODGUARD-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Syntra
-**Personal AI-agent research project**
+### ⚡ AnyDL Pro Ultra
+**Windows desktop media application**
 
-A long-term project exploring local models, coding assistance, tutoring, retrieval, automation and intelligent workflows.
+An Electron desktop app with a `yt-dlp` + `FFmpeg` backend, metadata analysis, progress tracking and Windows packaging.
 
-**Exploring:** `LLMs` `Agents` `RAG` `Python` `Local AI`
+**Built around:** `TypeScript` `React` `Electron` `Node.js` `FFmpeg`
 
-`STATUS: IN DEVELOPMENT`
+[![Open AnyDL](https://img.shields.io/badge/VIEW-ANYDL_PRO_ULTRA-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq/anydl-pro-ultra)
 
 </td>
 <td width="50%" valign="top">
@@ -102,10 +116,10 @@ A long-term project exploring local models, coding assistance, tutoring, retriev
 ### 🤖 Automation Lab
 **Bots, APIs & cloud experiments**
 
-Projects involving WhatsApp, Telegram, Node.js, Python, APIs and AWS-hosted services.
+A collection of experiments involving messaging platforms, automation, APIs, cloud deployment and backend services.
 
-[![AWS Bot](https://img.shields.io/badge/VIEW-WHATSAPPbotAWS-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq/WHATSAPPbotAWS)
-[![Telegram](https://img.shields.io/badge/VIEW-Telegram_APEX-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/teldigi5-wq/TelegramAPEX-repo)
+[![AWS Bot](https://img.shields.io/badge/VIEW-WHATSAPP_BOT-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teldigi5-wq/WHATSAPPbotAWS)
+[![Telegram](https://img.shields.io/badge/VIEW-TELEGRAM_APEX-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/teldigi5-wq/TelegramAPEX-repo)
 
 </td>
 </tr>
@@ -124,14 +138,14 @@ Projects involving WhatsApp, Telegram, Node.js, Python, APIs and AWS-hosted serv
 <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,vite,electron&theme=dark" alt="Application development" />
 
 ### Cloud & tooling
-<img src="https://skillicons.dev/icons?i=aws,firebase,git,github,vscode,linux&theme=dark" alt="Cloud and tools" />
+<img src="https://skillicons.dev/icons?i=aws,firebase,docker,git,github,vscode,linux&theme=dark" alt="Cloud and tools" />
 
 ### Embedded systems
 <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
 
 </div>
 
-<sub>These are technologies I use, learn or actively experiment with; this is not a claim of mastery in every tool.</sub>
+<sub>Technologies shown here are tools I use, learn or actively experiment with — not a claim of mastery in every one.</sub>
 
 ---
 
@@ -159,6 +173,23 @@ Build useful products
 
 ---
 
+## 🧩 What I like building
+
+<div align="center">
+
+| Area | What interests me |
+|---|---|
+| 🧠 **AI systems** | Agents, RAG, local models, intelligent workflows |
+| 💻 **Software engineering** | Desktop apps, backend systems, APIs, architecture |
+| 🌐 **Full-stack products** | Practical web/mobile experiences connected to real services |
+| 📡 **IoT & embedded** | Sensors, microcontrollers, telemetry and automation |
+| ☁️ **Cloud & automation** | AWS, Firebase, bots, deployment and service integration |
+| 🔐 **Security foundations** | Secure design, networking and cybersecurity fundamentals |
+
+</div>
+
+---
+
 ## 📊 GitHub activity
 
 <div align="center">
@@ -170,11 +201,9 @@ Build useful products
 
 <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teldigi5-wq&theme=github_dark" alt="GitHub profile details" />
 
-<br/>
-
-<img height="180" src="https://streak-stats.demolab.com/?user=teldigi5-wq&hide_border=true&theme=transparent&ring=38BDF8&fire=F97316&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8&background=00000000" alt="Contribution streak" />
-
 </div>
+
+> The previous contribution-streak widget was removed because its third-party API was failing and showing an error directly on the profile.
 
 ---
 
@@ -186,7 +215,8 @@ Build useful products
 <td align="center"><b>02</b><br/>Design</td>
 <td align="center"><b>03</b><br/>Build</td>
 <td align="center"><b>04</b><br/>Test & debug</td>
-<td align="center"><b>05</b><br/>Improve & ship</td>
+<td align="center"><b>05</b><br/>Improve</td>
+<td align="center"><b>06</b><br/>Ship</td>
 </tr>
 </table>
 
@@ -195,6 +225,18 @@ Build useful products
 - Learn through real builds, not only tutorials.
 - Treat bugs as engineering feedback.
 - Keep improving each version instead of waiting for perfection.
+- Document the project so another developer can understand it.
+
+---
+
+## 🎯 2026 engineering goals
+
+- Strengthen **Java, Python, data structures and algorithms**.
+- Build a strong base in **machine learning and modern AI systems**.
+- Turn **Aetheris** into a serious portfolio-grade AI platform.
+- Expand **FloodGuard** into a complete hardware + cloud + application ecosystem.
+- Improve testing, documentation, architecture and deployment across every project.
+- Contribute more consistently to GitHub and open-source projects.
 
 ---
 
@@ -206,7 +248,7 @@ Build useful products
 
 ---
 
-## 🤝 Interested in
+## 🤝 Open to
 
 <div align="center">
 
@@ -220,9 +262,20 @@ Build useful products
 
 ---
 
+## 📬 Connect
+
 <div align="center">
 
-### BUILD • TEST • BREAK • FIX • IMPROVE
+[![GitHub](https://img.shields.io/badge/GitHub-teldigi5--wq-181717?style=for-the-badge&logo=github)](https://github.com/teldigi5-wq)
+[![Email](https://img.shields.io/badge/Email-teldigi5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teldigi5@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### BUILD • TEST • BREAK • FIX • IMPROVE • SHIP
 
 > **Don't just learn technology. Build something with it.**
 
