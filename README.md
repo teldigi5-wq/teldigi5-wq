@@ -11,6 +11,10 @@ BSc (Hons) IT Undergraduate at SLIIT · Sri Lanka
 ![Java](https://img.shields.io/badge/Java-21-0F172A?style=flat-square&logo=openjdk)
 ![Cloud Native](https://img.shields.io/badge/Cloud-Native-0F172A?style=flat-square&logo=kubernetes)
 
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-pulse.svg" alt="Animated engineering capability pulse" />
+
 </div>
 
 ---
@@ -45,7 +49,7 @@ My work centers on complete systems rather than isolated demos: backend services
 - Strengthen Java, Python, DSA and backend engineering fundamentals.
 - Grow through projects that can be demonstrated and discussed in interviews.
 
-> Build systems that can be explained, measured and improved.
+> **Engineering principle:** build systems that can be explained, measured and improved.
 
 </td>
 </tr>
@@ -57,7 +61,7 @@ My work centers on complete systems rather than isolated demos: backend services
 
 ---
 
-## Engineering snapshot
+## Recruiter snapshot
 
 | Area | Evidence |
 |---|---|
@@ -134,6 +138,16 @@ Projects involving persistent state, cloud deployment, messaging platforms, API 
 </td>
 </tr>
 </table>
+
+---
+
+## Engineering case studies
+
+| Project | Engineering challenge | Decision / approach | What I can explain in an interview |
+|---|---|---|---|
+| **Aetheris** | Grow a small service into a coherent distributed platform | Stage features progressively: identity, Redis, RabbitMQ, observability, resilience, Kubernetes | Service boundaries, JWT/RBAC, caching, events, circuit breakers, tracing and Kubernetes trade-offs |
+| **FloodGuard** | Connect physical sensing to reliable cloud alerts | Separate sensing/control from messaging, use Firebase as the live state layer, keep alert logic transition-based | Sensor error handling, stale-data protection, cloud integration and hardware/software boundaries |
+| **AnyDL Pro Ultra** | Turn a polished desktop UI into a real application backend | Use Electron IPC/contextBridge with real `yt-dlp` and FFmpeg child processes | Process lifecycle, progress parsing, packaging, native integration and why some features should not be faked |
 
 ---
 
@@ -224,6 +238,16 @@ I prioritize correctness before polish, treat failures as engineering feedback, 
 
 ---
 
+## What I am deliberately improving
+
+- **Problem solving:** data structures, algorithms and reasoning under constraints.
+- **Backend depth:** API design, data modeling, concurrency, security and testing.
+- **Distributed systems:** messaging, caching, consistency, failure handling and observability.
+- **Cloud-native engineering:** containers, Kubernetes, deployment practices and operational thinking.
+- **AI foundations:** Python, data, machine learning and production-oriented AI systems.
+
+---
+
 ## 2026 goals
 
 - Strengthen **Java, Python, data structures and algorithms**.
@@ -241,6 +265,14 @@ I prioritize correctness before polish, treat failures as engineering feedback, 
 **Sri Lanka Institute of Information Technology — SLIIT**  
 **BSc (Hons) in Information Technology**  
 First-Year Undergraduate · Planned future direction: Artificial Intelligence
+
+---
+
+## Career direction
+
+I am building toward **software engineering, backend/platform engineering and distributed-systems roles**, while developing the foundations needed to move deeper into **AI engineering** over time.
+
+I am especially interested in environments where I can learn from strong engineering teams, work on real systems and be evaluated on problem solving, code quality, architecture and continuous improvement.
 
 ---
 
