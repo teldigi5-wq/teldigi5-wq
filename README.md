@@ -2,11 +2,10 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-hero.svg" alt="Poojana Kaveesh — Software and Platform Engineering" />
 
-### Software Engineering • Platform Engineering • Distributed Systems • AI Direction
+### Software Engineering • Platform Engineering • Distributed Systems • AI Engineering Direction
 
 BSc (Hons) IT Undergraduate at SLIIT · Sri Lanka
 
-[![Profile Views](https://komarev.com/ghpvc/?username=teldigi5-wq&style=flat-square&color=2563EB&label=Profile+views)](https://github.com/teldigi5-wq)
 ![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Platform-0F172A?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-21-0F172A?style=flat-square&logo=openjdk)
 ![Cloud Native](https://img.shields.io/badge/Cloud-Native-0F172A?style=flat-square&logo=kubernetes)
@@ -83,6 +82,22 @@ My work centers on complete systems rather than isolated demos: backend services
 
 ---
 
+## Engineering quality signals
+
+| Signal | Public evidence |
+|---|---|
+| **Automated validation** | [Aetheris CI](https://github.com/teldigi5-wq/aetheris-platform/actions) · [FloodGuard CI](https://github.com/teldigi5-wq/floodguard-whatsapp-bot/actions) · [AnyDL Windows build](https://github.com/teldigi5-wq/anydl-pro-ultra/actions) · [Portfolio CI](https://github.com/teldigi5-wq/poojana-portfolio/actions) |
+| **Architecture decisions** | [Aetheris architecture decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) |
+| **Verification discipline** | [Aetheris verification checklist](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/verification-checklist.md) |
+| **Security hygiene** | Security policies across Aetheris, FloodGuard, AnyDL, Telegram APEX and AWS bot projects |
+| **Repository workflow** | Contribution guides, pull-request templates and structured issue forms on flagship repositories |
+| **Dependency maintenance** | Dependabot enabled for Aetheris, FloodGuard and AnyDL |
+| **Deployment evidence** | Kubernetes + Helm in Aetheris; EC2 + PM2 deployment flows in FloodGuard and WhatsApp AWS Bot |
+
+This profile is intentionally evidence-first: technologies are supported by code, documentation, validation or deployment artifacts wherever possible.
+
+---
+
 ## Selected projects
 
 <table>
@@ -133,14 +148,14 @@ An Electron application backed by `yt-dlp` and `FFmpeg`, with metadata analysis,
 </td>
 <td width="50%" valign="top">
 
-### Automation Projects
-**Messaging, APIs and cloud experiments**
+### Engineering Portfolio
+**Evidence-focused personal portfolio website**
 
-Projects involving persistent state, cloud deployment, messaging platforms, API integration and automation workflows.
+A static portfolio presenting project case studies, architecture, engineering decisions, accessibility and recruiter-facing project evidence.
 
-`Node.js` `Python` `Telegram` `WhatsApp` `AWS`
+`HTML` `CSS` `JavaScript` `Vercel` `GitHub Actions`
 
-[WhatsApp AWS Bot](https://github.com/teldigi5-wq/WHATSAPPbotAWS) · [Telegram APEX](https://github.com/teldigi5-wq/TelegramAPEX-repo)
+[Open repository](https://github.com/teldigi5-wq/poojana-portfolio)
 
 </td>
 </tr>
