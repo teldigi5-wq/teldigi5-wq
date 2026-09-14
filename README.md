@@ -13,6 +13,11 @@ BSc (Hons) IT Undergraduate at SLIIT · Sri Lanka
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Poojana%20Kaveesh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojana-kaveesh-3048b8387)
+[![Email](https://img.shields.io/badge/Email-teldigi5%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:teldigi5@gmail.com)
+
+<br/>
+
 <img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-pulse.svg" alt="Animated engineering capability pulse" />
 
 </div>
@@ -32,7 +37,7 @@ BSc (Hons) IT Undergraduate at SLIIT · Sri Lanka
 **IT Undergraduate**  
 Software & Platform Engineering  
 Distributed Systems  
-Future AI Direction
+AI Engineering Direction
 
 </td>
 <td width="72%" valign="top">
@@ -73,6 +78,8 @@ My work centers on complete systems rather than isolated demos: backend services
 | **Cloud native** | Docker Compose, Kubernetes, Helm, AWS EC2 and PM2 |
 | **Desktop engineering** | Electron, React, FFmpeg, process management and Windows packaging |
 | **IoT** | Arduino, ESP8266, Firebase telemetry and emergency automation |
+
+**Open to:** internships, engineering collaborations, open-source contributions and opportunities to learn from strong software teams.
 
 ---
 
@@ -280,7 +287,7 @@ I am especially interested in environments where I can learn from strong enginee
 
 <div align="center">
 
-[GitHub](https://github.com/teldigi5-wq) · [Email](mailto:teldigi5@gmail.com)
+[GitHub](https://github.com/teldigi5-wq) · [LinkedIn](https://www.linkedin.com/in/poojana-kaveesh-3048b8387) · [Email](mailto:teldigi5@gmail.com)
 
 <br/>
 
