@@ -33,25 +33,23 @@ Building reliable systems that can be **explained, tested, observed and improved
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="22%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/profpic.png" alt="Poojana Kaveesh" width="190" />
+<img src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/profpic.png" alt="Poojana Kaveesh" width="155" />
 
-### Poojana Kaveesh
+<br/>
 
-**IT Undergraduate**  
-Backend & Platform Engineering  
-Distributed Systems  
-AI Engineering Direction
+**Poojana Kaveesh**  
+<sub>BSc (Hons) IT Undergraduate @ SLIIT</sub>
 
 </td>
-<td width="75%" valign="top">
+<td width="78%" valign="middle">
 
-I am a **BSc (Hons) in Information Technology undergraduate at SLIIT** focused on building strong software-engineering fundamentals and moving progressively toward **Artificial Intelligence**.
+**Software engineering undergraduate building toward backend, platform and AI engineering.**
 
-I prefer complete, demonstrable systems over isolated demos. My projects span backend services, distributed architecture, cloud infrastructure, observability, desktop software, IoT and automation.
+I build complete systems across **distributed backends, cloud infrastructure, IoT and desktop software**, with an emphasis on **clear architecture, security, reliability and verifiable engineering evidence**.
 
-I care about four things in every serious project: **clear architecture, measurable reliability, security by design, and evidence that the system actually works**.
+`Java` · `Spring Boot` · `Distributed Systems` · `Cloud Native` · `Python` · `AI Foundations`
 
 > **Engineering principle:** build systems that can be explained, measured and improved.
 
