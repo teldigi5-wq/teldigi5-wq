@@ -10,6 +10,13 @@ Building reliable systems that can be **explained, tested, observed and improved
 
 <br/>
 
+![Open to Internships](https://img.shields.io/badge/Open%20to-Software%20Engineering%20Internships-0F172A?style=flat-square)
+![Primary Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Platform-0F172A?style=flat-square)
+![Java](https://img.shields.io/badge/Java-21-0F172A?style=flat-square&logo=openjdk)
+![Cloud Native](https://img.shields.io/badge/Cloud-Native-0F172A?style=flat-square&logo=kubernetes)
+
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-poojana--portfolio.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://poojana-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Poojana%20Kaveesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojana-kaveesh-3048b8387)
 [![Email](https://img.shields.io/badge/Email-teldigi5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teldigi5@gmail.com)
@@ -74,6 +81,8 @@ My engineering priorities are simple:
 | **IoT / embedded** | Arduino, ESP8266, Firebase telemetry, alerts and control logic |
 | **AI direction** | Python, ML foundations, LLM/agent architecture and production-AI concepts |
 
+**Best fit today:** software engineering, backend or platform engineering internships where I can contribute to real systems while learning from experienced engineers.
+
 **Open to:** internships, engineering collaborations, open-source contributions and opportunities to learn from strong software teams.
 
 ---
@@ -93,7 +102,7 @@ A staged platform centered on API gateway design, identity, JWT/RBAC, PostgreSQL
 
 `Java 21` `Spring Boot` `PostgreSQL` `Redis` `RabbitMQ` `OpenTelemetry` `Kubernetes`
 
-[Architecture decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) · [Verification checklist](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/verification-checklist.md)
+[Architecture decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) · [Verification checklist](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/verification-checklist.md) · [CI](https://github.com/teldigi5-wq/aetheris-platform/actions)
 
 </td>
 <td width="50%" valign="top">
@@ -106,6 +115,8 @@ A real-time system connecting physical sensors, embedded controllers, Firebase, 
 **Demonstrates:** hardware/software integration · telemetry · real-time state · cloud deployment · alerting · failure handling
 
 `Arduino` `ESP8266` `Firebase` `AWS` `Node.js` `Flutter`
+
+[CI](https://github.com/teldigi5-wq/floodguard-whatsapp-bot/actions)
 
 </td>
 </tr>
@@ -121,6 +132,8 @@ An Electron application backed by `yt-dlp` and `FFmpeg`, with metadata analysis,
 
 `TypeScript` `React` `Electron` `Node.js` `FFmpeg`
 
+[Windows build](https://github.com/teldigi5-wq/anydl-pro-ultra/actions)
+
 </td>
 <td width="50%" valign="top">
 
@@ -133,9 +146,24 @@ A responsive portfolio presenting project case studies, engineering decisions, a
 
 `HTML` `CSS` `JavaScript` `Vercel` `GitHub Actions`
 
+[CI](https://github.com/teldigi5-wq/poojana-portfolio/actions)
+
 </td>
 </tr>
 </table>
+
+---
+
+## 🧩 What I can explain in an interview
+
+| Project | Engineering conversation |
+|---|---|
+| **Aetheris** | Service boundaries, JWT/RBAC, refresh-token lifecycle, Redis caching, RabbitMQ events, resilience patterns, observability and Kubernetes trade-offs |
+| **FloodGuard** | Sensor error handling, controller/cloud boundaries, real-time state, stale-data protection, emergency alert logic and hardware/software integration |
+| **AnyDL Pro Ultra** | Electron IPC/contextBridge, child-process lifecycle, FFmpeg/yt-dlp integration, progress parsing, packaging and failure handling |
+| **Portfolio** | Responsive UI decisions, accessibility, animation/performance trade-offs, CI and Vercel deployment |
+
+I use these projects as engineering case studies rather than only as finished-product showcases: I should be able to explain **why** a design exists, what could fail, how I verified it and what I would improve next.
 
 ---
 
