@@ -29,7 +29,7 @@ Building reliable systems that can be **explained, tested, observed and improved
 
 ---
 
-## 👋 About me
+## 👋 About Me
 
 <table>
 <tr>
@@ -63,17 +63,26 @@ I build complete systems across **distributed backends, cloud infrastructure, Io
 
 | Area | Evidence / current focus |
 |---|---|
-| **Backend engineering** | Java 21, Spring Boot, REST APIs, validation, structured failure handling |
-| **Distributed systems** | Redis, RabbitMQ, service boundaries, asynchronous workflows |
-| **Security** | JWT, refresh-token lifecycle, RBAC, scoped permissions, fail-closed behavior |
-| **Reliability** | Circuit breakers, retries, timeouts, health checks and recovery paths |
+| **Backend engineering** | Java 21, Spring Boot, REST APIs, validation and structured failure handling |
+| **Distributed systems** | Redis, RabbitMQ, service boundaries and asynchronous workflows |
+| **Security & reliability** | JWT, refresh-token lifecycle, RBAC, fail-closed behavior, retries and circuit breakers |
 | **Observability** | OpenTelemetry, Prometheus, Grafana, Loki and Tempo |
 | **Cloud native** | Docker Compose, Kubernetes, Helm and AWS deployment foundations |
-| **Desktop engineering** | Electron, React, TypeScript, FFmpeg and process management |
+| **Application engineering** | React, TypeScript, Electron, Node.js and Flutter |
 | **IoT / embedded** | Arduino, ESP8266, Firebase telemetry, alerts and control logic |
 | **AI direction** | Python, ML foundations, LLM/agent architecture and production-AI concepts |
 
 **Best fit today:** software engineering, backend or platform engineering internships where I can contribute to real systems while learning from experienced engineers.
+
+---
+
+## 🔭 Currently Building
+
+| Focus | What I am working on |
+|---|---|
+| **Aetheris Platform** | Strengthening a cloud-native distributed platform with secure services, messaging, observability, resilience and deployment evidence |
+| **FloodGuard** | Expanding an IoT flood-monitoring ecosystem across sensing, control, Firebase, AWS and real-time alerting |
+| **Engineering fundamentals** | Deepening Java, DSA, backend design, distributed systems, cloud architecture and Python/AI foundations |
 
 ---
 
@@ -86,9 +95,10 @@ I build complete systems across **distributed backends, cloud infrastructure, Io
 ### 🧠 [Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform)
 **Cloud-native distributed systems engineering project**
 
-A staged platform centered on API gateway design, identity, JWT/RBAC, PostgreSQL, Redis, RabbitMQ, resilience, metrics, logs, traces, Docker, Kubernetes and Helm.
+**Status:** Active development  
+**My contribution:** architecture, backend services, security, messaging, observability, resilience and deployment foundations
 
-**Demonstrates:** architecture · security · messaging · caching · observability · resilience · deployment
+A staged platform centered on API gateway design, identity, JWT/RBAC, PostgreSQL, Redis, RabbitMQ, metrics, logs, traces, Docker, Kubernetes and Helm.
 
 `Java 21` `Spring Boot` `PostgreSQL` `Redis` `RabbitMQ` `OpenTelemetry` `Kubernetes`
 
@@ -100,9 +110,10 @@ A staged platform centered on API gateway design, identity, JWT/RBAC, PostgreSQL
 ### 🌊 [FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)
 **IoT flood monitoring and emergency-response ecosystem**
 
-A real-time system connecting physical sensors, embedded controllers, Firebase, AWS-hosted services and WhatsApp alerts.
+**Status:** Active project  
+**My contribution:** sensing/control logic, cloud telemetry, alert workflows and system integration
 
-**Demonstrates:** hardware/software integration · telemetry · cloud deployment · real-time state · alerting · failure handling
+A real-time system connecting physical sensors, embedded controllers, Firebase, AWS-hosted services and WhatsApp alerts.
 
 `Arduino` `ESP8266` `Firebase` `AWS` `Node.js` `Flutter`
 
@@ -116,9 +127,10 @@ A real-time system connecting physical sensors, embedded controllers, Firebase, 
 ### 🎬 [AnyDL Pro Ultra](https://github.com/teldigi5-wq/anydl-pro-ultra)
 **Windows desktop media application**
 
-An Electron application backed by `yt-dlp` and `FFmpeg`, with metadata analysis, progress reporting, media processing and Windows packaging.
+**Status:** Portfolio project  
+**My contribution:** desktop architecture, IPC, child-process integration and packaging workflow
 
-**Demonstrates:** desktop architecture · IPC · process lifecycle · native tooling · packaging · media pipelines
+An Electron application backed by `yt-dlp` and `FFmpeg`, with metadata analysis, progress reporting, media processing and Windows packaging.
 
 `TypeScript` `React` `Electron` `Node.js` `FFmpeg`
 
@@ -130,13 +142,14 @@ An Electron application backed by `yt-dlp` and `FFmpeg`, with metadata analysis,
 ### ✨ [Engineering Portfolio](https://github.com/teldigi5-wq/poojana-portfolio)
 **Recruiter-focused personal portfolio**
 
-A responsive portfolio presenting project case studies, engineering decisions, architecture, accessibility and public evidence.
+**Status:** Live  
+**My contribution:** responsive UI, accessibility, performance, project storytelling and deployment
+
+A portfolio presenting project case studies, engineering decisions, architecture and public evidence.
 
 **Live:** [poojana-portfolio.vercel.app](https://poojana-portfolio.vercel.app/)
 
 `HTML` `CSS` `JavaScript` `Vercel` `GitHub Actions`
-
-[CI](https://github.com/teldigi5-wq/poojana-portfolio/actions)
 
 </td>
 </tr>
@@ -145,8 +158,6 @@ A responsive portfolio presenting project case studies, engineering decisions, a
 ---
 
 ## ✅ Engineering Evidence
-
-I try to support technical claims with something a reviewer can inspect.
 
 | Signal | Public evidence |
 |---|---|
@@ -160,27 +171,32 @@ I try to support technical claims with something a reviewer can inspect.
 
 ---
 
+## 🧠 Why I Could Be Useful on an Engineering Team
+
+- I prefer **understanding systems deeply** instead of only making them look finished.
+- I think about **failure modes, security, observability and maintainability**, not only the happy path.
+- I document important decisions so I can explain **why** an implementation exists.
+- I am comfortable learning across backend, cloud, desktop and embedded boundaries when a project requires it.
+- I am actively strengthening the fundamentals expected in professional engineering teams: **problem solving, code quality, testing and communication**.
+
+---
+
 ## 🧰 Technical Stack
 
 <div align="center">
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,html,css&theme=dark" alt="Languages" />
+**Primary engineering stack**  
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,rabbitmq,docker,kubernetes,git,github,linux&theme=dark" alt="Primary engineering stack" />
 
 <br/><br/>
 
 **Application development**  
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,flutter,vite,electron&theme=dark" alt="Application development" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,electron,flutter,dart&theme=dark" alt="Application development" />
 
 <br/><br/>
 
-**Data, cloud & infrastructure**  
-<img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,docker,kubernetes,aws,firebase,git,github,linux&theme=dark" alt="Data, cloud and infrastructure" />
-
-<br/><br/>
-
-**Embedded systems**  
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
+**Cloud, data & embedded**  
+<img src="https://skillicons.dev/icons?i=aws,firebase,arduino,html,css,vite&theme=dark" alt="Cloud, data and embedded tools" />
 
 </div>
 
@@ -188,23 +204,11 @@ I try to support technical claims with something a reviewer can inspect.
 
 ---
 
-## 🧭 Current Focus
+## 🎯 Current Focus — 2026
 
-```text
-Software fundamentals
-        ↓
-Java + backend engineering
-        ↓
-Distributed systems + cloud foundations
-        ↓
-Security + observability + reliability
-        ↓
-Python + data foundations
-        ↓
-Machine learning + modern AI systems
-```
+**Deepen:** `Java` · `DSA` · `Backend Engineering` · `Distributed Systems` · `Cloud Architecture` · `Python` · `AI Foundations`
 
-**Currently strengthening:** `Java` · `DSA` · `backend engineering` · `distributed systems` · `cloud architecture` · `Python` · `AI fundamentals`
+**Direction:** software engineering → backend/platform engineering → distributed systems → production AI engineering.
 
 ---
 
@@ -223,21 +227,21 @@ Machine learning + modern AI systems
 
 ---
 
-## 🎓 Education & Direction
+## 🎓 Education
 
 **Sri Lanka Institute of Information Technology — SLIIT**  
 **BSc (Hons) in Information Technology**  
 Undergraduate · Planned future direction: **Artificial Intelligence**
 
-I am building toward **software engineering, backend/platform engineering and distributed-systems roles**, while developing the foundations needed to move deeper into **AI engineering** over time.
-
 ---
 
 <div align="center">
 
-### Let’s connect
+### Open to Software · Backend · Platform Engineering Internships
 
-[Portfolio](https://poojana-portfolio.vercel.app/) · [GitHub](https://github.com/teldigi5-wq) · [LinkedIn](https://www.linkedin.com/in/poojana-kaveesh-3048b8387) · [Email](mailto:teldigi5@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://poojana-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojana-kaveesh-3048b8387)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teldigi5@gmail.com)
 
 <br/>
 
