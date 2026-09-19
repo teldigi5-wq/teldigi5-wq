@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-hero.svg" alt="Poojana Kaveesh — Software, Platform and AI Engineering" />
 
-### Software Engineering · Backend & Platform Engineering · Distributed Systems · AI Engineering
+### Software Engineering · Backend & Platform Engineering · Distributed Systems · AI Engineering Direction
 
 **BSc (Hons) IT Undergraduate @ SLIIT · Sri Lanka**
 
@@ -11,7 +11,7 @@ Building reliable systems that can be **explained, tested, observed and improved
 <br/>
 
 ![Open to Internships](https://img.shields.io/badge/Open%20to-Software%20Engineering%20Internships-0F172A?style=flat-square)
-![Primary Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Platform-0F172A?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Platform-0F172A?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-21-0F172A?style=flat-square&logo=openjdk)
 ![Cloud Native](https://img.shields.io/badge/Cloud-Native-0F172A?style=flat-square&logo=kubernetes)
 
@@ -33,31 +33,25 @@ Building reliable systems that can be **explained, tested, observed and improved
 
 <table>
 <tr>
-<td width="26%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/profpic.png" alt="Poojana Kaveesh" width="195" />
+<img src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/profpic.png" alt="Poojana Kaveesh" width="190" />
 
 ### Poojana Kaveesh
 
 **IT Undergraduate**  
-Software & Platform Engineering  
+Backend & Platform Engineering  
 Distributed Systems  
 AI Engineering Direction
 
 </td>
-<td width="74%" valign="top">
+<td width="75%" valign="top">
 
-I am a **BSc (Hons) in Information Technology undergraduate at SLIIT** building strong software-engineering foundations before moving deeper into **Artificial Intelligence**.
+I am a **BSc (Hons) in Information Technology undergraduate at SLIIT** focused on building strong software-engineering fundamentals and moving progressively toward **Artificial Intelligence**.
 
-I prefer complete, demonstrable systems over isolated demos: backend services, distributed architecture, cloud infrastructure, observability, desktop software, IoT and automation.
+I prefer complete, demonstrable systems over isolated demos. My projects span backend services, distributed architecture, cloud infrastructure, observability, desktop software, IoT and automation.
 
-My engineering priorities are simple:
-
-- build systems I can explain in an interview;
-- treat security, reliability and observability as engineering requirements;
-- validate features with tests and runtime evidence;
-- keep architecture understandable instead of hiding complexity behind presentation;
-- continuously strengthen Java, Python, DSA, backend engineering and AI fundamentals.
+I care about four things in every serious project: **clear architecture, measurable reliability, security by design, and evidence that the system actually works**.
 
 > **Engineering principle:** build systems that can be explained, measured and improved.
 
@@ -67,27 +61,25 @@ My engineering priorities are simple:
 
 ---
 
-## ⚡ Recruiter TL;DR
+## ⚡ Recruiter Snapshot
 
-| Area | What I am building / practicing |
+| Area | Evidence / current focus |
 |---|---|
-| **Backend engineering** | Java 21, Spring Boot, REST APIs, validation, structured error handling |
-| **Security** | JWT, refresh-token lifecycle, RBAC, scoped permissions, fail-closed behavior |
+| **Backend engineering** | Java 21, Spring Boot, REST APIs, validation, structured failure handling |
 | **Distributed systems** | Redis, RabbitMQ, service boundaries, asynchronous workflows |
-| **Reliability** | Circuit breakers, retries, timeouts, health checks, recovery paths |
-| **Observability** | OpenTelemetry, Prometheus, Grafana, Loki, Tempo |
-| **Cloud native** | Docker Compose, Kubernetes, Helm, AWS deployment foundations |
-| **Desktop engineering** | Electron, React, TypeScript, FFmpeg, process management |
+| **Security** | JWT, refresh-token lifecycle, RBAC, scoped permissions, fail-closed behavior |
+| **Reliability** | Circuit breakers, retries, timeouts, health checks and recovery paths |
+| **Observability** | OpenTelemetry, Prometheus, Grafana, Loki and Tempo |
+| **Cloud native** | Docker Compose, Kubernetes, Helm and AWS deployment foundations |
+| **Desktop engineering** | Electron, React, TypeScript, FFmpeg and process management |
 | **IoT / embedded** | Arduino, ESP8266, Firebase telemetry, alerts and control logic |
 | **AI direction** | Python, ML foundations, LLM/agent architecture and production-AI concepts |
 
 **Best fit today:** software engineering, backend or platform engineering internships where I can contribute to real systems while learning from experienced engineers.
 
-**Open to:** internships, engineering collaborations, open-source contributions and opportunities to learn from strong software teams.
-
 ---
 
-## 🚀 Flagship projects
+## 🚀 Flagship Projects
 
 <table>
 <tr>
@@ -98,7 +90,7 @@ My engineering priorities are simple:
 
 A staged platform centered on API gateway design, identity, JWT/RBAC, PostgreSQL, Redis, RabbitMQ, resilience, metrics, logs, traces, Docker, Kubernetes and Helm.
 
-**Demonstrates:** architecture · security · messaging · caching · observability · resilience · deployment · engineering governance
+**Demonstrates:** architecture · security · messaging · caching · observability · resilience · deployment
 
 `Java 21` `Spring Boot` `PostgreSQL` `Redis` `RabbitMQ` `OpenTelemetry` `Kubernetes`
 
@@ -112,7 +104,7 @@ A staged platform centered on API gateway design, identity, JWT/RBAC, PostgreSQL
 
 A real-time system connecting physical sensors, embedded controllers, Firebase, AWS-hosted services and WhatsApp alerts.
 
-**Demonstrates:** hardware/software integration · telemetry · real-time state · cloud deployment · alerting · failure handling
+**Demonstrates:** hardware/software integration · telemetry · cloud deployment · real-time state · alerting · failure handling
 
 `Arduino` `ESP8266` `Firebase` `AWS` `Node.js` `Flutter`
 
@@ -154,20 +146,7 @@ A responsive portfolio presenting project case studies, engineering decisions, a
 
 ---
 
-## 🧩 What I can explain in an interview
-
-| Project | Engineering conversation |
-|---|---|
-| **Aetheris** | Service boundaries, JWT/RBAC, refresh-token lifecycle, Redis caching, RabbitMQ events, resilience patterns, observability and Kubernetes trade-offs |
-| **FloodGuard** | Sensor error handling, controller/cloud boundaries, real-time state, stale-data protection, emergency alert logic and hardware/software integration |
-| **AnyDL Pro Ultra** | Electron IPC/contextBridge, child-process lifecycle, FFmpeg/yt-dlp integration, progress parsing, packaging and failure handling |
-| **Portfolio** | Responsive UI decisions, accessibility, animation/performance trade-offs, CI and Vercel deployment |
-
-I use these projects as engineering case studies rather than only as finished-product showcases: I should be able to explain **why** a design exists, what could fail, how I verified it and what I would improve next.
-
----
-
-## ✅ Engineering evidence
+## ✅ Engineering Evidence
 
 I try to support technical claims with something a reviewer can inspect.
 
@@ -177,14 +156,13 @@ I try to support technical claims with something a reviewer can inspect.
 | **Architecture reasoning** | [Aetheris architecture decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) |
 | **Verification discipline** | [Aetheris verification checklist](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/verification-checklist.md) |
 | **Cloud-native foundations** | Docker Compose, Kubernetes and Helm assets in Aetheris |
-| **Security hygiene** | Security policies, credential lifecycle design and scoped authorization patterns across flagship projects |
 | **Deployment experience** | AWS/PM2 flows in FloodGuard-related services and Vercel deployment for the portfolio |
 
-**Evidence first:** if a capability is experimental, incomplete or not physically validated yet, I prefer to label it that way instead of presenting it as finished production functionality.
+> **Evidence first:** experimental or incomplete capabilities should be labelled as such rather than presented as finished production functionality.
 
 ---
 
-## 🧰 Technical stack
+## 🧰 Technical Stack
 
 <div align="center">
 
@@ -212,24 +190,10 @@ I try to support technical claims with something a reviewer can inspect.
 
 ---
 
-## 🧭 Engineering approach
-
-<table>
-<tr>
-<td align="center"><b>01</b><br/>Understand</td>
-<td align="center"><b>02</b><br/>Design</td>
-<td align="center"><b>03</b><br/>Build</td>
-<td align="center"><b>04</b><br/>Test</td>
-<td align="center"><b>05</b><br/>Observe</td>
-<td align="center"><b>06</b><br/>Improve</td>
-<td align="center"><b>07</b><br/>Ship</td>
-</tr>
-</table>
+## 🧭 Current Focus
 
 ```text
 Software fundamentals
-        ↓
-Data structures + problem solving
         ↓
 Java + backend engineering
         ↓
@@ -239,18 +203,14 @@ Security + observability + reliability
         ↓
 Python + data foundations
         ↓
-Machine learning + deep learning
-        ↓
-LLMs + agents + RAG
-        ↓
-Production AI systems
+Machine learning + modern AI systems
 ```
 
 **Currently strengthening:** `Java` · `DSA` · `backend engineering` · `distributed systems` · `cloud architecture` · `Python` · `AI fundamentals`
 
 ---
 
-## 📈 GitHub activity
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -265,25 +225,13 @@ Production AI systems
 
 ---
 
-## 🎯 Current direction
-
-I am building toward **software engineering, backend/platform engineering and distributed-systems roles**, while developing the foundations needed to move deeper into **AI engineering**.
-
-My current focus is to:
-
-- deepen Java, Python, DSA and backend fundamentals;
-- keep Aetheris interview-ready with real engineering evidence;
-- expand FloodGuard as a complete hardware + cloud + application ecosystem;
-- improve testing, security, documentation, observability and deployment practices;
-- build a consistent public engineering record through GitHub and open source.
-
----
-
-## 🎓 Education
+## 🎓 Education & Direction
 
 **Sri Lanka Institute of Information Technology — SLIIT**  
 **BSc (Hons) in Information Technology**  
 Undergraduate · Planned future direction: **Artificial Intelligence**
+
+I am building toward **software engineering, backend/platform engineering and distributed-systems roles**, while developing the foundations needed to move deeper into **AI engineering** over time.
 
 ---
 
