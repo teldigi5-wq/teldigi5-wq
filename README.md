@@ -47,7 +47,7 @@ Building reliable systems that can be **explained, tested, observed and improved
 
 **Software engineering undergraduate building toward backend, platform and AI engineering.**
 
-I build complete systems across **distributed backends, cloud infrastructure, IoT and desktop software**, with an emphasis on **clear architecture, security, reliability and verifiable engineering evidence**.
+I build complete systems across **distributed backends, cloud infrastructure, AI runtimes, IoT and application engineering**, with an emphasis on **clear architecture, security, reliability and verifiable engineering evidence**.
 
 `Java` · `Spring Boot` · `Distributed Systems` · `Cloud Native` · `Python` · `AI Foundations`
 
@@ -70,7 +70,7 @@ I build complete systems across **distributed backends, cloud infrastructure, Io
 | **Cloud native** | Docker Compose, Kubernetes, Helm and AWS deployment foundations |
 | **Application engineering** | React, TypeScript, Electron, Node.js and Flutter |
 | **IoT / embedded** | Arduino, ESP8266, Firebase telemetry, alerts and control logic |
-| **AI direction** | Python, ML foundations, LLM/agent architecture and production-AI concepts |
+| **AI engineering direction** | Runtime orchestration, retrieval/verification foundations, agent boundaries and production-AI concepts |
 
 **Best fit today:** software engineering, backend or platform engineering internships where I can contribute to real systems while learning from experienced engineers.
 
@@ -81,6 +81,8 @@ I build complete systems across **distributed backends, cloud infrastructure, Io
 | Focus | What I am working on |
 |---|---|
 | **Aetheris Platform** | Strengthening a cloud-native distributed platform with secure services, messaging, observability, resilience and deployment evidence |
+| **Aetheris AI Runtime** | Separating and certifying orchestration, reasoning, workstation-agent and quantitative-intelligence runtime boundaries |
+| **FinalForge** | Building a secure responsive academic platform with verified student access, mock exams, progress tracking and admin workflows |
 | **FloodGuard** | Expanding an IoT flood-monitoring ecosystem across sensing, control, Firebase, AWS and real-time alerting |
 | **Engineering fundamentals** | Deepening Java, DSA, backend design, distributed systems, cloud architecture and Python/AI foundations |
 
@@ -103,6 +105,38 @@ A staged platform centered on API gateway design, identity, JWT/RBAC, PostgreSQL
 `Java 21` `Spring Boot` `PostgreSQL` `Redis` `RabbitMQ` `OpenTelemetry` `Kubernetes`
 
 [Architecture decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) · [Verification checklist](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/verification-checklist.md) · [CI](https://github.com/teldigi5-wq/aetheris-platform/actions)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Aetheris AI Runtime](https://github.com/teldigi5-wq/aetheris-ai-runtime)
+**Independent AI runtime and orchestration engineering repository**
+
+**Status:** Active development / certified integration checkpoints  
+**My contribution:** runtime separation, orchestration boundaries, reasoning foundations, governance, verification and CI certification
+
+Owns the Aetheris orchestration service, workstation-agent foundations, reasoning/retrieval components and quantitative-intelligence runtime behind explicit platform contracts.
+
+`Python` `AI Orchestration` `Agent Architecture` `Retrieval` `Governance` `CI/CD`
+
+[Runtime boundary](https://github.com/teldigi5-wq/aetheris-ai-runtime#repository-boundary) · [Certification](https://github.com/teldigi5-wq/aetheris-ai-runtime#certification-and-truth-boundaries) · [CI](https://github.com/teldigi5-wq/aetheris-ai-runtime/actions)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚒️ [FinalForge](https://github.com/teldigi5-wq/finalforge)
+**Secure responsive academic study platform**
+
+**Status:** Active development / deployed web platform  
+**My contribution:** product architecture, authentication flow, mock-exam experience, progress workflows, responsive UI and deployment
+
+A student platform for lecture resources, revision, quizzes and mock exams with an approved Student-ID allowlist, SLIIT email verification, autosaved exam state, analytics and admin tooling.
+
+`JavaScript` `Firebase Auth` `Firestore` `HTML` `CSS` `PWA` `Vercel`
+
+[Repository](https://github.com/teldigi5-wq/finalforge) · [CI](https://github.com/teldigi5-wq/finalforge/actions)
 
 </td>
 <td width="50%" valign="top">
@@ -161,11 +195,12 @@ A portfolio presenting project case studies, engineering decisions, architecture
 
 | Signal | Public evidence |
 |---|---|
-| **Automated validation** | [Aetheris Actions](https://github.com/teldigi5-wq/aetheris-platform/actions) · [FloodGuard Actions](https://github.com/teldigi5-wq/floodguard-whatsapp-bot/actions) · [AnyDL Actions](https://github.com/teldigi5-wq/anydl-pro-ultra/actions) · [Portfolio Actions](https://github.com/teldigi5-wq/poojana-portfolio/actions) |
-| **Architecture reasoning** | [Aetheris architecture decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) |
-| **Verification discipline** | [Aetheris verification checklist](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/verification-checklist.md) |
+| **Automated validation** | [Aetheris Platform Actions](https://github.com/teldigi5-wq/aetheris-platform/actions) · [Aetheris Runtime Actions](https://github.com/teldigi5-wq/aetheris-ai-runtime/actions) · [FinalForge Actions](https://github.com/teldigi5-wq/finalforge/actions) · [FloodGuard Actions](https://github.com/teldigi5-wq/floodguard-whatsapp-bot/actions) · [AnyDL Actions](https://github.com/teldigi5-wq/anydl-pro-ultra/actions) |
+| **Architecture reasoning** | [Aetheris architecture decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) · [AI runtime repository boundary](https://github.com/teldigi5-wq/aetheris-ai-runtime#repository-boundary) |
+| **Verification discipline** | [Aetheris verification checklist](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/verification-checklist.md) · [Runtime certification boundaries](https://github.com/teldigi5-wq/aetheris-ai-runtime#certification-and-truth-boundaries) |
+| **Secure application flows** | FinalForge student allowlist, verified academic-email signup and protected admin/backend boundaries |
 | **Cloud-native foundations** | Docker Compose, Kubernetes and Helm assets in Aetheris |
-| **Deployment experience** | AWS/PM2 flows in FloodGuard-related services and Vercel deployment for the portfolio |
+| **Deployment experience** | AWS/PM2 flows in FloodGuard-related services and Vercel deployments for FinalForge and the portfolio |
 
 > **Evidence first:** experimental or incomplete capabilities should be labelled as such rather than presented as finished production functionality.
 
@@ -176,7 +211,7 @@ A portfolio presenting project case studies, engineering decisions, architecture
 - I prefer **understanding systems deeply** instead of only making them look finished.
 - I think about **failure modes, security, observability and maintainability**, not only the happy path.
 - I document important decisions so I can explain **why** an implementation exists.
-- I am comfortable learning across backend, cloud, desktop and embedded boundaries when a project requires it.
+- I am comfortable learning across backend, cloud, AI runtime, application and embedded boundaries when a project requires it.
 - I am actively strengthening the fundamentals expected in professional engineering teams: **problem solving, code quality, testing and communication**.
 
 ---
