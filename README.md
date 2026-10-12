@@ -86,6 +86,7 @@ I build end-to-end systems across **distributed backends, cloud infrastructure, 
 | **[Aetheris AI Runtime](https://github.com/teldigi5-wq/aetheris-ai-runtime)** | Independent orchestration/reasoning runtime with explicit platform contracts, governance and certification boundaries |
 | **[FinalForge](https://github.com/teldigi5-wq/finalforge)** | Secure responsive student platform with verified academic access, mock exams, progress workflows and admin tooling |
 | **[FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)** | IoT flood-monitoring ecosystem across sensing, control, Firebase, AWS and real-time alerting |
+| **[Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel)** | Global travel planner with validated trip budgeting and an n8n/Groq research-agent beta; provider-backed flight/hotel price adapters in development, not yet a public booking service |
 
 Alongside project work, I am deepening **Java, DSA, backend design, distributed systems, cloud architecture and Python/AI fundamentals**.
 
@@ -175,6 +176,16 @@ A responsive portfolio focused on project case studies, engineering decisions, a
 </td>
 </tr>
 </table>
+
+### 🌍 Wayfarer — travel product engineering case study
+
+[Repository](https://github.com/teldigi5-wq/wayfarer-world-travel) · [Live deterministic planner](https://wayfarer-world-travel.vercel.app/) · [AI beta pull request](https://github.com/teldigi5-wq/wayfarer-world-travel/pull/4)
+
+Wayfarer explores the journey from **Discover → Plan → Arrive → Explore**. Its public static planner offers deterministic itineraries, transparent USD ground-budget allocation, saved trips and travel-research handoffs. In a separate, unmerged beta, three genuine Groq-backed n8n agents return destination, flight/hotel research and itinerary guidance.
+
+**Data integrity boundary:** AI text is not flight inventory, seat availability, hotel pricing, restaurant menus or verified transit fares. Work on credential-gated travel-provider adapters is tracked separately; real-time offers will appear only when a licensed production data source is configured and tested.
+
+`JavaScript` `Node.js` `n8n` `Groq` `REST APIs` `Vercel` `GitHub Actions`
 
 ### More work
 
