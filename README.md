@@ -85,7 +85,7 @@ I build end-to-end systems across **distributed backends, cloud infrastructure, 
 | **[Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform)** | Cloud-native distributed platform: secure services, messaging, observability, resilience, Kubernetes and certified external-runtime integration |
 | **[Aetheris AI Runtime](https://github.com/teldigi5-wq/aetheris-ai-runtime)** | Independent orchestration/reasoning runtime with explicit platform contracts, governance and certification boundaries |
 | **[FinalForge](https://github.com/teldigi5-wq/finalforge)** | Secure responsive student platform with verified academic access, mock exams, progress workflows and admin tooling |
-| **[FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)** | IoT flood-monitoring ecosystem across sensing, control, Firebase, AWS and real-time alerting |
+| **[FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)** | Cross-client release engineering for Flutter, Firebase RTDB privacy, child-only bot streams and approval-gated AWS rollout; production deployment and physical verification remain pending |
 | **[Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel)** | Zero-budget worldwide travel planner with six deterministic browser-based assistants, sourced local data and explicit limits around live travel information |
 
 Alongside project work, I am deepening **Java, DSA, backend design, distributed systems, cloud architecture and Python/AI fundamentals**.
@@ -155,11 +155,13 @@ A student platform for lecture resources, revision, quizzes and mock exams with 
 ### 🌊 [FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)
 **IoT flood monitoring and emergency-response ecosystem**
 
-A real-time project connecting physical sensors, embedded controllers, Firebase telemetry, AWS-hosted services and WhatsApp alert workflows.
+A real-time project connecting physical sensors, embedded controllers, Firebase telemetry, AWS-hosted services, Flutter monitoring and WhatsApp alert workflows. Current review work adds child-only RTDB reads, emulator-backed privacy checks and an exact-commit, manually approved EC2 rollout path.
 
 `Arduino` `ESP8266` `Firebase` `AWS` `Node.js` `Flutter`
 
-[Repository](https://github.com/teldigi5-wq/floodguard-whatsapp-bot) · [CI](https://github.com/teldigi5-wq/floodguard-whatsapp-bot/actions)
+[Mobile QA PR](https://github.com/teldigi5-wq/floodguard-mobile/pull/1) · [Bot security PR](https://github.com/teldigi5-wq/floodguard-whatsapp-bot/pull/12) · [Firebase privacy PR](https://github.com/teldigi5-wq/floodguard-website/pull/8)
+
+<sub>Review branches and CI are public evidence. EC2 rollout, Firebase rules publication, firmware changes and physical-device verification remain explicitly gated.</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -189,7 +191,7 @@ A responsive portfolio focused on project case studies, engineering decisions, a
 
 | Signal | Public evidence |
 |---|---|
-| **Automated validation** | [Aetheris Platform Actions](https://github.com/teldigi5-wq/aetheris-platform/actions) · [Aetheris Runtime Actions](https://github.com/teldigi5-wq/aetheris-ai-runtime/actions) · [Averis Actions](https://github.com/teldigi5-wq/averis-ai/actions) · [FinalForge Actions](https://github.com/teldigi5-wq/finalforge/actions) · [Wayfarer Actions](https://github.com/teldigi5-wq/wayfarer-world-travel/actions) |
+| **Automated validation** | [Aetheris Platform Actions](https://github.com/teldigi5-wq/aetheris-platform/actions) · [Aetheris Runtime Actions](https://github.com/teldigi5-wq/aetheris-ai-runtime/actions) · [Averis Actions](https://github.com/teldigi5-wq/averis-ai/actions) · [FloodGuard mobile](https://github.com/teldigi5-wq/floodguard-mobile/actions) · [bot](https://github.com/teldigi5-wq/floodguard-whatsapp-bot/actions) · [rules/website](https://github.com/teldigi5-wq/floodguard-website/actions) · [FinalForge Actions](https://github.com/teldigi5-wq/finalforge/actions) · [Wayfarer Actions](https://github.com/teldigi5-wq/wayfarer-world-travel/actions) |
 | **Architecture reasoning** | [Aetheris architecture decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) · [Averis roadmap](https://github.com/teldigi5-wq/averis-ai/blob/main/docs/ROADMAP.md) |
 | **Verification discipline** | [Aetheris verification checklist](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/verification-checklist.md) · runtime certification boundaries |
 | **Secure application flows** | FinalForge approved-student access boundary · Averis Supabase Auth/RLS and server-enforced beta credits |
