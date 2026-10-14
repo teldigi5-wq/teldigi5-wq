@@ -248,12 +248,12 @@ A responsive portfolio focused on project case studies, engineering decisions, a
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teldigi5-wq&theme=github_dark" alt="GitHub statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teldigi5-wq&theme=github_dark" alt="Repositories per language" />
+<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" />
+<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language" />
 
 <br/>
 
-<img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teldigi5-wq&theme=github_dark" alt="GitHub profile details" />
+<img width="99%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" />
 
 </div>
 
