@@ -255,6 +255,8 @@ A responsive portfolio focused on project case studies, engineering decisions, a
 
 <img width="99%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" />
 
+<sub>Language percentages: share of the five displayed primary repository languages. Contributions: monthly totals, refreshed daily.</sub>
+
 </div>
 
 ---
