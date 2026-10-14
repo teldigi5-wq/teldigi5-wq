@@ -46,9 +46,9 @@ Building systems that can be **explained, tested, observed, secured and improved
 </td>
 <td width="78%" valign="middle">
 
-**Software engineering undergraduate building toward backend, platform and production-AI engineering.**
+**Software engineering undergraduate focused on backend, platform and applied AI engineering.**
 
-I build end-to-end systems across **distributed backends, cloud infrastructure, AI runtimes, student SaaS products, IoT and application engineering**. My strongest projects emphasize **clear architecture, security, reliability, CI evidence and honest technical boundaries** rather than feature claims alone.
+I build end-to-end systems across **distributed backends, cloud infrastructure, AI runtimes, student SaaS products, IoT and application engineering**. My projects emphasize **clear architecture, security, reliability, automated validation and well-defined technical boundaries**.
 
 `Java` · `Spring Boot` · `Distributed Systems` · `Cloud Native` · `Python` · `FastAPI` · `Next.js` · `AI Foundations`
 
@@ -86,7 +86,7 @@ I build end-to-end systems across **distributed backends, cloud infrastructure, 
 | **[Aetheris AI Runtime](https://github.com/teldigi5-wq/aetheris-ai-runtime)** | Independent orchestration/reasoning runtime with explicit platform contracts, governance and certification boundaries |
 | **[FinalForge](https://github.com/teldigi5-wq/finalforge)** | Secure responsive student platform with verified academic access, mock exams, progress workflows and admin tooling |
 | **[FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)** | IoT flood-monitoring ecosystem across sensing, control, Firebase, AWS and real-time alerting |
-| **[Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel)** | Zero-budget worldwide travel planner with six deterministic browser-based assistants, sourced local data and explicit limits around live travel information |
+| **[Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel)** | Worldwide travel planner with six deterministic browser-based assistants, sourced local data and optional, credential-gated AI and travel-search integrations |
 
 Alongside project work, I am deepening **Java, DSA, backend design, distributed systems, cloud architecture and Python/AI fundamentals**.
 
@@ -113,7 +113,7 @@ A platform-engineering project centered on API gateway design, identity, JWT/RBA
 ### 🤖 [Aetheris AI Runtime](https://github.com/teldigi5-wq/aetheris-ai-runtime)
 **Independent AI runtime and orchestration engineering repository**
 
-Owns the extracted Aetheris orchestration, reasoning, workstation-agent and quantitative-intelligence runtime behind explicit platform contracts and evidence-driven certification boundaries.
+Owns Aetheris orchestration, reasoning, workstation-agent foundations and quantitative-intelligence research behind explicit platform contracts and certification boundaries. Physical-PC validation remains pending.
 
 `Python` `AI Orchestration` `Agent Architecture` `Retrieval` `Governance` `CI/CD`
 
@@ -139,7 +139,7 @@ AI-assisted capabilities are deliberately advisory: similarity evidence is kept 
 <td width="50%" valign="top">
 
 ### ⚒️ [FinalForge](https://github.com/teldigi5-wq/finalforge)
-**Secure responsive academic study platform**
+**Secure, responsive academic study platform**
 
 A student platform for lecture resources, revision, quizzes and mock exams with an approved Student-ID allowlist, derived SLIIT mailbox verification, autosaved exam state, progress workflows and admin tooling.
 
@@ -153,9 +153,9 @@ A student platform for lecture resources, revision, quizzes and mock exams with 
 <td width="50%" valign="top">
 
 ### 🌊 [FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)
-**IoT flood monitoring and emergency-response ecosystem**
+**IoT flood-monitoring and notification prototype**
 
-A real-time project connecting physical sensors, embedded controllers, Firebase telemetry, AWS-hosted services and WhatsApp alert workflows.
+A monitoring prototype connecting physical sensors, embedded controllers, Firebase telemetry and AWS-hosted WhatsApp alerts, with stale-data handling and transition-based notifications.
 
 `Arduino` `ESP8266` `Firebase` `AWS` `Node.js` `Flutter`
 
@@ -180,7 +180,7 @@ A responsive portfolio focused on project case studies, engineering decisions, a
 ### More work
 
 - 🎬 **[AnyDL Pro Ultra](https://github.com/teldigi5-wq/anydl-pro-ultra)** — Electron/React desktop media workflow using `yt-dlp`, `FFmpeg`, IPC and Windows packaging.
-- 🧭 **[Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel)** — static travel planner coordinating destination research, flight handoff, nearby hotel discovery, itineraries, budgets and safety checklists without paid APIs or fabricated live availability.
+- 🧭 **[Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel)** — travel planner with a free static research baseline, itineraries, budgets and safety checklists. Optional AI and flight/hotel searches require credentials; bookings and live availability are not guaranteed.
 - 💬 **[FloodGuard WhatsApp Bot](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)** — real-time alert delivery and remote system status around the FloodGuard ecosystem.
 
 ---
@@ -205,7 +205,7 @@ A responsive portfolio focused on project case studies, engineering decisions, a
 - **Understand the system, not just the screen.** I want to know the boundaries, data flow and failure modes behind a feature.
 - **Security should fail closed.** Authentication, authorization and infrastructure failures should not silently weaken trust boundaries.
 - **Tests and CI are engineering evidence.** A feature is stronger when its expected behavior can be repeatedly verified.
-- **Observability matters.** Metrics, logs and traces make distributed systems understandable when the happy path stops being happy.
+- **Observability matters.** Metrics, logs and traces help explain system behavior and diagnose failures.
 - **AI output is not automatically truth.** AI-assisted products should separate model suggestions from deterministic evidence and policy.
 - **Documentation is part of the system.** Important architecture and maturity decisions should be explainable during review or interview.
 
@@ -263,7 +263,7 @@ A responsive portfolio focused on project case studies, engineering decisions, a
 
 **Sri Lanka Institute of Information Technology — SLIIT**  
 **BSc (Hons) in Information Technology**  
-Undergraduate · Building foundations toward a future **Artificial Intelligence** specialization direction
+Undergraduate · Developing foundations for a future specialization in **Artificial Intelligence**
 
 ---
 
