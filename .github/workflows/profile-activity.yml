@@ -34,6 +34,12 @@ jobs:
           AUTO_PUSH: 'false'
           ANIMATION: 'none'
 
+      - name: Test chart enhancements
+        run: python3 scripts/enhance_activity_cards.py --self-test
+
+      - name: Add actual language percentages and refresh date
+        run: python3 scripts/enhance_activity_cards.py
+
       - name: Validate regenerated cards
         shell: bash
         run: |
@@ -46,6 +52,8 @@ jobs:
             test -s "$file"
             grep -q '<svg' "$file"
           done
+          grep -q 'data-profile-enhancement="percentage"' profile-summary-card-output/github_dark/1-repos-per-language.svg
+          grep -q 'data-profile-enhancement="refreshed"' profile-summary-card-output/github_dark/0-profile-details.svg
 
       - name: Commit updated cards if necessary
         shell: bash
