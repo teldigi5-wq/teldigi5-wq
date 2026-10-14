@@ -109,7 +109,7 @@ def self_test() -> None:
         '<g class="arc"><path d="M0,60A60,60,0,0,1,0,-60L0,-35Z"/></g></svg>'
     )
     annotated = annotate_languages(example)
-    assert annotated.count("50.0%") == 3  # two legend values and accessible description
+    assert annotated.count("50.0%") == 4  # two legend values and two in the accessible description
     assert annotated.count(MARKER) == 2
     assert "<title>Top five languages by repository</title>" in annotated
     chart = "<svg><text>contributions in the last year</text></svg>"
