@@ -10,7 +10,7 @@ from xml.etree import ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 README = ROOT / "README.md"
-BRAND_ASSETS = ("assets/engineering-hero.svg", "assets/engineering-pulse.svg", "assets/technical-toolkit.svg")
+BRAND_ASSETS = ("assets/engineering-hero.svg", "assets/engineering-pulse.svg")
 CHARTS = (
     "0-profile-details.svg",
     "1-repos-per-language.svg",
@@ -82,23 +82,29 @@ class ProfileReadmeTests(unittest.TestCase):
                     local_path = url.path.split("/main/", 1)[-1]
                     self.assertTrue((ROOT / local_path).is_file(), local_path)
 
-    def test_visual_toolkit_and_navigation_remain_recruiter_friendly(self):
-        self.assertNotIn("| Discipline | Tools used or currently studied |", self.readme)
-        self.assertIn("assets/technical-toolkit.svg?v=", self.readme)
-        self.assertIn("Explore my stack as text", self.readme)
-        self.assertIn("not proficiency ratings", self.readme.lower())
+    def test_original_skill_icons_and_focus_strip_are_restored(self):
+        self.assertNotIn("assets/technical-toolkit.svg", self.readme)
+        self.assertIn("Original animated engineering practice strip", self.readme)
+        self.assertIn("## 🧰 Technical Toolkit", self.readme)
+        self.assertIn("Technologies shown are tools I use, study or actively experiment with", self.readme)
+        icon_groups = (
+            "java,spring,python,fastapi,postgres,redis,rabbitmq,docker,kubernetes,linux",
+            "nextjs,react,ts,js,nodejs,electron,flutter,dart,html,css",
+            "aws,firebase,supabase,git,github,arduino,vite",
+        )
+        for icons in icon_groups:
+            with self.subTest(icons=icons):
+                self.assertIn("https://skillicons.dev/icons?i=" + icons, self.readme)
+        strip = (ROOT / "assets/engineering-pulse.svg").read_text(encoding="utf-8")
+        for area in ("BACKEND", "DISTRIBUTED", "CLOUD", "OBSERVABILITY", "IOT", "AI DIRECTION"):
+            with self.subTest(area=area):
+                self.assertIn(area, strip)
         for anchor in (
             "#-currently-building", "#-engineering-evidence",
             "#-technical-toolkit", "#-github-activity",
         ):
             with self.subTest(anchor=anchor):
                 self.assertIn('href="' + anchor + '"', self.readme)
-        pulse = (ROOT / "assets/engineering-pulse.svg").read_text(encoding="utf-8")
-        toolkit = (ROOT / "assets/technical-toolkit.svg").read_text(encoding="utf-8")
-        for domain in ("BACKEND", "SECURITY", "APPLIED AI", "PRODUCT", "DELIVERY"):
-            self.assertIn(domain, pulse)
-        for skill in ("Java 21", "React", "PostgreSQL", "GitHub Actions", "OpenTelemetry"):
-            self.assertIn(skill, toolkit)
 
     def test_generated_chart_urls_are_cache_versioned(self):
         for name in CHARTS:
