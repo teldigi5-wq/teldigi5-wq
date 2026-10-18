@@ -10,7 +10,7 @@ from xml.etree import ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 README = ROOT / "README.md"
-BRAND_ASSETS = ("assets/engineering-hero.svg", "assets/engineering-pulse.svg")
+BRAND_ASSETS = ("assets/engineering-hero.svg", "assets/engineering-pulse.svg", "assets/technical-toolkit.svg")
 CHARTS = (
     "0-profile-details.svg",
     "1-repos-per-language.svg",
@@ -81,6 +81,24 @@ class ProfileReadmeTests(unittest.TestCase):
                 if src.group(1).startswith(RAW):
                     local_path = url.path.split("/main/", 1)[-1]
                     self.assertTrue((ROOT / local_path).is_file(), local_path)
+
+    def test_visual_toolkit_and_navigation_remain_recruiter_friendly(self):
+        self.assertNotIn("| Discipline | Tools used or currently studied |", self.readme)
+        self.assertIn("assets/technical-toolkit.svg?v=", self.readme)
+        self.assertIn("Explore my stack as text", self.readme)
+        self.assertIn("not proficiency ratings", self.readme.lower())
+        for anchor in (
+            "#-currently-building", "#-engineering-evidence",
+            "#-technical-toolkit", "#-github-activity",
+        ):
+            with self.subTest(anchor=anchor):
+                self.assertIn('href="' + anchor + '"', self.readme)
+        pulse = (ROOT / "assets/engineering-pulse.svg").read_text(encoding="utf-8")
+        toolkit = (ROOT / "assets/technical-toolkit.svg").read_text(encoding="utf-8")
+        for domain in ("BACKEND", "SECURITY", "APPLIED AI", "PRODUCT", "DELIVERY"):
+            self.assertIn(domain, pulse)
+        for skill in ("Java 21", "React", "PostgreSQL", "GitHub Actions", "OpenTelemetry"):
+            self.assertIn(skill, toolkit)
 
     def test_generated_chart_urls_are_cache_versioned(self):
         for name in CHARTS:
