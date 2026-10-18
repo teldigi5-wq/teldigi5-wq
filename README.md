@@ -249,12 +249,12 @@ A responsive portfolio focused on project case studies, engineering decisions, a
 
 <div align="center">
 
-<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/3-stats.svg?v=20261018" alt="GitHub statistics" />
-<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg?v=20261018" alt="Repositories per language" />
+<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/3-stats.svg?v=6c27106b295f" alt="GitHub statistics" />
+<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg?v=90574b7c9236" alt="Repositories per language" />
 
 <br/>
 
-<img width="99%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/0-profile-details.svg?v=20261018" alt="GitHub profile details" />
+<img width="99%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/0-profile-details.svg?v=2dfa635495c2" alt="GitHub profile details" />
 
 <sub>Language percentages: share of the five displayed primary repository languages. Contributions: monthly totals, refreshed by scheduled GitHub Actions when available.</sub>
 
