@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-hero.svg" alt="Poojana Kaveesh — Software, Platform and AI Engineering" />
 
-### Software Engineering · Backend & Platform Engineering · Applied AI Product Engineering
+### Software Engineering · Backend Platforms · Applied AI · Security Engineering
 
 **BSc (Hons) IT Undergraduate @ SLIIT · Sri Lanka**
 
@@ -81,6 +81,7 @@ I build end-to-end systems across **distributed backends, cloud infrastructure, 
 
 | Project | Current engineering focus |
 |---|---|
+| **[Sentinel Security Platform](https://github.com/teldigi5-wq/sentinel-security-platform)** | Local-first, pre-production security engineering lab: signed event ingestion, replay protection, deterministic alerts and linked incident evidence. Not an operational SOC or endpoint protection system. |
 | **[Averis](https://github.com/teldigi5-wq/averis-ai)** | Evidence-first academic-integrity SaaS: document ingestion, deterministic similarity analysis, Supabase security boundaries and local/open AI integration |
 | **[Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform)** | Cloud-native distributed platform: secure services, messaging, observability, resilience, Kubernetes and certified external-runtime integration |
 | **[Aetheris AI Runtime](https://github.com/teldigi5-wq/aetheris-ai-runtime)** | Independent orchestration/reasoning runtime with explicit platform contracts, governance and certification boundaries |
@@ -248,14 +249,14 @@ A responsive portfolio focused on project case studies, engineering decisions, a
 
 <div align="center">
 
-<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" />
-<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language" />
+<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/3-stats.svg?v=20261018" alt="GitHub statistics" />
+<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg?v=20261018" alt="Repositories per language" />
 
 <br/>
 
-<img width="99%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" />
+<img width="99%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/0-profile-details.svg?v=20261018" alt="GitHub profile details" />
 
-<sub>Language percentages: share of the five displayed primary repository languages. Contributions: monthly totals, refreshed daily.</sub>
+<sub>Language percentages: share of the five displayed primary repository languages. Contributions: monthly totals, refreshed by scheduled GitHub Actions when available.</sub>
 
 </div>
 
