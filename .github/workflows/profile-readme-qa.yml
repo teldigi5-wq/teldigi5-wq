@@ -1,0 +1,33 @@
+name: Profile README quality
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - README.md
+      - 'assets/engineering-hero.svg'
+      - 'assets/engineering-pulse.svg'
+      - 'scripts/test_profile_readme.py'
+      - '.github/workflows/profile-readme-qa.yml'
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - 'assets/engineering-hero.svg'
+      - 'assets/engineering-pulse.svg'
+      - 'scripts/test_profile_readme.py'
+      - '.github/workflows/profile-readme-qa.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-profile:
+    name: Validate profile, image assets and links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Run dependency-free README checks
+        run: python3 -m unittest discover -s scripts -p 'test_profile_readme.py' -v
