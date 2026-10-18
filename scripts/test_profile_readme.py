@@ -55,20 +55,24 @@ class ProfileReadmeTests(unittest.TestCase):
         self.assertIn("Physical-machine validation remains pending", self.readme)
         self.assertIn("no confirmed booking inventory", self.readme)
 
-    def test_cinematic_hero_is_a_real_optimized_local_image(self):
-        hero = ROOT / "assets/poojana-cinematic-hero.webp"
-        self.assertTrue(hero.is_file(), "Published hero image must exist")
-        self.assertGreater(hero.stat().st_size, 10000)
-        self.assertLess(hero.stat().st_size, 100000, "Keep profile image lightweight")
-        with hero.open("rb") as stream:
-            magic = stream.read(12)
-        self.assertEqual(magic[:4], b"RIFF")
-        self.assertEqual(magic[8:12], b"WEBP")
-        self.assertIn(
-            "assets/poojana-cinematic-hero.webp?v=", self.readme,
-            "Profile should reference the new generated image with a cache key",
-        )
-        self.assertNotIn('src="' + RAW + 'assets/engineering-hero.svg"', self.readme)
+    def test_animated_vector_banner_is_local_and_bounded(self):
+        banner = ROOT / "assets/poojana-systems-3d-animated.svg"
+        self.assertTrue(banner.is_file())
+        self.assertLess(banner.stat().st_size, 18000)
+        data = banner.read_text(encoding="utf-8")
+        self.assertIn("@keyframes", data)
+        self.assertNotIn("<script", data.lower())
+        self.assertNotIn("<foreignObject", data)
+        self.assertIn("prefers-reduced-motion", data)
+        self.assertIn("assets/poojana-systems-3d-animated.svg?v=", self.readme)
+        self.assertNotIn('src="' + RAW + 'assets/poojana-cinematic-hero.webp', self.readme)
+        root = ET.fromstring(data)
+        self.assertTrue(root.tag.endswith("svg"))
+
+    def test_recent_toolkit_technologies_have_project_links(self):
+        for skill in ("HMAC-SHA256", "SQLite", "Playwright", "GSAP / ScrollTrigger", "n8n"):
+            self.assertIn(skill, self.readme)
+        self.assertIn("Some integrations are experimental or disabled in production", self.readme)
 
     def test_svg_assets_parse_and_are_accessible(self):
         for name in BRAND_ASSETS:
@@ -101,7 +105,7 @@ class ProfileReadmeTests(unittest.TestCase):
         self.assertNotIn("assets/technical-toolkit.svg", self.readme)
         self.assertIn("Original animated engineering practice strip", self.readme)
         self.assertIn("## 🧰 Technical Toolkit", self.readme)
-        self.assertIn("Technologies shown are tools I use, study or actively experiment with", self.readme)
+        self.assertIn("Technologies shown are tools used, studied or integrated in identifiable projects", self.readme)
         icon_groups = (
             "java,spring,python,fastapi,postgres,redis,rabbitmq,docker,kubernetes,linux",
             "nextjs,react,ts,js,nodejs,electron,flutter,dart,html,css",

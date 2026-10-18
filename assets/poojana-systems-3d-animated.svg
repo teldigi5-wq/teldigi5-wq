@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="460" viewBox="0 0 1400 460" role="img" aria-labelledby="title desc">
+<title id="title">Poojana Kaveesh — animated systems engineering banner</title>
+<desc id="desc">Midnight-blue premium engineering banner, bold Poojana Kaveesh typography and animated vector isometric service blocks connected by luminous data streams for API, Data and Trust. The motion respects reduced-motion settings.</desc>
+<defs>
+<linearGradient id="background" x2="1" y2="1"><stop stop-color="#020914"/><stop offset=".58" stop-color="#06172D"/><stop offset="1" stop-color="#020A17"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#1E9BE4" stop-opacity=".34"/><stop offset="1" stop-color="#0B2441" stop-opacity="0"/></radialGradient>
+<linearGradient id="titleGrad" x1="0" x2=".9" y1="0" y2="1"><stop stop-color="#FAFCFF"/><stop offset=".6" stop-color="#DCEAFF"/><stop offset="1" stop-color="#75BAFF"/></linearGradient>
+<linearGradient id="cyan" x1="0" x2="1"><stop stop-color="#4AE4FE"/><stop offset=".48" stop-color="#6C9FFD"/><stop offset="1" stop-color="#34F0D3"/></linearGradient>
+<linearGradient id="laser" x1="0" x2="1"><stop stop-color="#256DFF" stop-opacity=".12"/><stop offset=".4" stop-color="#76E8FF"/><stop offset=".8" stop-color="#4D8BFF"/><stop offset="1" stop-color="#3BD9D3" stop-opacity=".18"/></linearGradient>
+<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#73C9FD" opacity=".1" stroke-width=".7"/></pattern>
+<filter id="blueBlur" x="-55%" y="-55%" width="210%" height="210%"><feGaussianBlur stdDeviation="12"/></filter>
+<filter id="beamBlur" x="-50%" y="-100%" width="200%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+<clipPath id="round"><rect width="1396" height="456" x="2" y="2" rx="21"/></clipPath>
+<style>
+.name{font-family:'Arial', 'Segoe UI',sans-serif;font-weight:900;letter-spacing:1.5px}.mono{font-family:Consolas,Menlo,monospace}.caption{font-family:Arial,'Segoe UI',sans-serif}.dashFlow{stroke-dasharray:12 15;animation:flow 11s linear infinite}.ring{transform-origin:1110px 215px;animation:spin 42s linear infinite}.hoverBlock{animation:bob 6s ease-in-out infinite}.hoverBlock:nth-child(2){animation-delay:-2s}.hoverBlock:nth-child(3){animation-delay:-4s}.shimmer{animation:shimmer 5s ease-in-out infinite}.chip{animation:breathe 4s ease-in-out infinite}.beam{animation:beam 7s ease-in-out infinite}@keyframes flow{to{stroke-dashoffset:-324}}@keyframes spin{to{transform:rotate(360deg)}}@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}@keyframes breathe{0%,100%{opacity:.45}50%{opacity:1}}@keyframes shimmer{0%,100%{opacity:.35}50%{opacity:1}}@keyframes beam{0%,100%{opacity:.25}50%{opacity:.7}}@media(prefers-reduced-motion: reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
+</style>
+</defs>
+<g clip-path="url(#round)">
+<rect width="1400" height="460" fill="url(#background)"/><rect width="1400" height="460" fill="url(#grid)"/>
+<circle cx="1110" cy="201" r="315" fill="url(#glow)"/><circle cx="330" cy="500" r="300" fill="url(#glow)" opacity=".32"/>
+<path d="M730 45V415" stroke="#547FA6" opacity=".3"/><path d="M765 40H1372" stroke="#4D81AC" opacity=".28"/>
+<circle cx="1066" cy="99" r="1" fill="#7DBDEC" opacity="0.08"/><circle cx="809" cy="296" r="0.7" fill="#7DBDEC" opacity="0.19"/><circle cx="1331" cy="51" r="1.3" fill="#7DBDEC" opacity="0.14"/><circle cx="773" cy="66" r="1" fill="#7DBDEC" opacity="0.26"/><circle cx="806" cy="145" r="0.7" fill="#7DBDEC" opacity="0.26"/><circle cx="795" cy="311" r="0.7" fill="#7DBDEC" opacity="0.14"/><circle cx="1380" cy="343" r="1.3" fill="#7DBDEC" opacity="0.08"/><circle cx="1325" cy="321" r="1" fill="#7DBDEC" opacity="0.08"/><circle cx="961" cy="45" r="1.3" fill="#7DBDEC" opacity="0.14"/><circle cx="1031" cy="236" r="0.7" fill="#7DBDEC" opacity="0.08"/><circle cx="1319" cy="179" r="1.3" fill="#7DBDEC" opacity="0.14"/><circle cx="840" cy="319" r="1.3" fill="#7DBDEC" opacity="0.14"/><circle cx="1116" cy="71" r="1.3" fill="#7DBDEC" opacity="0.08"/><circle cx="1312" cy="52" r="1.3" fill="#7DBDEC" opacity="0.14"/><circle cx="1243" cy="370" r="1.3" fill="#7DBDEC" opacity="0.26"/><circle cx="1056" cy="260" r="1.3" fill="#7DBDEC" opacity="0.26"/><circle cx="1105" cy="175" r="0.7" fill="#7DBDEC" opacity="0.14"/><circle cx="984" cy="63" r="1.3" fill="#7DBDEC" opacity="0.19"/><circle cx="1272" cy="275" r="1" fill="#7DBDEC" opacity="0.26"/><circle cx="1029" cy="333" r="0.7" fill="#7DBDEC" opacity="0.08"/><circle cx="1259" cy="236" r="0.7" fill="#7DBDEC" opacity="0.19"/><circle cx="890" cy="272" r="1" fill="#7DBDEC" opacity="0.08"/><circle cx="814" cy="413" r="1.3" fill="#7DBDEC" opacity="0.19"/><circle cx="1083" cy="377" r="1" fill="#7DBDEC" opacity="0.26"/><circle cx="1328" cy="255" r="0.7" fill="#7DBDEC" opacity="0.08"/><circle cx="1011" cy="264" r="1.3" fill="#7DBDEC" opacity="0.08"/><circle cx="797" cy="396" r="1.3" fill="#7DBDEC" opacity="0.19"/><circle cx="1326" cy="370" r="1" fill="#7DBDEC" opacity="0.19"/><circle cx="1130" cy="364" r="1" fill="#7DBDEC" opacity="0.08"/><circle cx="1207" cy="203" r="0.7" fill="#7DBDEC" opacity="0.08"/><circle cx="1240" cy="52" r="0.7" fill="#7DBDEC" opacity="0.19"/><circle cx="867" cy="400" r="0.7" fill="#7DBDEC" opacity="0.26"/><circle cx="1135" cy="276" r="0.7" fill="#7DBDEC" opacity="0.14"/><circle cx="1194" cy="227" r="1.3" fill="#7DBDEC" opacity="0.19"/><circle cx="875" cy="242" r="1.3" fill="#7DBDEC" opacity="0.19"/><circle cx="1160" cy="205" r="1.3" fill="#7DBDEC" opacity="0.26"/><circle cx="971" cy="99" r="0.7" fill="#7DBDEC" opacity="0.14"/><circle cx="889" cy="140" r="1.3" fill="#7DBDEC" opacity="0.14"/><circle cx="747" cy="270" r="1.3" fill="#7DBDEC" opacity="0.14"/><circle cx="1004" cy="166" r="0.7" fill="#7DBDEC" opacity="0.14"/><circle cx="1164" cy="295" r="1" fill="#7DBDEC" opacity="0.19"/><circle cx="863" cy="375" r="1.3" fill="#7DBDEC" opacity="0.08"/><circle cx="1202" cy="421" r="1.3" fill="#7DBDEC" opacity="0.26"/><circle cx="1142" cy="226" r="1" fill="#7DBDEC" opacity="0.08"/><circle cx="1228" cy="346" r="1" fill="#7DBDEC" opacity="0.08"/>
+<!-- editorial nameplate -->
+<rect x="62" y="67" width="36" height="4" rx="2" fill="#60DDFF"/>
+<text x="114" y="73" fill="#7DCDF0" class="mono" font-size="15" letter-spacing="3">PK / SYSTEMS ENGINEERING</text>
+<path d="M62 115V344" stroke="url(#cyan)" stroke-width="4"/>
+<text x="104" y="211" fill="url(#titleGrad)" class="name" font-size="100">POOJANA</text>
+<text x="104" y="311" fill="url(#cyan)" class="name" font-size="100">KAVEESH</text>
+<rect x="106" y="332" width="604" height="1" fill="url(#cyan)" opacity=".8"/>
+<text x="107" y="364" fill="#D3E7FA" class="caption" font-size="19" letter-spacing="2.4">SOFTWARE / BACKEND / AI / SECURITY</text>
+<text x="107" y="412" fill="#76CFF5" class="mono" font-size="15" letter-spacing="2.2">SLIIT  ·  IT UNDERGRADUATE  ·  SRI LANKA</text>
+<!-- glossy 3D horizon floor -->
+<ellipse cx="1130" cy="352" rx="289" ry="59" fill="#041628" stroke="#245179" opacity=".7"/>
+<path d="M821 352L1000 306 1398 343 1228 429Z" fill="#0B1F35" stroke="#2C658D" opacity=".9"/>
+<path d="M870 366L1049 316M956 391L1127 339M1060 409L1229 358M1150 423L1320 371" stroke="#325E7C" stroke-opacity=".35"/>
+<path d="M867 349L1230 349 1335 365" stroke="#55D5FF" opacity=".23"/>
+<!-- globe/data halo and orbital loop -->
+<circle cx="1120" cy="200" r="132" fill="none" stroke="#2F8AC5" stroke-opacity=".16" stroke-width="2"/>
+<circle cx="1120" cy="200" r="110" fill="none" stroke="#6BBDFF" stroke-opacity=".14"/>
+<ellipse cx="1110" cy="216" rx="263" ry="88" transform="rotate(-13 1110 216)" fill="none" stroke="#2D91D4" stroke-opacity=".36" stroke-width="1.4"/>
+<g class="ring"><ellipse cx="1110" cy="216" rx="263" ry="88" transform="rotate(-13 1110 216)" fill="none" stroke="url(#laser)" stroke-dasharray="4 23" stroke-width="3"/></g>
+<!-- back connection beams -->
+<path d="M925 259C1002 219 1026 218 1062 239C1125 263 1170 240 1270 248" fill="none" stroke="#2D8FFF" stroke-width="22" opacity=".3" filter="url(#beamBlur)" class="beam"/>
+<path d="M925 259C1002 219 1026 218 1062 239C1125 263 1170 240 1270 248" fill="none" stroke="url(#laser)" stroke-width="3.3" class="dashFlow"/>
+<path d="M922 275C1004 240 1045 251 1084 277C1151 306 1200 266 1260 261" fill="none" stroke="#3DD7F4" stroke-opacity=".68" stroke-width="1.5"/>
+<g class="chip"><circle cx="950" cy="245" r="4" fill="#B7F9FF"/><circle cx="1188" cy="252" r="4" fill="#B7F9FF"/></g>
+<!-- plinths -->
+<path d="M843 321L913 292 1016 310 945 349Z" fill="#103754" stroke="#419BE7" stroke-opacity=".7"/><path d="M1014 329L1114 290 1210 315 1112 358Z" fill="#153553" stroke="#5CB9FF" stroke-opacity=".9"/><path d="M1197 332L1275 300 1372 326 1291 360Z" fill="#123451" stroke="#419BE7" stroke-opacity=".7"/>
+<g class="hoverBlock">
+    <polygon points="867,227 895,210 1007,210 979,227" fill="#174968" stroke="#74D9FF" stroke-opacity=".8" stroke-width="1.7"/>
+    <polygon points="979,227 1007,210 1007,294 979,311" fill="#0B1730" stroke="#74D9FF" stroke-opacity=".64" stroke-width="1.5"/>
+    <rect x="867" y="227" width="112" height="84" fill="#0B233C" stroke="#74D9FF" stroke-opacity=".8" stroke-width="1.5" rx="2"/>
+    <path d="M875 235H971" stroke="#74D9FF" opacity=".5"/>
+    <text x="923.0" y="274.0" text-anchor="middle" fill="#E8F8FF" font-size="15" font-weight="750" font-family="Segoe UI,Arial,sans-serif" letter-spacing="2">API</text>
+    <text x="923.0" y="297" text-anchor="middle" fill="#74D9FF" font-size="9" font-family="Consolas,monospace" letter-spacing="1">SERVICES</text>
+    </g><g class="hoverBlock">
+    <polygon points="1031,156 1066,134 1212,134 1177,156" fill="#205577" stroke="#74D9FF" stroke-opacity=".8" stroke-width="1.7"/>
+    <polygon points="1177,156 1212,134 1212,276 1177,298" fill="#0B1730" stroke="#74D9FF" stroke-opacity=".64" stroke-width="1.5"/>
+    <rect x="1031" y="156" width="146" height="142" fill="#0C2B48" stroke="#74D9FF" stroke-opacity=".8" stroke-width="1.5" rx="2"/>
+    <path d="M1039 164H1169" stroke="#74D9FF" opacity=".5"/>
+    <text x="1104.0" y="232.0" text-anchor="middle" fill="#E8F8FF" font-size="18" font-weight="750" font-family="Segoe UI,Arial,sans-serif" letter-spacing="2">DATA</text>
+    <text x="1104.0" y="284" text-anchor="middle" fill="#74D9FF" font-size="9" font-family="Consolas,monospace" letter-spacing="1">EVENTS / STATE</text>
+    </g><g class="hoverBlock">
+    <polygon points="1232,215 1259,199 1360,199 1333,215" fill="#174968" stroke="#74D9FF" stroke-opacity=".8" stroke-width="1.7"/>
+    <polygon points="1333,215 1360,199 1360,288 1333,304" fill="#0B1730" stroke="#74D9FF" stroke-opacity=".64" stroke-width="1.5"/>
+    <rect x="1232" y="215" width="101" height="89" fill="#0B233C" stroke="#74D9FF" stroke-opacity=".8" stroke-width="1.5" rx="2"/>
+    <path d="M1240 223H1325" stroke="#74D9FF" opacity=".5"/>
+    <text x="1282.5" y="264.5" text-anchor="middle" fill="#E8F8FF" font-size="15" font-weight="750" font-family="Segoe UI,Arial,sans-serif" letter-spacing="2">TRUST</text>
+    <text x="1282.5" y="290" text-anchor="middle" fill="#74D9FF" font-size="9" font-family="Consolas,monospace" letter-spacing="1">SECURITY</text>
+    </g>
+<!-- floating info panels -->
+<rect x="787" y="77" width="174" height="59" rx="12" fill="#082139" stroke="#3A7398" stroke-opacity=".7"/>
+<circle cx="804" cy="96" r="3.4" fill="#67E7F7"/><text x="817" y="100" fill="#C9E5F7" class="mono" font-size="11" letter-spacing="1.2">SERVICE BOUNDARIES</text>
+<text x="802" y="122" fill="#7EB2D4" class="mono" font-size="11">validate → observe</text>
+<rect x="1218" y="80" width="150" height="62" rx="12" fill="#082139" stroke="#3A7398" stroke-opacity=".7"/>
+<text x="1234" y="105" fill="#79D7FA" class="mono" font-size="11">TRUST BY DESIGN</text>
+<text x="1234" y="125" fill="#AACADF" class="mono" font-size="10">AUTH • EVIDENCE</text>
+<!-- moving glint -->
+<path class="shimmer" d="M1032 156V300" stroke="#93EFFF" stroke-width="2" opacity=".5"/>
+<text x="801" y="424" fill="#507997" class="mono" font-size="12" letter-spacing="2">BUILD  /  TEST  /  OBSERVE  /  SECURE</text>
+</g>
+<rect x="1" y="1" width="1398" height="458" rx="21" fill="none" stroke="#244765" stroke-width="2"/>
+</svg>
