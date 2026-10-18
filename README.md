@@ -9,17 +9,22 @@
 I build software that is useful beyond the demo: clear service boundaries, secure access, observable behaviour and reviewable implementation.
 
 <p>
-<a href="https://poojana-portfolio.vercel.app/"><img alt="Explore portfolio" src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-0C1C2E?style=for-the-badge&amp;labelColor=0C1C2E&amp;color=2D9DDD" /></a>
-<a href="https://poojana-portfolio.vercel.app/assets/Poojana_Kaveesh_CV.pdf"><img alt="View curriculum vitae" src="https://img.shields.io/badge/VIEW-CV-0C1C2E?style=for-the-badge&amp;labelColor=0C1C2E&amp;color=416BA6" /></a>
-<a href="https://www.linkedin.com/in/poojana-kaveesh-3048b8387"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/CONNECT-LINKEDIN-0C1C2E?style=for-the-badge&amp;labelColor=0C1C2E&amp;color=0A66C2" /></a>
-<a href="mailto:teldigi5@gmail.com"><img alt="Email Poojana" src="https://img.shields.io/badge/EMAIL-ME-0C1C2E?style=for-the-badge&amp;labelColor=0C1C2E&amp;color=267C97" /></a>
+<a href="https://poojana-portfolio.vercel.app/"><img alt="Explore portfolio" src="https://img.shields.io/badge/VIEW%20PORTFOLIO-173B58?style=for-the-badge&amp;logo=vercel&amp;logoColor=EAF5FF" /></a>
+<a href="https://poojana-portfolio.vercel.app/assets/Poojana_Kaveesh_CV.pdf"><img alt="View curriculum vitae" src="https://img.shields.io/badge/RESUME%20%2F%20CV-173B58?style=for-the-badge&amp;logo=readme&amp;logoColor=EAF5FF" /></a>
+<a href="https://www.linkedin.com/in/poojana-kaveesh-3048b8387"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LINKEDIN-173B58?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EAF5FF" /></a>
+<a href="mailto:teldigi5@gmail.com"><img alt="Email Poojana" src="https://img.shields.io/badge/EMAIL%20ME-173B58?style=for-the-badge&amp;logo=gmail&amp;logoColor=EAF5FF" /></a>
 </p>
 
 **Open to software, backend and platform engineering internships.**
 
-<img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-pulse.svg" alt="Areas of practice: backend, security, applied AI, product engineering and delivery" />
+<img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-pulse.svg?v=a097fd0e5250" alt="Five visual practice cards: Backend with Java and Spring; Security with authentication and HMAC; Applied AI with Python; Product with React, Flutter and IoT; Delivery with CI and observability." />
 
-[Selected work](#-currently-building) &nbsp;·&nbsp; [Engineering evidence](#-engineering-evidence) &nbsp;·&nbsp; [Technical toolkit](#-technical-toolkit) &nbsp;·&nbsp; [GitHub activity](#-github-activity)
+<p>
+<a href="#-currently-building"><img alt="Jump to selected work" src="https://img.shields.io/badge/SELECTED%20WORK-16354D?style=for-the-badge&amp;logo=github&amp;logoColor=77D6FA" /></a>
+<a href="#-engineering-evidence"><img alt="Jump to engineering evidence" src="https://img.shields.io/badge/ENGINEERING%20EVIDENCE-16354D?style=for-the-badge&amp;logo=gitbook&amp;logoColor=77D6FA" /></a>
+<a href="#-technical-toolkit"><img alt="Jump to technical toolkit" src="https://img.shields.io/badge/TECHNICAL%20TOOLKIT-16354D?style=for-the-badge&amp;logo=codeium&amp;logoColor=77D6FA" /></a>
+<a href="#-github-activity"><img alt="Jump to GitHub activity" src="https://img.shields.io/badge/GITHUB%20ACTIVITY-16354D?style=for-the-badge&amp;logo=githubactions&amp;logoColor=77D6FA" /></a>
+</p>
 
 </div>
 
@@ -123,15 +128,26 @@ When reviewing my work, I recommend looking at **the implementation, the test bo
 
 ## 🧰 Technical Toolkit
 
-| Discipline | Tools used or currently studied |
-| --- | --- |
-| **Languages & services** | Java 21 · Python · JavaScript/TypeScript · Spring Boot · FastAPI · Node.js |
-| **Data & distributed systems** | PostgreSQL · Redis · RabbitMQ · REST APIs · Supabase · Firebase |
-| **Product development** | React · Next.js · HTML/CSS · Electron · Flutter |
-| **Delivery & operations** | Git/GitHub Actions · Docker · Kubernetes/Helm foundations · Vercel · AWS fundamentals |
-| **Security & observability** | Auth/JWT · RBAC/RLS · HMAC · threat modeling · OpenTelemetry · Prometheus/Grafana |
+<div align="center">
 
-<sub>Tools listed reflect hands-on project exposure, learning or active experimentation—not a claim of expert-level proficiency in every technology.</sub>
+<img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/technical-toolkit.svg?v=2dcd27d3998d" alt="Four technology panels showing Backend and Services, Product and Interfaces, Data and Messaging, and Delivery and Trust. Includes Java, Spring Boot, Python, FastAPI, React, TypeScript, PostgreSQL, Redis, RabbitMQ, GitHub Actions, Docker, JWT and OpenTelemetry." />
+
+</div>
+
+<details>
+<summary><strong>Explore my stack as text</strong> — accessible, searchable reference</summary>
+
+**Backend & APIs** — Java 21 · Spring Boot · Python · FastAPI · Node.js · REST APIs
+
+**Product engineering** — TypeScript · JavaScript · React · Next.js · HTML/CSS · Electron · Flutter
+
+**Data & events** — PostgreSQL · Redis · RabbitMQ · Supabase · Firebase
+
+**Delivery & security** — GitHub Actions · Git · Docker · Kubernetes/Helm foundations · JWT · RBAC/RLS · HMAC · threat modeling · OpenTelemetry · Prometheus/Grafana · Vercel · AWS fundamentals
+
+</details>
+
+<sub>Tools pictured reflect hands-on project exposure, current learning or experimentation. The cards are not proficiency ratings or professional certifications.</sub>
 
 ---
 
