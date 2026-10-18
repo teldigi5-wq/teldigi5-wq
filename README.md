@@ -17,7 +17,7 @@ I build software that is useful beyond the demo: clear service boundaries, secur
 
 **Open to software, backend and platform engineering internships.**
 
-<img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-pulse.svg?v=a097fd0e5250" alt="Five visual practice cards: Backend with Java and Spring; Security with authentication and HMAC; Applied AI with Python; Product with React, Flutter and IoT; Delivery with CI and observability." />
+<img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-pulse.svg?v=efb9ac2eb8a1" alt="Original animated engineering practice strip showing Backend, Distributed Systems, Cloud, Observability, IoT and AI" />
 
 <p>
 <a href="#-currently-building"><img alt="Jump to selected work" src="https://img.shields.io/badge/SELECTED%20WORK-16354D?style=for-the-badge&amp;logo=github&amp;logoColor=77D6FA" /></a>
@@ -130,24 +130,22 @@ When reviewing my work, I recommend looking at **the implementation, the test bo
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/technical-toolkit.svg?v=2dcd27d3998d" alt="Four technology panels showing Backend and Services, Product and Interfaces, Data and Messaging, and Delivery and Trust. Includes Java, Spring Boot, Python, FastAPI, React, TypeScript, PostgreSQL, Redis, RabbitMQ, GitHub Actions, Docker, JWT and OpenTelemetry." />
+**Backend & platform**  
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,redis,rabbitmq,docker,kubernetes,linux&theme=dark" alt="Backend and platform engineering stack" />
+
+<br/><br/>
+
+**Product & application development**  
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,electron,flutter,dart,html,css&theme=dark" alt="Product and application development stack" />
+
+<br/><br/>
+
+**Cloud, data & embedded**  
+<img src="https://skillicons.dev/icons?i=aws,firebase,supabase,git,github,arduino,vite&theme=dark" alt="Cloud, data and embedded tools" />
 
 </div>
 
-<details>
-<summary><strong>Explore my stack as text</strong> — accessible, searchable reference</summary>
-
-**Backend & APIs** — Java 21 · Spring Boot · Python · FastAPI · Node.js · REST APIs
-
-**Product engineering** — TypeScript · JavaScript · React · Next.js · HTML/CSS · Electron · Flutter
-
-**Data & events** — PostgreSQL · Redis · RabbitMQ · Supabase · Firebase
-
-**Delivery & security** — GitHub Actions · Git · Docker · Kubernetes/Helm foundations · JWT · RBAC/RLS · HMAC · threat modeling · OpenTelemetry · Prometheus/Grafana · Vercel · AWS fundamentals
-
-</details>
-
-<sub>Tools pictured reflect hands-on project exposure, current learning or experimentation. The cards are not proficiency ratings or professional certifications.</sub>
+<sub>Technologies shown are tools I use, study or actively experiment with; they are not claims of expert-level mastery.</sub>
 
 ---
 
