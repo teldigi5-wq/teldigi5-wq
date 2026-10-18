@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-hero.svg" alt="Poojana Kaveesh — Software, Platform and AI Engineering" />
 
-### Software Engineering · Backend & Platform Engineering · Applied AI Product Engineering
+### Software Engineering · Backend Platforms · Applied AI · Security Engineering
 
 **BSc (Hons) IT Undergraduate @ SLIIT · Sri Lanka**
 
@@ -81,6 +81,7 @@ I build end-to-end systems across **distributed backends, cloud infrastructure, 
 
 | Project | Current engineering focus |
 |---|---|
+| **[Sentinel Security Platform](https://github.com/teldigi5-wq/sentinel-security-platform)** | Local-first, pre-production security telemetry lab: signed sensor ingestion, replay resistance, deterministic rules and incident evidence. No live endpoint protection or automatic enforcement. |
 | **[Averis](https://github.com/teldigi5-wq/averis-ai)** | Evidence-first academic-integrity SaaS: document ingestion, deterministic similarity analysis, Supabase security boundaries and local/open AI integration |
 | **[Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform)** | Cloud-native distributed platform: secure services, messaging, observability, resilience, Kubernetes and certified external-runtime integration |
 | **[Aetheris AI Runtime](https://github.com/teldigi5-wq/aetheris-ai-runtime)** | Independent orchestration/reasoning runtime with explicit platform contracts, governance and certification boundaries |
