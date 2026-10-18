@@ -55,6 +55,21 @@ class ProfileReadmeTests(unittest.TestCase):
         self.assertIn("Physical-machine validation remains pending", self.readme)
         self.assertIn("no confirmed booking inventory", self.readme)
 
+    def test_cinematic_hero_is_a_real_optimized_local_image(self):
+        hero = ROOT / "assets/poojana-cinematic-hero.webp"
+        self.assertTrue(hero.is_file(), "Published hero image must exist")
+        self.assertGreater(hero.stat().st_size, 10000)
+        self.assertLess(hero.stat().st_size, 100000, "Keep profile image lightweight")
+        with hero.open("rb") as stream:
+            magic = stream.read(12)
+        self.assertEqual(magic[:4], b"RIFF")
+        self.assertEqual(magic[8:12], b"WEBP")
+        self.assertIn(
+            "assets/poojana-cinematic-hero.webp?v=", self.readme,
+            "Profile should reference the new generated image with a cache key",
+        )
+        self.assertNotIn('src="' + RAW + 'assets/engineering-hero.svg"', self.readme)
+
     def test_svg_assets_parse_and_are_accessible(self):
         for name in BRAND_ASSETS:
             with self.subTest(asset=name):
