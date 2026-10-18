@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/poojana-cinematic-hero.webp?v=a9fd5b7a0233" alt="Cinematic Poojana Kaveesh profile banner, illustrating API, data and trust architecture against a deep-blue engineering background" />
+<img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/poojana-systems-3d-animated.svg?v=fb92df8caae9" alt="Animated vector architecture banner for Poojana Kaveesh: floating API, data and trust systems with soft cyan signal trails" />
 
 ### Software Engineering Undergraduate · Backend &amp; Platform Systems · Applied AI · Security
 
@@ -145,7 +145,16 @@ When reviewing my work, I recommend looking at **the implementation, the test bo
 
 </div>
 
-<sub>Technologies shown are tools I use, study or actively experiment with; they are not claims of expert-level mastery.</sub>
+### Additional tools used in recent projects
+
+| Engineering area | Project-backed technologies |
+| --- | --- |
+| **Security & investigation** | `HMAC-SHA256` · `SQLite` · `JWT / RBAC` · `Threat modeling` — [Sentinel](https://github.com/teldigi5-wq/sentinel-security-platform) |
+| **Automation & desktop** | `Playwright` · `Electron` · `Python` · `FFmpeg` — [Media Browser Lab](https://github.com/teldigi5-wq/media-browser-lab) (experimental) and [AnyDL](https://github.com/teldigi5-wq/anydl-pro-ultra) |
+| **Motion & frontend quality** | `GSAP / ScrollTrigger` · `Accessibility` · `GitHub Actions` — [Portfolio](https://github.com/teldigi5-wq/poojana-portfolio) |
+| **AI workflow research** | `n8n` · `Groq integration` · `SerpApi integration` — [Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel); optional credential-gated integrations, not guaranteed live services |
+
+<sub>Technologies shown are tools used, studied or integrated in identifiable projects—not a claim of mastery. Some integrations are experimental or disabled in production.</sub>
 
 ---
 
