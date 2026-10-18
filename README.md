@@ -1,247 +1,137 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-hero.svg" alt="Poojana Kaveesh — Software, Platform and AI Engineering" />
+<img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-hero.svg" alt="Poojana Kaveesh — software, backend, applied AI and security engineering" />
 
-### Software Engineering · Backend Platforms · Applied AI · Security Engineering
+### Software Engineering Undergraduate · Backend &amp; Platform Systems · Applied AI · Security
 
-**BSc (Hons) IT Undergraduate @ SLIIT · Sri Lanka**
+**BSc (Hons) Information Technology undergraduate — SLIIT, Sri Lanka**
 
-Building systems that can be **explained, tested, observed, secured and improved**.
+I build software that is useful beyond the demo: clear service boundaries, secure access, observable behaviour and reviewable implementation.
 
-<br/>
+<p>
+<a href="https://poojana-portfolio.vercel.app/"><img alt="Explore portfolio" src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-0C1C2E?style=for-the-badge&amp;labelColor=0C1C2E&amp;color=2D9DDD" /></a>
+<a href="https://poojana-portfolio.vercel.app/assets/Poojana_Kaveesh_CV.pdf"><img alt="View curriculum vitae" src="https://img.shields.io/badge/VIEW-CV-0C1C2E?style=for-the-badge&amp;labelColor=0C1C2E&amp;color=416BA6" /></a>
+<a href="https://www.linkedin.com/in/poojana-kaveesh-3048b8387"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/CONNECT-LINKEDIN-0C1C2E?style=for-the-badge&amp;labelColor=0C1C2E&amp;color=0A66C2" /></a>
+<a href="mailto:teldigi5@gmail.com"><img alt="Email Poojana" src="https://img.shields.io/badge/EMAIL-ME-0C1C2E?style=for-the-badge&amp;labelColor=0C1C2E&amp;color=267C97" /></a>
+</p>
 
-![Open to Internships](https://img.shields.io/badge/Open%20to-Software%20Engineering%20Internships-0F172A?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Backend%20%7C%20Platform%20%7C%20AI-0F172A?style=flat-square)
-![Java](https://img.shields.io/badge/Java-21-0F172A?style=flat-square&logo=openjdk)
-![Cloud Native](https://img.shields.io/badge/Cloud-Native-0F172A?style=flat-square&logo=kubernetes)
-![Build](https://img.shields.io/badge/Mindset-Evidence%20First-0F172A?style=flat-square)
+**Open to software, backend and platform engineering internships.**
 
-<br/>
+<img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-pulse.svg" alt="Areas of practice: backend, security, applied AI, product engineering and delivery" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-poojana--portfolio.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://poojana-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Poojana%20Kaveesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojana-kaveesh-3048b8387)
-[![Email](https://img.shields.io/badge/Email-teldigi5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teldigi5@gmail.com)
-
-<br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-pulse.svg" alt="Animated engineering capability pulse" />
+[Selected work](#-currently-building) &nbsp;·&nbsp; [Engineering evidence](#-engineering-evidence) &nbsp;·&nbsp; [Technical toolkit](#-technical-toolkit) &nbsp;·&nbsp; [GitHub activity](#-github-activity)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👤 About
 
 <table>
 <tr>
-<td width="22%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/profpic.png" alt="Poojana Kaveesh" width="155" />
-
-<br/>
-
-**Poojana Kaveesh**  
-<sub>BSc (Hons) IT Undergraduate @ SLIIT</sub>
-
+<td width="155" valign="top">
+<img width="135" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/profpic.png" alt="Poojana Kaveesh profile portrait" />
 </td>
-<td width="78%" valign="middle">
+<td valign="top">
 
-**Software engineering undergraduate focused on backend, platform and applied AI engineering.**
+**Hello, I'm Poojana.** I'm studying Information Technology at the Sri Lanka Institute of Information Technology (SLIIT), with a long-term interest in applied AI.
 
-I build end-to-end systems across **distributed backends, cloud infrastructure, AI runtimes, student SaaS products, IoT and application engineering**. My projects emphasize **clear architecture, security, reliability, automated validation and well-defined technical boundaries**.
+My work crosses **Java/Spring backend services, Python-based analysis, authentication, distributed-system foundations, web applications and IoT**. I'm most interested in how a feature behaves when its input is invalid, a dependency fails or a user needs to understand the result.
 
-`Java` · `Spring Boot` · `Distributed Systems` · `Cloud Native` · `Python` · `FastAPI` · `Next.js` · `AI Foundations`
+I focus on readable architecture, tests, practical security and honest descriptions of what has actually been built.
 
-> **Engineering principle:** if a capability cannot be explained or verified, it should not be presented as finished engineering.
+**Currently learning:** Java and data structures &amp; algorithms · system design · distributed services · Python/AI foundations.
 
 </td>
 </tr>
 </table>
 
----
+## ⚡ At a glance
 
-## ⚡ Recruiter Snapshot
-
-| Area | Evidence / current focus |
-|---|---|
-| **Backend engineering** | Java 21, Spring Boot, FastAPI, REST APIs, validation and structured failure handling |
-| **Distributed systems** | PostgreSQL, Redis, RabbitMQ, service boundaries and asynchronous workflows |
-| **Security & reliability** | JWT, refresh-token lifecycle, RBAC, fail-closed behavior, RLS, retries and circuit breakers |
-| **Observability** | OpenTelemetry, Prometheus, Grafana, Loki and Tempo |
-| **Cloud native** | Docker Compose, Kubernetes, Helm, AWS and Vercel deployment foundations |
-| **Product engineering** | Next.js, React, TypeScript, Electron, Node.js, Supabase and Firebase |
-| **AI engineering** | Runtime orchestration, retrieval/verification foundations, local-model integration and evidence-first AI workflows |
-| **IoT / embedded** | Arduino, ESP8266, Firebase telemetry, alerts and control logic |
-
-**Best fit today:** software engineering, backend or platform engineering internships where I can contribute to real systems and keep growing under experienced engineers.
+| What I work on | Where to inspect the evidence |
+| --- | --- |
+| **Backend & distributed services** | [Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform): gateway, identity, user/audit services, PostgreSQL, Redis and RabbitMQ |
+| **Security engineering** | [Sentinel](https://github.com/teldigi5-wq/sentinel-security-platform): signed event ingestion, replay checks, deterministic alerts and a documented threat model |
+| **Applied AI & analysis** | [Averis](https://github.com/teldigi5-wq/averis-ai): evidence-first document matching; [Aetheris Runtime](https://github.com/teldigi5-wq/aetheris-ai-runtime): orchestration research |
+| **End-to-end products** | [FinalForge](https://github.com/teldigi5-wq/finalforge): verified student access and recoverable assessments; [Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel): browser-first travel planning |
+| **Connected systems** | [FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot): Arduino/ESP8266 sensing, Firebase telemetry and notification workflows |
 
 ---
 
 ## 🔭 Currently Building
 
-| Project | Current engineering focus |
-|---|---|
-| **[Sentinel Security Platform](https://github.com/teldigi5-wq/sentinel-security-platform)** | Local-first, pre-production security engineering lab: signed event ingestion, replay protection, deterministic alerts and linked incident evidence. Not an operational SOC or endpoint protection system. |
-| **[Averis](https://github.com/teldigi5-wq/averis-ai)** | Evidence-first academic-integrity SaaS: document ingestion, deterministic similarity analysis, Supabase security boundaries and local/open AI integration |
-| **[Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform)** | Cloud-native distributed platform: secure services, messaging, observability, resilience, Kubernetes and certified external-runtime integration |
-| **[Aetheris AI Runtime](https://github.com/teldigi5-wq/aetheris-ai-runtime)** | Independent orchestration/reasoning runtime with explicit platform contracts, governance and certification boundaries |
-| **[FinalForge](https://github.com/teldigi5-wq/finalforge)** | Secure responsive student platform with verified academic access, mock exams, progress workflows and admin tooling |
-| **[FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)** | IoT flood-monitoring ecosystem across sensing, control, Firebase, AWS and real-time alerting |
-| **[Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel)** | Worldwide travel planner with six deterministic browser-based assistants, sourced local data and optional, credential-gated AI and travel-search integrations |
+Projects are ordered by engineering discipline, not by claimed scale. The linked repositories describe their current maturity and what remains unfinished.
 
-Alongside project work, I am deepening **Java, DSA, backend design, distributed systems, cloud architecture and Python/AI fundamentals**.
+| Project | Engineering focus &amp; current boundary |
+| --- | --- |
+| **[Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform)** | Java 21 / Spring Boot microservice foundations: identity, gateway, messaging, resilience and observability. Physical-machine validation remains pending. |
+| **[Sentinel Security Platform](https://github.com/teldigi5-wq/sentinel-security-platform)** | **Pre-production local security lab:** HMAC-signed telemetry, replay resistance, deterministic detection and incident evidence. Not live endpoint protection or a commercial SOC. |
+| **[Averis](https://github.com/teldigi5-wq/averis-ai)** | Document-ingestion and similarity-analysis beta with Supabase Auth/RLS. Matching passages are review evidence, not plagiarism or AI-authorship verdicts. |
+| **[FinalForge](https://github.com/teldigi5-wq/finalforge)** | Student learning platform with allowlisted academic identities, mailbox verification, mock exams and saved progress. |
+| **[FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)** | Hardware-to-cloud water-level monitoring and alert prototype. Previously hosted WhatsApp bot is currently offline; no field-accuracy or emergency-response guarantee. |
+| **[Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel)** | Worldwide trip planning with browser-based rule-driven assistants. Optional search/AI providers are credential gated; no confirmed booking inventory. |
+| **[Aetheris AI Runtime](https://github.com/teldigi5-wq/aetheris-ai-runtime)** | Separately owned Python orchestration/reasoning runtime research, linked to the platform through explicit contracts. Physical-PC runtime testing pending. |
 
----
+### A closer look — four engineering stories
 
-## 🚀 Flagship Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform)
-**Cloud-native distributed systems engineering project**
-
-A platform-engineering project centered on API gateway design, identity, JWT/RBAC, PostgreSQL, Redis, RabbitMQ, observability, resilience, Docker, Kubernetes and Helm.
-
-`Java 21` `Spring Boot` `PostgreSQL` `Redis` `RabbitMQ` `OpenTelemetry` `Kubernetes`
-
+**01 / Distributed backend — [Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform)**  
+API gateway, identity, persistence and audit messaging, with deployment and telemetry assets. The platform/runtime ownership boundary is explicit rather than duplicating one runtime across repositories.  
 [Architecture decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) · [Verification checklist](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/verification-checklist.md) · [CI](https://github.com/teldigi5-wq/aetheris-platform/actions)
 
-</td>
-<td width="50%" valign="top">
+**02 / Defensive engineering — [Sentinel](https://github.com/teldigi5-wq/sentinel-security-platform)**  
+Authenticated security-event ingestion, deterministic detection and evidence-linked alerts in a local-first research implementation. Defensive automation, live sensor integrations and AI investigations are future work.  
+[Architecture](https://github.com/teldigi5-wq/sentinel-security-platform/blob/main/docs/ARCHITECTURE.md) · [Threat model](https://github.com/teldigi5-wq/sentinel-security-platform/blob/main/docs/THREAT_MODEL.md) · [CI](https://github.com/teldigi5-wq/sentinel-security-platform/actions)
 
-### 🤖 [Aetheris AI Runtime](https://github.com/teldigi5-wq/aetheris-ai-runtime)
-**Independent AI runtime and orchestration engineering repository**
+**03 / Trustworthy analysis — [Averis](https://github.com/teldigi5-wq/averis-ai)**  
+FastAPI document ingestion and deterministic similarity methods, with private student scan history and server-side beta credits. The application distinguishes evidence from accusations.  
+[Roadmap](https://github.com/teldigi5-wq/averis-ai/blob/main/docs/ROADMAP.md) · [Source](https://github.com/teldigi5-wq/averis-ai) · [CI](https://github.com/teldigi5-wq/averis-ai/actions)
 
-Owns Aetheris orchestration, reasoning, workstation-agent foundations and quantitative-intelligence research behind explicit platform contracts and certification boundaries. Physical-PC validation remains pending.
+**04 / Real-world signals — [FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)**  
+Arduino and ESP8266 sensor data flows into Firebase telemetry and the previously hosted notification service. State transitions, stale data and sensor errors are essential design considerations.  
+[Source](https://github.com/teldigi5-wq/floodguard-whatsapp-bot) · [CI](https://github.com/teldigi5-wq/floodguard-whatsapp-bot/actions) · [Website repository](https://github.com/teldigi5-wq/floodguard-website)
 
-`Python` `AI Orchestration` `Agent Architecture` `Retrieval` `Governance` `CI/CD`
+### Product & interface work
 
-[Repository](https://github.com/teldigi5-wq/aetheris-ai-runtime) · [CI](https://github.com/teldigi5-wq/aetheris-ai-runtime/actions)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔎 [Averis](https://github.com/teldigi5-wq/averis-ai)
-**Evidence-first academic integrity platform**
-
-A zero-cost-first student SaaS foundation for document ingestion and similarity analysis. The implemented beta includes TXT/PDF/DOCX parsing, word-shingle + Jaccard matching, sentence matching, automated tests, Supabase Auth/RLS, scan credits and private scan history.
-
-AI-assisted capabilities are deliberately advisory: similarity evidence is kept separate from claims of plagiarism or AI authorship.
-
-`Next.js` `FastAPI` `Python` `Supabase` `PostgreSQL` `pgvector` `Redis` `Docker`
-
-[Repository](https://github.com/teldigi5-wq/averis-ai) · [Roadmap](https://github.com/teldigi5-wq/averis-ai/blob/main/docs/ROADMAP.md) · [CI](https://github.com/teldigi5-wq/averis-ai/actions)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚒️ [FinalForge](https://github.com/teldigi5-wq/finalforge)
-**Secure, responsive academic study platform**
-
-A student platform for lecture resources, revision, quizzes and mock exams with an approved Student-ID allowlist, derived SLIIT mailbox verification, autosaved exam state, progress workflows and admin tooling.
-
-`JavaScript` `Firebase Auth` `Firestore` `HTML` `CSS` `PWA` `Vercel`
-
-[Repository](https://github.com/teldigi5-wq/finalforge) · [CI](https://github.com/teldigi5-wq/finalforge/actions)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌊 [FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)
-**IoT flood-monitoring and notification prototype**
-
-A monitoring prototype connecting physical sensors, embedded controllers, Firebase telemetry and AWS-hosted WhatsApp alerts, with stale-data handling and transition-based notifications.
-
-`Arduino` `ESP8266` `Firebase` `AWS` `Node.js` `Flutter`
-
-[Repository](https://github.com/teldigi5-wq/floodguard-whatsapp-bot) · [CI](https://github.com/teldigi5-wq/floodguard-whatsapp-bot/actions)
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ [Engineering Portfolio](https://github.com/teldigi5-wq/poojana-portfolio)
-**Recruiter-focused personal portfolio**
-
-A responsive portfolio focused on project case studies, engineering decisions, accessibility, performance and public evidence.
-
-**Live:** [poojana-portfolio.vercel.app](https://poojana-portfolio.vercel.app/)
-
-`HTML` `CSS` `JavaScript` `Vercel` `GitHub Actions`
-
-</td>
-</tr>
-</table>
-
-### More work
-
-- 🎬 **[AnyDL Pro Ultra](https://github.com/teldigi5-wq/anydl-pro-ultra)** — Electron/React desktop media workflow using `yt-dlp`, `FFmpeg`, IPC and Windows packaging.
-- 🧭 **[Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel)** — travel planner with a free static research baseline, itineraries, budgets and safety checklists. Optional AI and flight/hotel searches require credentials; bookings and live availability are not guaranteed.
-- 💬 **[FloodGuard WhatsApp Bot](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)** — real-time alert delivery and remote system status around the FloodGuard ecosystem.
+- **[Engineering portfolio](https://poojana-portfolio.vercel.app/)** — cinematic yet accessible project case studies, responsive typography, local GSAP and motion-preference fallbacks. [Source](https://github.com/teldigi5-wq/poojana-portfolio).
+- **[Wayfarer](https://wayfarer-world-travel.vercel.app/)** — travel discovery, itinerary planning and arrival workflows with sourced local data; optional integrations are not guaranteed live search or bookings. [Source](https://github.com/teldigi5-wq/wayfarer-world-travel).
+- **[AnyDL Pro Ultra](https://github.com/teldigi5-wq/anydl-pro-ultra)** — Electron/React desktop-media workflow using FFmpeg, yt-dlp and IPC. Applicable to authorized content only.
+- **[999 Lounge Wellawaya concept](https://999-lounge-wellawaya.vercel.app/)** — independently developed restaurant website prototype; **not an official venue endorsement**, and image/business approvals remain separate.
 
 ---
 
 ## ✅ Engineering Evidence
 
-| Signal | Public evidence |
-|---|---|
-| **Automated validation** | [Aetheris Platform Actions](https://github.com/teldigi5-wq/aetheris-platform/actions) · [Aetheris Runtime Actions](https://github.com/teldigi5-wq/aetheris-ai-runtime/actions) · [Averis Actions](https://github.com/teldigi5-wq/averis-ai/actions) · [FinalForge Actions](https://github.com/teldigi5-wq/finalforge/actions) · [Wayfarer Actions](https://github.com/teldigi5-wq/wayfarer-world-travel/actions) |
-| **Architecture reasoning** | [Aetheris architecture decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) · [Averis roadmap](https://github.com/teldigi5-wq/averis-ai/blob/main/docs/ROADMAP.md) |
-| **Verification discipline** | [Aetheris verification checklist](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/verification-checklist.md) · runtime certification boundaries |
-| **Secure application flows** | FinalForge approved-student access boundary · Averis Supabase Auth/RLS and server-enforced beta credits |
-| **Cloud-native foundations** | Docker Compose, Kubernetes and Helm assets in Aetheris · container-ready services in Averis |
-| **Deployment experience** | AWS/PM2 flows in FloodGuard-related services and Vercel deployments for student/product projects |
+When reviewing my work, I recommend looking at **the implementation, the test boundary and the trade-offs**, not just the UI.
 
-> **Evidence first:** experimental, planned or hardware-blocked capabilities should stay clearly labelled instead of being presented as finished production functionality.
+| Practice | Evidence you can inspect |
+| --- | --- |
+| **Architecture & ownership** | [Aetheris decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) · [Runtime repository](https://github.com/teldigi5-wq/aetheris-ai-runtime) |
+| **Security & threat modeling** | [Sentinel threat model](https://github.com/teldigi5-wq/sentinel-security-platform/blob/main/docs/THREAT_MODEL.md) · [Sentinel tests](https://github.com/teldigi5-wq/sentinel-security-platform/tree/main/backend/tests) |
+| **Automated checks** | [Aetheris CI](https://github.com/teldigi5-wq/aetheris-platform/actions) · [Averis CI](https://github.com/teldigi5-wq/averis-ai/actions) · [FinalForge CI](https://github.com/teldigi5-wq/finalforge/actions) |
+| **Product delivery** | [Portfolio source](https://github.com/teldigi5-wq/poojana-portfolio) · [FloodGuard alert layer](https://github.com/teldigi5-wq/floodguard-whatsapp-bot) |
+| **Honest limitations** | Each project distinguishes implemented code, CI coverage, inactive deployment, experimental work and future roadmap items. |
 
----
+### The engineering standards I work toward
 
-## 🧠 How I Approach Engineering
-
-- **Understand the system, not just the screen.** I want to know the boundaries, data flow and failure modes behind a feature.
-- **Security should fail closed.** Authentication, authorization and infrastructure failures should not silently weaken trust boundaries.
-- **Tests and CI are engineering evidence.** A feature is stronger when its expected behavior can be repeatedly verified.
-- **Observability matters.** Metrics, logs and traces help explain system behavior and diagnose failures.
-- **AI output is not automatically truth.** AI-assisted products should separate model suggestions from deterministic evidence and policy.
-- **Documentation is part of the system.** Important architecture and maturity decisions should be explainable during review or interview.
+1. **Design for failure.** Invalid input and unavailable services should not silently become success.
+2. **Make trust boundaries explicit.** Authentication, authorization and private credentials are architecture decisions.
+3. **Automate evidence.** Prefer repeatable tests, reproducible setup and CI to unsupported capability claims.
+4. **Keep the interface usable.** Accessibility, responsive behaviour and performance matter as much as visual polish.
+5. **Document uncertainty.** A working prototype is not automatically a production-certified product.
 
 ---
 
-## 🧰 Technical Stack
+## 🧰 Technical Toolkit
 
-<div align="center">
+| Discipline | Tools used or currently studied |
+| --- | --- |
+| **Languages & services** | Java 21 · Python · JavaScript/TypeScript · Spring Boot · FastAPI · Node.js |
+| **Data & distributed systems** | PostgreSQL · Redis · RabbitMQ · REST APIs · Supabase · Firebase |
+| **Product development** | React · Next.js · HTML/CSS · Electron · Flutter |
+| **Delivery & operations** | Git/GitHub Actions · Docker · Kubernetes/Helm foundations · Vercel · AWS fundamentals |
+| **Security & observability** | Auth/JWT · RBAC/RLS · HMAC · threat modeling · OpenTelemetry · Prometheus/Grafana |
 
-**Backend & platform**  
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,redis,rabbitmq,docker,kubernetes,linux&theme=dark" alt="Backend and platform engineering stack" />
-
-<br/><br/>
-
-**Product & application development**  
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,electron,flutter,dart,html,css&theme=dark" alt="Product and application development stack" />
-
-<br/><br/>
-
-**Cloud, data & embedded**  
-<img src="https://skillicons.dev/icons?i=aws,firebase,supabase,git,github,arduino,vite&theme=dark" alt="Cloud, data and embedded tools" />
-
-</div>
-
-<sub>Technologies shown are tools I use, study or actively experiment with; they are not claims of expert-level mastery.</sub>
-
----
-
-## 🎯 Current Focus — 2026
-
-**Deepen:** `Java` · `DSA` · `Backend Engineering` · `Distributed Systems` · `Cloud Architecture` · `Python` · `AI Foundations`
-
-**Build:** reliable backend/platform systems and carefully bounded AI-enabled products with public engineering evidence.
-
-**Direction:** software engineering → backend/platform engineering → distributed systems → production AI engineering.
+<sub>Tools listed reflect hands-on project exposure, learning or active experimentation—not a claim of expert-level proficiency in every technology.</sub>
 
 ---
 
@@ -249,40 +139,31 @@ A responsive portfolio focused on project case studies, engineering decisions, a
 
 <div align="center">
 
-<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/3-stats.svg?v=6c27106b295f" alt="GitHub statistics" />
-<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg?v=90574b7c9236" alt="Repositories per language" />
+<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/3-stats.svg?v=6c27106b295f" alt="Automatically generated GitHub activity statistics" />
+<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg?v=90574b7c9236" alt="Top repository languages in the generated GitHub statistics card" />
 
-<br/>
+<img width="99%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/0-profile-details.svg?v=2dfa635495c2" alt="Generated GitHub contribution history and account details" />
 
-<img width="99%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/0-profile-details.svg?v=2dfa635495c2" alt="GitHub profile details" />
+<sub>These charts are generated from GitHub data by a scheduled workflow, not manually chosen numbers. Language percentages refer to the languages shown in the chart. GitHub image caching or scheduled workflow delays may affect freshness.</sub>
 
-<sub>Language percentages: share of the five displayed primary repository languages. Contributions: monthly totals, refreshed by scheduled GitHub Actions when available.</sub>
+[Review profile statistics workflow](https://github.com/teldigi5-wq/teldigi5-wq/actions/workflows/profile-activity.yml)
 
 </div>
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Next Step
 
-**Sri Lanka Institute of Information Technology — SLIIT**  
-**BSc (Hons) in Information Technology**  
-Undergraduate · Developing foundations for a future specialization in **Artificial Intelligence**
+**Sri Lanka Institute of Information Technology (SLIIT)** — BSc (Hons) in Information Technology, undergraduate. Interested in future specialization in **Artificial Intelligence**.
 
----
+**Seeking:** software engineering, backend or platform engineering internships, especially teams working with real APIs, distributed systems, security or production-quality product development.
 
 <div align="center">
 
-### Open to Software · Backend · Platform Engineering Internships
+### Build · Test · Observe · Secure · Improve
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://poojana-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojana-kaveesh-3048b8387)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teldigi5@gmail.com)
+[**Portfolio**](https://poojana-portfolio.vercel.app/) &nbsp;·&nbsp; [**CV (PDF)**](https://poojana-portfolio.vercel.app/assets/Poojana_Kaveesh_CV.pdf) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/poojana-kaveesh-3048b8387) &nbsp;·&nbsp; [**Email**](mailto:teldigi5@gmail.com)
 
-<br/>
-
-**BUILD · TEST · OBSERVE · SECURE · IMPROVE · SHIP**
-
-<sub>Software should not only work — it should be understandable, reliable and continuously improvable.</sub>
+<sub>Good engineering should be understandable, testable and useful to the people depending on it.</sub>
 
 </div>
-
