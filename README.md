@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/engineering-hero.svg" alt="Poojana Kaveesh — software, backend, applied AI and security engineering" />
+<img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/poojana-cinematic-hero.webp?v=a9fd5b7a0233" alt="Cinematic Poojana Kaveesh profile banner, illustrating API, data and trust architecture against a deep-blue engineering background" />
 
 ### Software Engineering Undergraduate · Backend &amp; Platform Systems · Applied AI · Security
 
