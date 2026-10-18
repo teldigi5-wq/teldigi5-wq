@@ -2,8 +2,10 @@ name: Refresh GitHub activity cards
 
 on:
   schedule:
-    # Daily, outside the usual top-of-hour Actions traffic.
+    # Two staggered daily opportunities help reduce impact of delayed/missed
+    # scheduled GitHub Actions runs. GitHub scheduling is best effort.
     - cron: '23 3 * * *'
+    - cron: '37 15 * * *'
   workflow_dispatch:
   push:
     branches: [main]
