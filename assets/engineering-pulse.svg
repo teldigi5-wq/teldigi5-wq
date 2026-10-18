@@ -1,29 +1,16 @@
-<svg width="1200" height="118" viewBox="0 0 1200 118" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Engineering capability pulse</title>
-  <desc id="desc">A subtle animated engineering signal strip showing backend, distributed systems, cloud, observability, IoT and AI.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="118" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#020617"/><stop offset="0.5" stop-color="#07111F"/><stop offset="1" stop-color="#020617"/>
-    </linearGradient>
-    <linearGradient id="line" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38BDF8"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/>
-    </linearGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
-    <style>
-      .dash{stroke-dasharray:8 10;animation:flow 8s linear infinite}.pulse{animation:pulse 2.8s ease-in-out infinite}.mono{font-family:'Courier New',monospace}.sans{font-family:Inter,Segoe UI,Arial,sans-serif}
-      @keyframes flow{to{stroke-dashoffset:-180}}
-      @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
-    </style>
-  </defs>
-  <rect width="1200" height="118" rx="18" fill="url(#bg)" stroke="#172033"/>
-  <path d="M90 60H1110" stroke="url(#line)" stroke-width="2" opacity=".45" class="dash"/>
-  <path d="M90 60H1110" stroke="url(#line)" stroke-width="6" opacity=".08" filter="url(#glow)"/>
-  <g class="mono" font-size="12" text-anchor="middle">
-    <g transform="translate(150 0)"><circle cy="60" r="8" fill="#38BDF8" class="pulse"/><text y="28" fill="#E2E8F0">BACKEND</text><text y="96" fill="#64748B">Java • Spring</text></g>
-    <g transform="translate(330 0)"><circle cy="60" r="8" fill="#60A5FA" class="pulse" style="animation-delay:.35s"/><text y="28" fill="#E2E8F0">DISTRIBUTED</text><text y="96" fill="#64748B">Redis • RabbitMQ</text></g>
-    <g transform="translate(510 0)"><circle cy="60" r="8" fill="#818CF8" class="pulse" style="animation-delay:.7s"/><text y="28" fill="#E2E8F0">CLOUD</text><text y="96" fill="#64748B">Docker • K8s • AWS</text></g>
-    <g transform="translate(690 0)"><circle cy="60" r="8" fill="#A78BFA" class="pulse" style="animation-delay:1.05s"/><text y="28" fill="#E2E8F0">OBSERVABILITY</text><text y="96" fill="#64748B">Prometheus • OTel</text></g>
-    <g transform="translate(870 0)"><circle cy="60" r="8" fill="#22D3EE" class="pulse" style="animation-delay:1.4s"/><text y="28" fill="#E2E8F0">IOT</text><text y="96" fill="#64748B">Arduino • ESP8266</text></g>
-    <g transform="translate(1050 0)"><circle cy="60" r="8" fill="#2DD4BF" class="pulse" style="animation-delay:1.75s"/><text y="28" fill="#E2E8F0">AI DIRECTION</text><text y="96" fill="#64748B">ML • Agents • RAG</text></g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="116" viewBox="0 0 1200 116" role="img" aria-labelledby="t d">
+<title id="t">Engineering focus areas</title>
+<desc id="d">Five grounded areas of study and project work: backend, security, applied AI, product engineering and delivery.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#081423"/><stop offset=".5" stop-color="#0C1F32"/><stop offset="1" stop-color="#081423"/></linearGradient></defs>
+<rect x=".5" y=".5" width="1199" height="115" rx="16" fill="url(#bg)" stroke="#2C4359"/>
+<text x="30" y="26" fill="#70CFFF" font-family="Consolas,Menlo,monospace" font-size="12" letter-spacing="1.8">AREAS OF PRACTICE</text>
+<path d="M30 37H1170" stroke="#31516A" opacity=".7"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<path d="M243 50V104M472 50V104M701 50V104M930 50V104" stroke="#30506A"/>
+<g fill="#EAF3FF" font-size="17" font-weight="700">
+<text x="32" y="70">Backend</text><text x="262" y="70">Security</text><text x="491" y="70">Applied AI</text><text x="720" y="70">Product</text><text x="949" y="70">Delivery</text>
+</g>
+<g fill="#94AEC9" font-family="Consolas,Menlo,monospace" font-size="12">
+<text x="32" y="94">Java / Spring</text><text x="262" y="94">Auth / threat models</text><text x="491" y="94">Python / runtime</text><text x="720" y="94">Web / IoT</text><text x="949" y="94">CI / observability</text>
+</g></g>
 </svg>
