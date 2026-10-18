@@ -42,6 +42,23 @@ jobs:
       - name: Add actual language percentages and refresh date
         run: python3 scripts/enhance_activity_cards.py
 
+      - name: Refresh README image URLs after chart generation
+        shell: python
+        run: |
+          from hashlib import sha256
+          from pathlib import Path
+          import re
+          path = Path('README.md')
+          html = path.read_text(encoding='utf-8')
+          base = 'https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/'
+          for name in ('0-profile-details.svg', '1-repos-per-language.svg', '3-stats.svg'):
+              url = base + name
+              regex = re.compile(re.escape(url) + r'(?:\?v=[A-Za-z0-9]+)?')
+              if len(regex.findall(html)) != 1:
+                  raise ValueError(f'Expected exactly one {name} image reference')
+              digest = sha256((Path('profile-summary-card-output/github_dark') / name).read_bytes()).hexdigest()[:12]
+              html = regex.sub(lambda _: f'{url}?v={digest}', html)
+          path.write_text(html, encoding='utf-8')
       - name: Validate regenerated cards
         shell: bash
         run: |
@@ -62,6 +79,7 @@ jobs:
         run: |
           set -euo pipefail
           git add -- \
+            README.md \
             profile-summary-card-output/github_dark/0-profile-details.svg \
             profile-summary-card-output/github_dark/1-repos-per-language.svg \
             profile-summary-card-output/github_dark/3-stats.svg
