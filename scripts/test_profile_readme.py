@@ -105,7 +105,7 @@ class ProfileReadmeTests(unittest.TestCase):
         self.assertNotIn("assets/technical-toolkit.svg", self.readme)
         self.assertIn("Original animated engineering practice strip", self.readme)
         self.assertIn("## 🧰 Technical Toolkit", self.readme)
-        self.assertIn("Technologies shown are tools I use, study or actively experiment with", self.readme)
+        self.assertIn("Technologies shown are tools used, studied or integrated in identifiable projects", self.readme)
         icon_groups = (
             "java,spring,python,fastapi,postgres,redis,rabbitmq,docker,kubernetes,linux",
             "nextjs,react,ts,js,nodejs,electron,flutter,dart,html,css",
