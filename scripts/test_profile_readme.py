@@ -48,6 +48,21 @@ class ProfileReadmeTests(unittest.TestCase):
             with self.subTest(project=project):
                 self.assertIn("https://github.com/teldigi5-wq/" + project, shortlist)
 
+    def test_recruiter_first_page_reveals_three_distinct_flagships(self):
+        selected = self.readme.split("### Featured engineering projects", 1)[1].split("### Other projects worth inspecting", 1)[0]
+        names = ("aetheris-platform", "floodguard-whatsapp-bot", "averis-ai")
+        positions = [selected.index("https://github.com/teldigi5-wq/" + name) for name in names]
+        self.assertEqual(positions, sorted(positions))
+        for label in ("Problem:", "Built:", "Evidence:", "validation pending", "currently offline", "Beta"):
+            with self.subTest(label=label):
+                self.assertIn(label, selected)
+        self.assertIn("### Other projects worth inspecting", self.readme)
+        # Preserve the existing animated banners, icon rows and scheduled SVG statistics.
+        self.assertIn("assets/poojana-systems-3d-animated.svg", self.readme)
+        self.assertIn("assets/engineering-pulse.svg", self.readme)
+        self.assertIn("skillicons.dev/icons?", self.readme)
+        self.assertIn("profile-summary-card-output/github_dark/3-stats.svg", self.readme)
+
     def test_presentation_does_not_claim_maturity_not_earned(self):
         self.assertIn("Pre-production", self.readme)
         self.assertIn("currently offline", self.readme)
