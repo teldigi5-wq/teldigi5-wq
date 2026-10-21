@@ -154,6 +154,23 @@ I prefer **inspectable code and reproducible checks** over unsupported performan
 
 ---
 
+## 🐍 Contributions in Motion
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving through the actual public GitHub contribution graph for teldigi5-wq" />
+</picture>
+
+<sub>Generated from public contribution activity. [See the scheduled SVG workflow](https://github.com/teldigi5-wq/teldigi5-wq/actions/workflows/contribution-snake.yml). SVG animation may be static in reduced-motion environments.</sub>
+
+</div>
+
+---
+
+
 ## 🎓 Education & Next Step
 
 **Sri Lanka Institute of Information Technology (SLIIT)** — BSc (Hons) in Information Technology, undergraduate. Interested in future specialization in **Artificial Intelligence**.

@@ -162,6 +162,23 @@ class ProfileReadmeTests(unittest.TestCase):
                 self.assertEqual(len(pattern.findall(self.readme)), 1)
         self.assertIn("actions/workflows/profile-activity.yml", self.readme)
 
+    def test_contribution_snake_links_are_real_dark_light_output_assets(self):
+        start = self.readme.index("## 🐍 Contributions in Motion")
+        section = self.readme[start:self.readme.index("## 🎓 Education & Next Step", start)]
+        output = "https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/output/"
+        self.assertIn("<picture>", section)
+        self.assertIn('media="(prefers-color-scheme: dark)"', section)
+        self.assertIn('media="(prefers-color-scheme: light)"', section)
+        for filename in ("github-contribution-grid-snake-dark.svg", "github-contribution-grid-snake.svg"):
+            self.assertIn(output + filename, section)
+        self.assertIn('alt="Animated snake moving through the actual public GitHub contribution graph', section)
+        self.assertIn("actions/workflows/contribution-snake.yml", section)
+        self.assertIn("## 📈 GitHub Activity", self.readme)
+        self.assertIn("profile-summary-card-output/github_dark/3-stats.svg", self.readme)
+        self.assertIn("assets/poojana-systems-3d-animated.svg", self.readme)
+        self.assertIn("assets/engineering-pulse.svg", self.readme)
+        self.assertIn("skillicons.dev/icons?", self.readme)
+
     def test_no_obvious_placeholder_links(self):
         self.assertNotIn("]()", self.readme)
         self.assertNotIn('href="#"', self.readme)
