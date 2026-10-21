@@ -140,6 +140,18 @@ class ProfileReadmeTests(unittest.TestCase):
             with self.subTest(anchor=anchor):
                 self.assertIn('href="' + anchor + '"', self.readme)
 
+    def test_snake_generator_is_pinned_and_not_pr_writable(self):
+        workflow = (ROOT / ".github/workflows/contribution-snake.yml").read_text(encoding="utf-8")
+        self.assertIn("github_user_name: teldigi5-wq", workflow)
+        self.assertIn("Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b", workflow)
+        self.assertIn("crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865", workflow)
+        self.assertIn("target_branch: output", workflow)
+        self.assertIn("keep_history: true", workflow)
+        self.assertIn("workflow_dispatch:", workflow)
+        self.assertNotIn("pull_request:", workflow)
+        self.assertIn("github-contribution-grid-snake-dark.svg", workflow)
+        self.assertIn("github-contribution-grid-snake.svg", workflow)
+
     def test_generated_chart_urls_are_cache_versioned(self):
         for name in CHARTS:
             pattern = re.compile(
