@@ -148,6 +148,8 @@ class ProfileReadmeTests(unittest.TestCase):
         self.assertIn("target_branch: output", workflow)
         self.assertIn("keep_history: true", workflow)
         self.assertIn("workflow_dispatch:", workflow)
+        self.assertIn("prefers-reduced-motion: reduce", workflow)
+        self.assertIn("animation:none!important", workflow)
         self.assertNotIn("pull_request:", workflow)
         self.assertIn("github-contribution-grid-snake-dark.svg", workflow)
         self.assertIn("github-contribution-grid-snake.svg", workflow)
