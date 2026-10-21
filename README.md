@@ -133,15 +133,21 @@ When reviewing my work, I recommend looking at **the implementation, the test bo
 **Backend & platform**  
 <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,redis,rabbitmq,docker,kubernetes,linux&theme=dark" alt="Backend and platform engineering stack" />
 
+<sub>Java · Spring Boot · Python · FastAPI · PostgreSQL · Redis · RabbitMQ · Docker · Kubernetes · Linux</sub>
+
 <br/><br/>
 
 **Product & application development**  
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,electron,flutter,dart,html,css&theme=dark" alt="Product and application development stack" />
 
+<sub>Next.js · React · TypeScript · JavaScript · Node.js · Electron · Flutter · Dart · HTML · CSS</sub>
+
 <br/><br/>
 
 **Cloud, data & embedded**  
 <img src="https://skillicons.dev/icons?i=aws,firebase,supabase,git,github,arduino,vite&theme=dark" alt="Cloud, data and embedded tools" />
+
+<sub>AWS · Firebase · Supabase · Git · GitHub Actions · Arduino/ESP8266 · Vite</sub>
 
 </div>
 
