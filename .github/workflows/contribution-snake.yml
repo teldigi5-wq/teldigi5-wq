@@ -34,6 +34,20 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#58D6EB
             dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#17809E
 
+      - name: Respect reduced-motion preferences
+        shell: python
+        run: |
+          from pathlib import Path
+          for file in (
+              Path("dist/github-contribution-grid-snake-dark.svg"),
+              Path("dist/github-contribution-grid-snake.svg"),
+          ):
+              source = file.read_text(encoding="utf-8")
+              if source.count("</style>") != 1 or "<svg " not in source:
+                  raise ValueError(f"Unexpected generated SVG structure: {file}")
+              rule = "@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}"
+              file.write_text(source.replace("</style>", rule + "</style>", 1), encoding="utf-8")
+
       - name: Check generated SVGs are present
         shell: bash
         run: |
@@ -41,6 +55,7 @@ jobs:
           for svg in dist/github-contribution-grid-snake-dark.svg dist/github-contribution-grid-snake.svg; do
             test -s "$svg"
             grep -q '<svg' "$svg"
+            grep -q 'prefers-reduced-motion: reduce' "$svg"
             test "$(wc -c < "$svg")" -lt 500000
           done
 
