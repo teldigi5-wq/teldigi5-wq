@@ -1,0 +1,56 @@
+name: Generate contribution snake SVGs
+
+on:
+  schedule:
+    # Rebuild from real public contributions twice daily; GitHub schedules are best-effort.
+    - cron: '11 4 * * *'
+    - cron: '41 16 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/contribution-snake.yml'
+
+# This job is never exposed to untrusted pull_request code.
+# Write is required only to publish generated SVGs to the separate output branch.
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-contribution-snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    name: Build and publish authentic contribution snake
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Build dark and light SVG animations from GitHub contributions
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3, pinned
+        with:
+          github_user_name: teldigi5-wq
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#58D6EB
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#17809E
+
+      - name: Check generated SVGs are present
+        shell: bash
+        run: |
+          set -euo pipefail
+          for svg in dist/github-contribution-grid-snake-dark.svg dist/github-contribution-grid-snake.svg; do
+            test -s "$svg"
+            grep -q '<svg' "$svg"
+            test "$(wc -c < "$svg")" -lt 500000
+          done
+
+      - name: Publish animations without force-push
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4, pinned
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+          jekyll: false
+          commit_message: 'chore: refresh public GitHub contribution snake'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
