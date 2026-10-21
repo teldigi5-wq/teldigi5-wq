@@ -39,90 +39,63 @@ I build software that is useful beyond the demo: clear service boundaries, secur
 </td>
 <td valign="top">
 
-**Hello, I'm Poojana.** I'm studying Information Technology at the Sri Lanka Institute of Information Technology (SLIIT), with a long-term interest in applied AI.
+**Hello, I'm Poojana.** I'm an Information Technology undergraduate at **SLIIT, Sri Lanka**, interested in backend/platform engineering, applied AI and secure applications.
 
-My work crosses **Java/Spring backend services, Python-based analysis, authentication, distributed-system foundations, web applications and IoT**. I'm most interested in how a feature behaves when its input is invalid, a dependency fails or a user needs to understand the result.
+I build and study systems across **Java/Spring services, Python analysis, web applications and IoT**. I care about clear trust boundaries, understandable failures, reproducible tests and interfaces people can use.
 
-I focus on readable architecture, tests, practical security and honest descriptions of what has actually been built.
-
-**Currently learning:** Java and data structures &amp; algorithms · system design · distributed services · Python/AI foundations.
+**Open to software, backend and platform engineering internships.** Currently learning Java, data structures and algorithms, system design and Python/AI foundations.
 
 </td>
 </tr>
 </table>
 
-## ⚡ At a glance
-
-| What I work on | Where to inspect the evidence |
-| --- | --- |
-| **Backend & distributed services** | [Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform): gateway, identity, user/audit services, PostgreSQL, Redis and RabbitMQ |
-| **Security engineering** | [Sentinel](https://github.com/teldigi5-wq/sentinel-security-platform): signed event ingestion, replay checks, deterministic alerts and a documented threat model |
-| **Applied AI & analysis** | [Averis](https://github.com/teldigi5-wq/averis-ai): evidence-first document matching; [Aetheris Runtime](https://github.com/teldigi5-wq/aetheris-ai-runtime): orchestration research |
-| **End-to-end products** | [FinalForge](https://github.com/teldigi5-wq/finalforge): verified student access and recoverable assessments; [Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel): browser-first travel planning |
-| **Connected systems** | [FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot): Arduino/ESP8266 sensing, Firebase telemetry and notification workflows |
-
 ---
 
 ## 🔭 Currently Building
 
-Projects are ordered by engineering discipline, not by claimed scale. The linked repositories describe their current maturity and what remains unfinished.
+### Featured engineering projects
 
-| Project | Engineering focus &amp; current boundary |
+Three different engineering problems, with links to implementation and validation. **Status describes maturity, not a certification.**
+
+| Project & status | Problem, implementation & evidence |
 | --- | --- |
-| **[Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform)** | Java 21 / Spring Boot microservice foundations: identity, gateway, messaging, resilience and observability. Physical-machine validation remains pending. |
-| **[Sentinel Security Platform](https://github.com/teldigi5-wq/sentinel-security-platform)** | **Pre-production local security lab:** HMAC-signed telemetry, replay resistance, deterministic detection and incident evidence. Not live endpoint protection or a commercial SOC. |
-| **[Averis](https://github.com/teldigi5-wq/averis-ai)** | Document-ingestion and similarity-analysis beta with Supabase Auth/RLS. Matching passages are review evidence, not plagiarism or AI-authorship verdicts. |
-| **[FinalForge](https://github.com/teldigi5-wq/finalforge)** | Student learning platform with allowlisted academic identities, mailbox verification, mock exams and saved progress. |
-| **[FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)** | Hardware-to-cloud water-level monitoring and alert prototype. Previously hosted WhatsApp bot is currently offline; no field-accuracy or emergency-response guarantee. |
-| **[Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel)** | Worldwide trip planning with browser-based rule-driven assistants. Optional search/AI providers are credential gated; no confirmed booking inventory. |
-| **[Aetheris AI Runtime](https://github.com/teldigi5-wq/aetheris-ai-runtime)** | Separately owned Python orchestration/reasoning runtime research, linked to the platform through explicit contracts. Physical-PC runtime testing pending. |
+| **[Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform)** · **Research / validation pending** | **Problem:** coordinating identity, services and AI-system boundaries. **Built:** Java 21 / Spring Boot foundations for gateway, identity, messaging, persistence and observability. **Evidence:** [architecture decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md), [verification checklist](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/verification-checklist.md), [CI](https://github.com/teldigi5-wq/aetheris-platform/actions). **Physical-machine validation remains pending.** |
+| **[FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)** · **Hardware/cloud prototype; notifications offline** | **Problem:** observe water-level changes and surface alerts. **Built:** Arduino/ESP8266 sensing, Firebase telemetry and a notification workflow. **Evidence:** [alert source](https://github.com/teldigi5-wq/floodguard-whatsapp-bot), [website source](https://github.com/teldigi5-wq/floodguard-website), [CI](https://github.com/teldigi5-wq/floodguard-whatsapp-bot/actions). The previously hosted bot is **currently offline**; this is **not** a certified emergency-warning system. |
+| **[Averis AI](https://github.com/teldigi5-wq/averis-ai)** · **Beta / runtime verification required** | **Problem:** make document similarity reviewable rather than accusatory. **Built:** FastAPI ingestion, deterministic document comparisons and Supabase-based private scan history. **Evidence:** [architecture](https://github.com/teldigi5-wq/averis-ai/blob/main/docs/ARCHITECTURE.md), [source](https://github.com/teldigi5-wq/averis-ai), [CI](https://github.com/teldigi5-wq/averis-ai/actions). Similarity evidence is **not plagiarism or AI-authorship proof**. |
 
-### A closer look — four engineering stories
+### Other projects worth inspecting
 
-**01 / Distributed backend — [Aetheris Platform](https://github.com/teldigi5-wq/aetheris-platform)**  
-API gateway, identity, persistence and audit messaging, with deployment and telemetry assets. The platform/runtime ownership boundary is explicit rather than duplicating one runtime across repositories.  
-[Architecture decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) · [Verification checklist](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/verification-checklist.md) · [CI](https://github.com/teldigi5-wq/aetheris-platform/actions)
+| Project | What it demonstrates | Current boundary |
+| --- | --- | --- |
+| **[Sentinel Security Platform](https://github.com/teldigi5-wq/sentinel-security-platform)** | HMAC-signed event ingestion, replay defenses, deterministic alerts and security tests | **Pre-production local lab**; not commercial endpoint protection |
+| **[FinalForge](https://github.com/teldigi5-wq/finalforge)** | Student allowlist, email verification, assessments and progress tracking | Source checks pass in selected areas; production Firebase policies require independent verification |
+| **[Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel)** | Browser-first travel discovery, itinerary composition and optional provider integrations | Experimental integrations; **no confirmed booking inventory** |
+| **[Aetheris AI Runtime](https://github.com/teldigi5-wq/aetheris-ai-runtime)** | Separate Python orchestration research behind explicit contracts | Hardware-backed runtime integration still requires validation |
 
-**02 / Defensive engineering — [Sentinel](https://github.com/teldigi5-wq/sentinel-security-platform)**  
-Authenticated security-event ingestion, deterministic detection and evidence-linked alerts in a local-first research implementation. Defensive automation, live sensor integrations and AI investigations are future work.  
-[Architecture](https://github.com/teldigi5-wq/sentinel-security-platform/blob/main/docs/ARCHITECTURE.md) · [Threat model](https://github.com/teldigi5-wq/sentinel-security-platform/blob/main/docs/THREAT_MODEL.md) · [CI](https://github.com/teldigi5-wq/sentinel-security-platform/actions)
+### A closer look — engineering evidence
 
-**03 / Trustworthy analysis — [Averis](https://github.com/teldigi5-wq/averis-ai)**  
-FastAPI document ingestion and deterministic similarity methods, with private student scan history and server-side beta credits. The application distinguishes evidence from accusations.  
-[Roadmap](https://github.com/teldigi5-wq/averis-ai/blob/main/docs/ROADMAP.md) · [Source](https://github.com/teldigi5-wq/averis-ai) · [CI](https://github.com/teldigi5-wq/averis-ai/actions)
+**Distributed backend — Aetheris:** explicit [architecture decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) and [verification checklist](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/verification-checklist.md). Platform and runtime are linked, but kept in separately owned repositories.
 
-**04 / Real-world signals — [FloodGuard](https://github.com/teldigi5-wq/floodguard-whatsapp-bot)**  
-Arduino and ESP8266 sensor data flows into Firebase telemetry and the previously hosted notification service. State transitions, stale data and sensor errors are essential design considerations.  
-[Source](https://github.com/teldigi5-wq/floodguard-whatsapp-bot) · [CI](https://github.com/teldigi5-wq/floodguard-whatsapp-bot/actions) · [Website repository](https://github.com/teldigi5-wq/floodguard-website)
+**Real-world signals — FloodGuard:** [Arduino/ESP8266-to-Firebase source](https://github.com/teldigi5-wq/floodguard-whatsapp-bot), [website](https://github.com/teldigi5-wq/floodguard-website) and [automated checks](https://github.com/teldigi5-wq/floodguard-whatsapp-bot/actions). Field accuracy and continuous availability are unverified.
 
-### Product & interface work
+**Reviewable analysis — Averis:** [architecture](https://github.com/teldigi5-wq/averis-ai/blob/main/docs/ARCHITECTURE.md), [upload security](https://github.com/teldigi5-wq/averis-ai/blob/main/docs/UPLOAD_SECURITY.md) and [test workflows](https://github.com/teldigi5-wq/averis-ai/actions). CI is not equivalent to live authorization proof.
 
-- **[Engineering portfolio](https://poojana-portfolio.vercel.app/)** — cinematic yet accessible project case studies, responsive typography, local GSAP and motion-preference fallbacks. [Source](https://github.com/teldigi5-wq/poojana-portfolio).
-- **[Wayfarer](https://wayfarer-world-travel.vercel.app/)** — travel discovery, itinerary planning and arrival workflows with sourced local data; optional integrations are not guaranteed live search or bookings. [Source](https://github.com/teldigi5-wq/wayfarer-world-travel).
-- **[AnyDL Pro Ultra](https://github.com/teldigi5-wq/anydl-pro-ultra)** — Electron/React desktop-media workflow using FFmpeg, yt-dlp and IPC. Applicable to authorized content only.
-- **[999 Lounge Wellawaya concept](https://999-lounge-wellawaya.vercel.app/)** — independently developed restaurant website prototype; **not an official venue endorsement**, and image/business approvals remain separate.
+**Product and interface work:** [portfolio](https://poojana-portfolio.vercel.app/) ([source](https://github.com/teldigi5-wq/poojana-portfolio)), [Wayfarer](https://wayfarer-world-travel.vercel.app/), [AnyDL Pro Ultra](https://github.com/teldigi5-wq/anydl-pro-ultra) (authorized media only) and the [999 Lounge concept](https://999-lounge-wellawaya.vercel.app/) (independent concept, not an official endorsement).
 
 ---
 
 ## ✅ Engineering Evidence
 
-When reviewing my work, I recommend looking at **the implementation, the test boundary and the trade-offs**, not just the UI.
+I prefer **inspectable code and reproducible checks** over unsupported performance or maturity claims.
 
-| Practice | Evidence you can inspect |
+| Practice | Reviewable example |
 | --- | --- |
-| **Architecture & ownership** | [Aetheris decisions](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) · [Runtime repository](https://github.com/teldigi5-wq/aetheris-ai-runtime) |
-| **Security & threat modeling** | [Sentinel threat model](https://github.com/teldigi5-wq/sentinel-security-platform/blob/main/docs/THREAT_MODEL.md) · [Sentinel tests](https://github.com/teldigi5-wq/sentinel-security-platform/tree/main/backend/tests) |
-| **Automated checks** | [Aetheris CI](https://github.com/teldigi5-wq/aetheris-platform/actions) · [Averis CI](https://github.com/teldigi5-wq/averis-ai/actions) · [FinalForge CI](https://github.com/teldigi5-wq/finalforge/actions) |
-| **Product delivery** | [Portfolio source](https://github.com/teldigi5-wq/poojana-portfolio) · [FloodGuard alert layer](https://github.com/teldigi5-wq/floodguard-whatsapp-bot) |
-| **Honest limitations** | Each project distinguishes implemented code, CI coverage, inactive deployment, experimental work and future roadmap items. |
+| Architecture and decisions | [Aetheris architecture](https://github.com/teldigi5-wq/aetheris-platform/blob/main/docs/architecture-decisions.md) |
+| Threat modeling and security | [Sentinel threat model](https://github.com/teldigi5-wq/sentinel-security-platform/blob/main/docs/THREAT_MODEL.md) and [backend tests](https://github.com/teldigi5-wq/sentinel-security-platform/tree/main/backend/tests) |
+| Application testing | [Averis CI](https://github.com/teldigi5-wq/averis-ai/actions) · [FinalForge CI](https://github.com/teldigi5-wq/finalforge/actions) |
+| Delivery and UI | [Portfolio source](https://github.com/teldigi5-wq/poojana-portfolio) · [Wayfarer source](https://github.com/teldigi5-wq/wayfarer-world-travel) |
 
-### The engineering standards I work toward
-
-1. **Design for failure.** Invalid input and unavailable services should not silently become success.
-2. **Make trust boundaries explicit.** Authentication, authorization and private credentials are architecture decisions.
-3. **Automate evidence.** Prefer repeatable tests, reproducible setup and CI to unsupported capability claims.
-4. **Keep the interface usable.** Accessibility, responsive behaviour and performance matter as much as visual polish.
-5. **Document uncertainty.** A working prototype is not automatically a production-certified product.
+**Engineering approach:** design for failure · make trust boundaries explicit · automate evidence · keep interfaces accessible · document what's unverified.
 
 ---
 
