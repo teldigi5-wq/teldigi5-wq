@@ -129,7 +129,7 @@ I prefer **inspectable code and reproducible checks** over unsupported performan
 | Engineering area | Project-backed technologies |
 | --- | --- |
 | **Security & investigation** | `HMAC-SHA256` · `SQLite` · `JWT / RBAC` · `Threat modeling` — [Sentinel](https://github.com/teldigi5-wq/sentinel-security-platform) |
-| **Automation & desktop** | `Playwright` · `Electron` · `Python` · `FFmpeg` — [Media Browser Lab](https://github.com/teldigi5-wq/media-browser-lab) (experimental) and [AnyDL](https://github.com/teldigi5-wq/anydl-pro-ultra) |
+| **Automation & desktop** | `Electron` · `React` · `TypeScript` · `FFmpeg` — [AnyDL Pro Ultra](https://github.com/teldigi5-wq/anydl-pro-ultra) |
 | **Motion & frontend quality** | `GSAP / ScrollTrigger` · `Accessibility` · `GitHub Actions` — [Portfolio](https://github.com/teldigi5-wq/poojana-portfolio) |
 | **AI workflow research** | `n8n` · `Groq integration` · `SerpApi integration` — [Wayfarer](https://github.com/teldigi5-wq/wayfarer-world-travel); optional credential-gated integrations, not guaranteed live services |
 
