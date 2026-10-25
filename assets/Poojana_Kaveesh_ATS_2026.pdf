@@ -1,0 +1,129 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R /Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R] >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 4908 >>
+stream
+0.11 0.18 0.27 rg BT /F2 22 Tf 44 804.0 Td (POOJANA KAVEESH SELLAHEWA) Tj ET
+0.28 0.38 0.48 rg BT /F2 8.7 Tf 44 784.0 Td (SOFTWARE ENGINEERING UNDERGRADUATE  |  BACKEND ENGINEERING  |  SECURITY-AWARE SYSTEMS) Tj ET
+0.18 0.23 0.29 rg BT /F1 8.8 Tf 44 765.0 Td (Sri Lanka  |  teldigi5@gmail.com  |  github.com/teldigi5-wq) Tj ET
+0.18 0.23 0.29 rg BT /F1 8.8 Tf 44 752.0 Td (linkedin.com/in/poojana-kaveesh-3048b8387  |  poojana-portfolio.vercel.app) Tj ET
+0.11 0.24 0.38 rg BT /F2 10 Tf 44 729.0 Td (PROFESSIONAL SUMMARY) Tj ET
+0.80 0.84 0.87 RG 0.6 w 44 724.0 m 551 724.0 l S
+0.18 0.23 0.29 rg BT /F1 9.1 Tf 44 710.0 Td (BSc \(Hons\) Information Technology undergraduate at SLIIT developing Java/Spring Boot backend services,) Tj ET
+0.18 0.23 0.29 rg BT /F1 9.1 Tf 44 697.9 Td (security-focused applications and connected IoT systems. Seeking a software engineering or backend) Tj ET
+0.18 0.23 0.29 rg BT /F1 9.1 Tf 44 685.8 Td (internship; focused on API design, access control, testability and maintainable delivery.) Tj ET
+0.11 0.24 0.38 rg BT /F2 10 Tf 44 666.7 Td (EDUCATION) Tj ET
+0.80 0.84 0.87 RG 0.6 w 44 661.7 m 551 661.7 l S
+0.18 0.23 0.29 rg BT /F1 9.1 Tf 44 647.7 Td (Sri Lanka Institute of Information Technology \(SLIIT\)  |  Faculty of Computing) Tj ET
+0.18 0.23 0.29 rg BT /F1 9.1 Tf 44 635.6 Td (BSc \(Hons\) in Information Technology  |  Undergraduate \(in progress\)) Tj ET
+0.11 0.24 0.38 rg BT /F2 10 Tf 44 616.5 Td (TECHNICAL SKILLS) Tj ET
+0.80 0.84 0.87 RG 0.6 w 44 611.5 m 551 611.5 l S
+0.18 0.23 0.29 rg BT /F1 9.1 Tf 44 597.5 Td (Programming: Java 21, Python, JavaScript, TypeScript, C/C++) Tj ET
+0.18 0.23 0.29 rg BT /F1 9.1 Tf 44 585.4 Td (Backend & security: Spring Boot, REST APIs, JWT, RBAC, FastAPI) Tj ET
+0.18 0.23 0.29 rg BT /F1 9.1 Tf 44 573.3 Td (Data & messaging: PostgreSQL, MySQL, Redis, RabbitMQ, Firebase / Firestore) Tj ET
+0.18 0.23 0.29 rg BT /F1 9.1 Tf 44 561.2 Td (Engineering tools: Git, GitHub Actions, Docker, Postman, Linux, Vercel, Kubernetes/Helm foundations) Tj ET
+0.18 0.23 0.29 rg BT /F1 9.1 Tf 44 549.1 Td (Web & embedded: React, Next.js, Node.js, Arduino, ESP8266) Tj ET
+0.11 0.24 0.38 rg BT /F2 10 Tf 44 530.0 Td (FLAGSHIP PROJECT EXPERIENCE) Tj ET
+0.80 0.84 0.87 RG 0.6 w 44 525.0 m 551 525.0 l S
+0.13 0.23 0.37 rg BT /F2 9.3 Tf 44 511.0 Td (Aetheris Platform  |  Java 21 / Spring Boot / Redis / RabbitMQ) Tj ET
+0.18 0.23 0.29 rg BT /F1 8.8 Tf 44 498.0 Td (Built gateway and JWT identity workflows, relational persistence, caching and asynchronous audit messaging;) Tj ET
+0.18 0.23 0.29 rg BT /F1 8.8 Tf 44 485.9 Td (documented resilience, observability and platform-to-AI-runtime integration boundaries.) Tj ET
+0.13 0.23 0.37 rg BT /F2 9.3 Tf 44 468.8 Td (Sentinel Security Platform  |  Python / FastAPI / HMAC / SQLite) Tj ET
+0.18 0.23 0.29 rg BT /F1 8.8 Tf 44 455.8 Td (Implemented a pre-production security event pipeline with signed ingestion, replay checks, deterministic) Tj ET
+0.18 0.23 0.29 rg BT /F1 8.8 Tf 44 443.7 Td (detections and evidence-linked alerts. Local lab, not production protection.) Tj ET
+0.13 0.23 0.37 rg BT /F2 9.3 Tf 44 426.6 Td (FloodGuard  |  Arduino / ESP8266 / Firebase / Next.js) Tj ET
+0.18 0.23 0.29 rg BT /F1 8.8 Tf 44 413.6 Td (Collaborated on a university IoT prototype joining ultrasonic sensing, local warning states, telemetry and a) Tj ET
+0.18 0.23 0.29 rg BT /F1 8.8 Tf 44 401.5 Td (monitoring interface distinguishing live from last-recorded data.) Tj ET
+0.13 0.23 0.37 rg BT /F2 9.3 Tf 44 384.4 Td (FinalForge  |  JavaScript / Firebase Auth / Firestore) Tj ET
+0.18 0.23 0.29 rg BT /F1 8.8 Tf 44 371.4 Td (Built student-ID access allowlisting, institutional email verification, protected administration and) Tj ET
+0.18 0.23 0.29 rg BT /F1 8.8 Tf 44 359.3 Td (resumable mock-exam practice for students.) Tj ET
+0.11 0.24 0.38 rg BT /F2 10 Tf 44 339.2 Td (ADDITIONAL FLAGSHIP PROJECTS) Tj ET
+0.80 0.84 0.87 RG 0.6 w 44 334.2 m 551 334.2 l S
+0.13 0.23 0.37 rg BT /F2 8.9 Tf 44 320.2 Td (Syntra / Aetheris Runtime) Tj ET
+0.18 0.23 0.29 rg BT /F1 8.55 Tf 164 320.2 Td (Governed orchestration and reasoning foundations; hardware validation pending.) Tj ET
+0.13 0.23 0.37 rg BT /F2 8.9 Tf 44 307.2 Td (BoundaryLab) Tj ET
+0.18 0.23 0.29 rg BT /F1 8.55 Tf 120.8 307.2 Td (Pre-release Firestore authorization testing with local emulator evidence.) Tj ET
+0.13 0.23 0.37 rg BT /F2 8.9 Tf 44 294.2 Td (Averis) Tj ET
+0.18 0.23 0.29 rg BT /F1 8.55 Tf 91.8 294.2 Td (Document ingestion and reproducible similarity-evidence analysis.) Tj ET
+0.13 0.23 0.37 rg BT /F2 8.9 Tf 44 281.2 Td (Wayfarer) Tj ET
+0.18 0.23 0.29 rg BT /F1 8.55 Tf 103.4 281.2 Td (Travel discovery and itineraries with gated optional AI/provider integrations.) Tj ET
+0.12 0.22 0.35 RG 0.4 w 44 44 m 551 44 l S
+0.42 0.46 0.52 rg BT /F1 7.3 Tf 44 31.0 Td (Project links open source repositories; implementation maturity is documented in each README.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Annot /Subtype /Link /Rect [183.0 763.0 329.0 776.0] /Border [0 0 0] /A << /S /URI /URI (mailto:teldigi5@gmail.com) >> >>
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /Link /Rect [338.0 763.0 550.0 776.0] /Border [0 0 0] /A << /S /URI /URI (https://github.com/teldigi5-wq) >> >>
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44.0 750.0 296.0 763.0] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/poojana-kaveesh-3048b8387) >> >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [305.0 750.0 530.0 763.0] /Border [0 0 0] /A << /S /URI /URI (https://poojana-portfolio.vercel.app/) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44.0 509.0 146.0 523.0] /Border [0 0 0] /A << /S /URI /URI (https://github.com/teldigi5-wq/aetheris-platform) >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44.0 466.8 200.0 480.8] /Border [0 0 0] /A << /S /URI /URI (https://github.com/teldigi5-wq/sentinel-security-platform) >> >>
+endobj
+13 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44.0 424.6 104.0 438.6] /Border [0 0 0] /A << /S /URI /URI (https://github.com/teldigi5-wq/floodguard-website) >> >>
+endobj
+14 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44.0 382.4 104.0 396.4] /Border [0 0 0] /A << /S /URI /URI (https://github.com/teldigi5-wq/finalforge) >> >>
+endobj
+15 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44.0 318.2 181.5 331.2] /Border [0 0 0] /A << /S /URI /URI (https://github.com/teldigi5-wq/aetheris-ai-runtime) >> >>
+endobj
+16 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44.0 305.2 104.5 318.2] /Border [0 0 0] /A << /S /URI /URI (https://github.com/teldigi5-wq/aetheris-boundarylab) >> >>
+endobj
+17 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44.0 292.2 77.0 305.2] /Border [0 0 0] /A << /S /URI /URI (https://github.com/teldigi5-wq/averis-ai) >> >>
+endobj
+18 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44.0 279.2 88.0 292.2] /Border [0 0 0] /A << /S /URI /URI (https://github.com/teldigi5-wq/wayfarer-world-travel) >> >>
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000348 00000 n 
+0000000445 00000 n 
+0000000547 00000 n 
+0000005506 00000 n 
+0000005653 00000 n 
+0000005805 00000 n 
+0000005979 00000 n 
+0000006139 00000 n 
+0000006309 00000 n 
+0000006488 00000 n 
+0000006659 00000 n 
+0000006822 00000 n 
+0000006994 00000 n 
+0000007167 00000 n 
+0000007328 00000 n 
+trailer
+<< /Size 19 /Root 1 0 R >>
+startxref
+7501
+%%EOF
