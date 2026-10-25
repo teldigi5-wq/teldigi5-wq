@@ -85,7 +85,7 @@ class ProfileReadmeTests(unittest.TestCase):
         self.assertTrue(root.tag.endswith("svg"))
 
     def test_recent_toolkit_technologies_have_project_links(self):
-        for skill in ("HMAC-SHA256", "SQLite", "Playwright", "GSAP / ScrollTrigger", "n8n"):
+        for skill in ("HMAC-SHA256", "SQLite", "GitHub Actions", "GSAP / ScrollTrigger", "n8n"):
             self.assertIn(skill, self.readme)
         self.assertIn("Some integrations are experimental or disabled in production", self.readme)
 
