@@ -10,7 +10,7 @@ I build software that is useful beyond the demo: clear service boundaries, secur
 
 <p>
 <a href="https://poojana-portfolio.vercel.app/"><img alt="Explore portfolio" src="https://img.shields.io/badge/VIEW%20PORTFOLIO-173B58?style=for-the-badge&amp;logo=vercel&amp;logoColor=EAF5FF" /></a>
-<a href="https://poojana-portfolio.vercel.app/assets/Poojana_Kaveesh_CV.pdf"><img alt="View curriculum vitae" src="https://img.shields.io/badge/RESUME%20%2F%20CV-173B58?style=for-the-badge&amp;logo=readme&amp;logoColor=EAF5FF" /></a>
+<a href="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/Poojana_Kaveesh_ATS_2026.pdf"><img alt="View curriculum vitae" src="https://img.shields.io/badge/RESUME%20%2F%20CV-173B58?style=for-the-badge&amp;logo=readme&amp;logoColor=EAF5FF" /></a>
 <a href="https://www.linkedin.com/in/poojana-kaveesh-3048b8387"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LINKEDIN-173B58?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EAF5FF" /></a>
 <a href="mailto:teldigi5@gmail.com"><img alt="Email Poojana" src="https://img.shields.io/badge/EMAIL%20ME-173B58?style=for-the-badge&amp;logo=gmail&amp;logoColor=EAF5FF" /></a>
 </p>
@@ -181,7 +181,7 @@ I prefer **inspectable code and reproducible checks** over unsupported performan
 
 ### Build · Test · Observe · Secure · Improve
 
-[**Portfolio**](https://poojana-portfolio.vercel.app/) &nbsp;·&nbsp; [**CV (PDF)**](https://poojana-portfolio.vercel.app/assets/Poojana_Kaveesh_CV.pdf) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/poojana-kaveesh-3048b8387) &nbsp;·&nbsp; [**Email**](mailto:teldigi5@gmail.com)
+[**Portfolio**](https://poojana-portfolio.vercel.app/) &nbsp;·&nbsp; [**CV (PDF)**](https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/Poojana_Kaveesh_ATS_2026.pdf) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/poojana-kaveesh-3048b8387) &nbsp;·&nbsp; [**Email**](mailto:teldigi5@gmail.com)
 
 <sub>Good engineering should be understandable, testable and useful to the people depending on it.</sub>
 
