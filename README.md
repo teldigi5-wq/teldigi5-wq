@@ -10,6 +10,7 @@ I build software that is useful beyond the demo: clear service boundaries, secur
 
 <p>
 <a href="https://poojana-portfolio.vercel.app/"><img alt="Explore portfolio" src="https://img.shields.io/badge/VIEW%20PORTFOLIO-173B58?style=for-the-badge&amp;logo=vercel&amp;logoColor=EAF5FF" /></a>
+<a href="https://boundarylab.vercel.app/"><img alt="Visit BoundaryLab startup website" src="https://img.shields.io/badge/BOUNDARYLAB%20STARTUP-173B58?style=for-the-badge&amp;logo=vercel&amp;logoColor=EAF5FF" /></a>
 <a href="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/assets/Poojana_Kaveesh_ATS_2026.pdf"><img alt="View curriculum vitae" src="https://img.shields.io/badge/RESUME%20%2F%20CV-173B58?style=for-the-badge&amp;logo=readme&amp;logoColor=EAF5FF" /></a>
 <a href="https://www.linkedin.com/in/poojana-kaveesh-3048b8387"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LINKEDIN-173B58?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EAF5FF" /></a>
 <a href="mailto:teldigi5@gmail.com"><img alt="Email Poojana" src="https://img.shields.io/badge/EMAIL%20ME-173B58?style=for-the-badge&amp;logo=gmail&amp;logoColor=EAF5FF" /></a>
@@ -48,6 +49,22 @@ I build and study systems across **Java/Spring services, Python analysis, web ap
 </td>
 </tr>
 </table>
+
+---
+
+## 🛡️ Startup — BoundaryLab by Aetheris
+
+**Founder & builder · Early-stage authorization security**
+
+I'm building **BoundaryLab** to help SaaS teams and small software agencies examine whether users and services can access only the data and actions they're authorized to use. The focus is **repeatable verification and reviewable evidence**, not unexplained security scores.
+
+- **Access boundaries:** anonymous access, account ownership, user-to-user and tenant isolation, and administrator privileges.
+- **Evidence-driven workflow:** declared allow/deny expectations, reproducible checks, clear results, and regression guidance.
+- **Built for:** developers and agencies that want to understand and retest authorization behaviour as applications evolve.
+
+**[Explore the BoundaryLab startup website](https://boundarylab.vercel.app/)**
+
+<sub>**Current status:** Pre-release engineering prototype. The public website describes the product direction; no claim of production readiness, complete vulnerability coverage, certification, or customer adoption is made.</sub>
 
 ---
 
