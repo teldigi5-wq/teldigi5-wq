@@ -52,6 +52,18 @@ I build and study systems across **Java/Spring services, Python analysis, web ap
 
 ---
 
+## 🌐 Open-Source Contribution
+
+**[OpenTelemetry Java Contrib — OpAMP WebSocket reconnect status reporting](https://github.com/open-telemetry/opentelemetry-java-contrib/pull/3195)** · **Merged November 3, 2026**
+
+Contributed to `opamp-client` so that an OpAMP status report is sent after each successful WebSocket connection, including reconnects with no pending state change. Added regression tests for report ordering and for closing a late-opening socket after shutdown.
+
+**Verification:** Reviewed and approved by upstream maintainers; the pull request passed its applicable GitHub CI checks, including multi-version Java testing on Linux and Windows.
+
+**Evidence:** [Merged PR #3195](https://github.com/open-telemetry/opentelemetry-java-contrib/pull/3195) · [Resolved issue #3188](https://github.com/open-telemetry/opentelemetry-java-contrib/issues/3188) · [Upstream merge commit `1ed09ae`](https://github.com/open-telemetry/opentelemetry-java-contrib/commit/1ed09ae3dd247fce152a8e06219deaf9468f484c)
+
+---
+
 ## 🛡️ Startup — BoundaryLab by Aetheris
 
 **Founder & builder · Early-stage authorization security**
@@ -111,6 +123,7 @@ I prefer **inspectable code and reproducible checks** over unsupported performan
 | Threat modeling and security | [Sentinel threat model](https://github.com/teldigi5-wq/sentinel-security-platform/blob/main/docs/THREAT_MODEL.md) and [backend tests](https://github.com/teldigi5-wq/sentinel-security-platform/tree/main/backend/tests) |
 | Application testing | [Averis CI](https://github.com/teldigi5-wq/averis-ai/actions) · [FinalForge CI](https://github.com/teldigi5-wq/finalforge/actions) |
 | Delivery and UI | [Portfolio source](https://github.com/teldigi5-wq/poojana-portfolio) · [Wayfarer source](https://github.com/teldigi5-wq/wayfarer-world-travel) |
+| Merged upstream open-source contribution | [OpenTelemetry Java Contrib — OpAMP WebSocket reconnect fix (PR #3195)](https://github.com/open-telemetry/opentelemetry-java-contrib/pull/3195) |
 
 **Engineering approach:** design for failure · make trust boundaries explicit · automate evidence · keep interfaces accessible · document what's unverified.
 
