@@ -216,3 +216,7 @@ I prefer **inspectable code and reproducible checks** over unsupported performan
 <sub>Good engineering should be understandable, testable and useful to the people depending on it.</sub>
 
 </div>
+
+## AI/developer continuation — 9 November 2026
+
+See the [source-aware handoff and next milestones](docs/AI_CONTINUATION_2026-11-09.md) before continuing this project. This is a documentation-only review branch; recheck current PR heads, CI and deployed state. No merge, new certification or production rollout is implied.
