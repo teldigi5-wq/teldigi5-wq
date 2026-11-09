@@ -37,3 +37,9 @@ Use existing GitHub free plans and open-source/local tooling when possible. Keep
 5. Private projects, their owners' checklists and internal links are intentionally *not included* in this public index; consult private repository documentation only through authorized access.
 
 **Scope:** This publicly shareable index does not include the private project handover bundle. Its contents are a dated snapshot, not an assertion of deployment or current security assurance.
+
+## Companion roadmap and milestones
+- [Continuation roadmap](AI_ROADMAP_2026-11-09.md)
+- [Evidence and milestone ledger](AI_MILESTONES_2026-11-09.md)
+
+These docs are only proposed in PR #21, without modifying historical branches or protected main.
