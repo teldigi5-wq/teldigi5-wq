@@ -216,3 +216,10 @@ I prefer **inspectable code and reproducible checks** over unsupported performan
 <sub>Good engineering should be understandable, testable and useful to the people depending on it.</sub>
 
 </div>
+
+
+---
+
+## AI/developer recovery checkpoint (9 November 2026)
+
+See [the source-pinned and privacy-safe continuation guide](docs/AI_HANDOFF_2026-11-09.md). This records `main` at `8456815b3113`; recheck the live branch and tests before work resumes. Documentation-only, not a production release or security certification.
