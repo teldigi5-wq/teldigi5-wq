@@ -216,3 +216,14 @@ I prefer **inspectable code and reproducible checks** over unsupported performan
 <sub>Good engineering should be understandable, testable and useful to the people depending on it.</sub>
 
 </div>
+
+## AI/developer continuation — 9 November 2026
+
+See the [source-aware handoff and next milestones](docs/AI_CONTINUATION_2026-11-09.md) before continuing this project. This is a documentation-only review branch; recheck current PR heads, CI and deployed state. No merge, new certification or production rollout is implied.
+
+## AI continuation documents — 9 November 2026
+- [Current public recovery handoff](docs/AI_CONTINUATION_2026-11-09.md)
+- [Roadmap and next milestones](docs/AI_ROADMAP_2026-11-09.md)
+- [Evidence checklist and milestone tracker](docs/AI_MILESTONES_2026-11-09.md)
+
+Review-only [PR #21](https://github.com/teldigi5-wq/teldigi5-wq/pull/21); existing source and feature/upstream branches unchanged.
