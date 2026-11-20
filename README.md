@@ -174,7 +174,7 @@ I prefer **inspectable code and reproducible checks** over unsupported performan
 <img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/3-stats.svg?v=67e1316e2a9a" alt="Automatically generated GitHub activity statistics" />
 <img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg?v=eb4ed97e5a57" alt="Top repository languages in the generated GitHub statistics card" />
 
-<img width="99%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/0-profile-details.svg?v=c14f40b04cf8" alt="Generated GitHub contribution history and account details" />
+<img width="99%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/0-profile-details.svg?v=8ec4289b0a8e" alt="Generated GitHub contribution history and account details" />
 
 <sub>These charts are generated from GitHub data by a scheduled workflow, not manually chosen numbers. Language percentages refer to the languages shown in the chart. GitHub image caching or scheduled workflow delays may affect freshness.</sub>
 
