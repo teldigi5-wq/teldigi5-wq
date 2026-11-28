@@ -171,10 +171,10 @@ I prefer **inspectable code and reproducible checks** over unsupported performan
 
 <div align="center">
 
-<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/3-stats.svg?v=6ded39ebf7e8" alt="Automatically generated GitHub activity statistics" />
+<img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/3-stats.svg?v=ec7854d407d0" alt="Automatically generated GitHub activity statistics" />
 <img width="49%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg?v=eb4ed97e5a57" alt="Top repository languages in the generated GitHub statistics card" />
 
-<img width="99%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/0-profile-details.svg?v=93aebe55a8c1" alt="Generated GitHub contribution history and account details" />
+<img width="99%" src="https://raw.githubusercontent.com/teldigi5-wq/teldigi5-wq/main/profile-summary-card-output/github_dark/0-profile-details.svg?v=9adac3717763" alt="Generated GitHub contribution history and account details" />
 
 <sub>These charts are generated from GitHub data by a scheduled workflow, not manually chosen numbers. Language percentages refer to the languages shown in the chart. GitHub image caching or scheduled workflow delays may affect freshness.</sub>
 
